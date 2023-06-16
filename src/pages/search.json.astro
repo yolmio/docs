@@ -1,0 +1,30 @@
+---
+import type { MarkdownInstance } from "astro";
+import { writeFileSync } from "fs";
+
+interface PostFrontMatter {
+  title: string;
+  date: string;
+  tags: string[];
+  draft?: boolean;
+}
+
+const allPosts: MarkdownInstance<PostFrontMatter>[] = await Astro.glob(
+  "./**/*.md"
+);
+const json = JSON.stringify(
+  allPosts.map((p) => {
+    const headings = p.getHeadings();
+    return {
+      title: p.frontmatter.title,
+      content: p.rawContent(),
+      slug: p.url,
+      headings,
+    };
+  }),
+  null,
+  2
+);
+
+writeFileSync("dist/search.index.json", json);
+---
