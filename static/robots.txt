@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: Googlebot
+Disallow: Bingbot
+Disallow: Baidubot
+Disallow: /

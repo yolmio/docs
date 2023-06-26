@@ -1,11 +1,7 @@
 {
-	"extends": "astro/tsconfigs/strict",
+	// This file is not used in compilation. It is here just for a nice editor experience.
+	"extends": "@tsconfig/docusaurus/tsconfig.json",
 	"compilerOptions": {
-		"resolveJsonModule": true,
-		"baseUrl": ".",
-		"paths": {
-			"@layouts/*": ["src/layouts/*"],
-			"@components/*": ["src/components/*"]
-		}
+	  "baseUrl": "."
 	}
-}
+  }
