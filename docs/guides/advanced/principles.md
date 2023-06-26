@@ -68,8 +68,6 @@ You don't need to integrate all of the libraries and tools, we've done this work
 
 Yolm's design makes it very easy to automate your work. Normal meta programming (code generation) uses code or configuration as input and code as output. Yolm uses models as both input and output. This makes meta programming a lot easier and you can thereby automate your work.
 
-See the [meta programming](./meta-programming) section for details.
-
 ## Get instant feedback
 
 Speed matters. Having developers or users wait makes for a bad experience. Yolm has been built with speed as a top priority, both application speed for application users as well as development speed for developers.

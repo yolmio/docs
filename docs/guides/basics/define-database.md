@@ -50,4 +50,4 @@ Common types are
 - Table (foreign key)
 - Enum
 
-For a full list of types and explanation, see [types](./data-types).
+For a full list of types and explanation, see [types](./basic-data-types.md).

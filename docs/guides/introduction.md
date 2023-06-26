@@ -40,8 +40,6 @@ As a result, you have to write far less code.
 
 ___End-to-end state management has finally become simple.___
 
-For more information, see the article [“Yolm - The SQL Everywhere Platform”](./sql_everywhere.md).
-
 ## Serverless
 
 You deploy an application using ```npm run deploy``` in seconds to Yolm's serverless platform. You don't need to configure or manage any servers.
