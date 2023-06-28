@@ -1,0 +1,18 @@
+name: Update Typesense Search Index
+on:
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: index
+        shell: bash
+        run: |
+          docker run \
+            -e TYPESENSE_API_KEY=${{ secrets.TYPESENSE_API_KEY }} \
+            -e TYPESENSE_HOST="${{ secrets.TYPESENSE_HOST }}" \
+            -e TYPESENSE_PORT="443" \
+            -e TYPESENSE_PROTOCOL="HTTPS" \
+            -e CONFIG="$(cat ${{ docsearch.config.json }} | jq -r tostring)" \
+            typesense/docsearch-scraper
