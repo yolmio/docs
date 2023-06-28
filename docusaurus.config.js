@@ -52,6 +52,28 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      typesense: {
+        // Replace this with the name of your index/collection.
+        // It should match the "index_name" entry in the scraper's "config.json" file.
+        typesenseCollectionName: 'yolmdocs',
+
+        typesenseServerConfig: {
+          nodes: [
+            {
+              host: 'yhoscgent1m2vifbp-1.a1.typesense.net',
+              port: 443,
+              protocol: 'https',
+            },
+          ],
+          apiKey: 'sBLHK9IZQxadoK1dT2WOrcD5FrnLpMve',
+        },
+
+        // Optional: Typesense search parameters: https://typesense.org/docs/0.24.0/api/search.html#search-parameters
+        typesenseSearchParameters: {},
+
+        // Optional
+        contextualSearch: true,
+      },
       metadata: [{
         name: 'keywords', content: 'Yolm, PWA, web application, web app, Low Code, SQL, PAAS'
       }],
