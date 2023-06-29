@@ -10,7 +10,7 @@ It's a unique name for our company and product.
 
 ## What is Yolm a good fit for?
 
-Interactive Full Stack Web Applications with login. This can range from simple internal tools, to CRMs, tracking application to enterprise wide applications.
+Yolm is an excellent fit from simple internal tools to complex enterprise web applications. Examples include Human Resource management, CRM, tracking applications or ERP.
 
 ## What is _not_ a good fit for?
 
@@ -27,11 +27,11 @@ It is a binary code format for executable programs. All major browsers support i
 
 ## Won't a database grow endlessly?
 
-Yes, unless you compact it. Yolm DB provides flexible, automated compaction, e.g. you can remove any deleted records older than 30 days to decrease the size of the transaction log, while keeping a backup of the transaction log before compaction. See [link] for more information.
+Yes, unless you compact it. Yolm DB provides flexible, automated compaction, e.g. you can remove any deleted records older than 30 days to decrease the size of the transaction log, while keeping a backup of the transaction log before compaction.
 
 ## Is it open source?
 
-Mostly no. Yolm is a for profit company. The application runtime and developer CLI (yolm) is closed source and is patent pending. Everything general purpose in Typescript that Yolm develops is available at https://github.com/yolm/boost with a MIT license.
+Yolm is a for profit company. The application runtime and developer CLI (yolm) is closed source and is patent pending. The BOOST library written in Typescript (40K lines of code) is available at https://github.com/yolm/boost with a MIT open source license. You can use BOOST as is, modify it or write your own components, themes or generators.
 
 **What operating systems can I develop Yolm applications on?**
 

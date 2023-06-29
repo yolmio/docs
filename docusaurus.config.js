@@ -31,7 +31,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  themes: ['docusaurus-theme-search-typesense'],
   presets: [
     [
       'classic',

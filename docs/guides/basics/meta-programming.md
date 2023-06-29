@@ -3,7 +3,7 @@ sidebar_position: 7
 title: "Meta Programming"
 ---
 
-We designed Yolm to make meta programming easy.
+We designed Yolm to make meta programming easy. Yolm programming IS meta programming.
 
 Meta programming is writing programs that write programs, or code that writes code.
 
