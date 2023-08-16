@@ -107,7 +107,7 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "referenceSidebar",
+            sidebarId: "conceptsSidebar",
             position: "left",
             label: "Concepts",
           },
@@ -198,20 +198,20 @@ const config = {
 
       // Plugin / TypeDoc options
       {
-        entryPoints: ["../boost/src/yom.ts"],
+        entryPoints: ["../boost/src/index.ts"],
         tsconfig: "../boost/tsconfig.json",
 
         excludePrivate: true,
-        readme: "./YOM_README.md",
+        readme: "./BOOST_README.md",
 
-        out: "reference/yom",
+        out: "reference/boost",
         sidebar: {
-          categoryLabel: "Yolm Object Model",
+          categoryLabel: "Boost",
         },
         frontmatter: {
           pagination_prev: null,
           pagination_next: null,
-          title: "Yolm Object Model",
+          title: "Boost",
         },
       },
     ],
