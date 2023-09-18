@@ -1,5 +1,5 @@
 ---
-title: "Date Functions"
+title: "Date Functions and Constants"
 ---
 
 
@@ -23,6 +23,13 @@ Date functions in SQL are used to manipulate and perform operations on date and 
 | [date.from_epoch()](#date_from_epoch_function)                               | Convert an epoch timestamp to a date or timestamp        |
 | [date.last_weekday()](#date_last_weekday_function)                           | Find the last weekday (e.g., Friday) before a date       |
 | [extract()](#extract_function)                                               | Extract a specific field from a date or timestamp        |
+| date.monday                                                                  | constant numeric day of week for monday                  |
+| date.tuesday                                                                 | constant numeric day of week for tuesday                 |
+| date.wednesday                                                               | constant numeric day of week for wednesday               |
+| date.thursday                                                                | constant numeric day of week for thursday                |
+| date.friday                                                                  | constant numeric day of week for friday                  |
+| date.saturday                                                                | constant numeric day of week for saturday                |
+| date.sunday                                                                  | constant numeric day of week for sunday                  |
 
 ### current_date() or today() {#today_function}
 
@@ -79,7 +86,7 @@ SELECT yesterday();
 Extracts a specific [date part](#date-part) (e.g., year, month, day) of a date or timestamp.
 
 - **Parameters:**
-  - `part` (part): The part to extract, look at [date part](#date-part) for all valid parts
+  - `part` ([date part](#date-part)): The part to extract, look at [date part](#date-part) for all valid parts
   - `date` (date, timestamp, time): The date, timestamp or time from which to extract the part.
 
 - **Return Type:** BigInt
@@ -95,7 +102,7 @@ select date.part(year, date '2023-09-17') -- 2023
 Adds a specified interval to a date or timestamp.
 
 - **Parameters:**
-  - `part` (part): Which part to use for the addition
+  - `part` ([date part](#date-part)): Which [date part](#date-part) to use for the addition
   - `amount` (int or bigint): How many of the part to add
   - `date` (date, time timestamp): The date, time or timestamp to which to add the interval.
 
@@ -112,9 +119,9 @@ select date.add(day, 5, date '2023-01-01') -- 2023-01-06
 Calculates the duration between two dates or timestamps.
 
 - **Parameters:**
-  - `part` (part): Which part to use to calculate the duration
-  - `start` (date or timestamp): The start date or timestamp.
-  - `end` (date or timestamp): The end date or timestamp.
+  - `part` ([date part](#date-part)): Which [date part](#date-part) to use to calculate the duration
+  - `start` (date, time or timestamp): The start date or timestamp.
+  - `end` (date, time or timestamp): The end date or timestamp.
 
 - **Return Type:** BigInt
 
@@ -130,149 +137,164 @@ Duration sees that a full year of time did not actually pass, and so returns 0. 
 **Example:**
 
 ```sql
-SELECT date.duration('2023-09-17', '2023-09-20');
+select date.duration(year, date '2001-03-09', date '2023-09-18') -- Returns 22
 ```
 
-### date.diff() {#date_diff_function}
+### date.diff(part, start, end) {#date_diff_function}
 
 Calculates the difference between two dates or timestamps.
 
 - **Parameters:**
-  - `start` (date or timestamp): The start date or timestamp.
-  - `end` (date or timestamp): The end date or timestamp.
+  - `part` ([date part](#date-part)): Which [date part](#date-part) to use to calculate the difference
+  - `start` (date, time or timestamp): The start date or timestamp.
+  - `end` (date, time or timestamp): The end date or timestamp.
 
 - **Return Type:** Numeric
 
-**Example:**
-
-```sql
-SELECT date.diff('2023-09-17', '2023-09-20');
-```
-
-### date.trunc() {#date_trunc_function}
-
-Truncates a date or timestamp to a specified precision (e.g., year, month, day).
-
-- **Parameters:**
-  - `precision` (string): The precision to which to truncate.
-  - `date` (date or timestamp): The date or timestamp to truncate.
-
-- **Return Type:** Date or Timestamp
+See [`date.duration`](#date_duration_function) for the difference between the two.
 
 **Example:**
 
 ```sql
-SELECT date.trunc('month', '2023-09-17');
+select date.diff(year, date '2015-03-09', date '2023-09-18') -- Returns 8
 ```
 
-### date.set_timezone() {#date_set_timezone_function}
+### date.trunc(part, date) {#date_trunc_function}
 
-Sets the time zone of a date or timestamp.
+Truncates a date or timestamp to a specified precision (e.g., year, month, day) specified as a [date part](#date-part).
 
 - **Parameters:**
-  - `timezone` (string): The time zone to set.
-  - `date` (date or timestamp): The date or timestamp for which to set the time zone.
+  - `part` ([date part](#date-part)): The [date part](#date-part) to which to truncate
+  - `date` (date, time or timestamp timestamp): The date or timestamp to truncate.
+
+- **Return Type:** Same as input `date` type
+
+**Example:**
+
+```sql
+select date.trunc(month, date '2023-09-17') -- Returns '2023-09-01'
+```
+
+### date.set_timezone(date, timezone) {#date_set_timezone_function}
+
+Sets the time zone of a date or timestamp in seconds of offset to UTC.
+
+- **Parameters:**
+  - `timezone` (int): The time zone offset in seconds to utc
+  - `date` (timestamp): The date or timestamp for which to set the time zone.
 
 - **Return Type:** Timestamp
 
 **Example:**
 
 ```sql
-SELECT date.set_timezone('UTC', '2023-09-17 12:00:00');
+select date.set_timezone(timestamp '2023-09-17T14:30:45+00:00', -10800) -- 2023-09-17T14:30:45-03:00
 ```
 
-### date.new_time() {#date_new_time_function}
+### date.new_time(hour, minute, second) {#date_new_time_function}
 
-Creates a new timestamp with the specified time.
+Creates a new time with the specified hours, minutes, seconds.
 
 - **Parameters:**
-  - `time` (time): The time to set.
-  - `date` (date or timestamp): The date or timestamp to which to add the time.
+    - `hour` (0-23): what hour in the time
+    - `minute` (0-59): what minute in the time
+    - `second` (0-59): what second in the time
 
-- **Return Type:** Timestamp
+- **Return Type:** Time
 
 **Example:**
 
 ```sql
-SELECT date.new_time('08:30:00', '2023-09-17');
+select date.new_time(23, 59, 59) -- 23:59:59
 ```
 
-### date.new_date() {#date_new_date_function}
+### date.new_date(year, month, day) {#date_new_date_function}
 
-Creates a new date with the specified date.
+Creates a new date with the specified year, month and date
 
 - **Parameters:**
-  - `new_date` (date): The date to set.
+    - `year` (0-23): what year in the date
+    - `month` (1-12): what month in the year date
+    - `day` (0-59): what day in the month for the date
 
 - **Return Type:** Date
 
 **Example:**
 
 ```sql
-SELECT date.new_date('2023-09-18');
+select date.new_date(2021, 12, 31) -- 2021-12-31
 ```
 
-### date.new_timestamp() {#date_new_timestamp_function}
+### date.new_timestamp(year, month, day, hour, minute, second) {#date_new_timestamp_function}
 
-Creates a new timestamp with the specified date and time.
+Creates a new timestamp with the specified date and time and in the current timezone
 
 - **Parameters:**
-  - `new_timestamp` (timestamp): The timestamp to set.
+    - `year` (0-23): what year in the timestamp
+    - `month` (1-12): what month in the year timestamp
+    - `day` (0-59): what day in the month for the timestamp
+    - `hour` (0-23): what hour in the timestamp
+    - `minute` (0-59): what minute in the timestamp
+    - `second` (0-59): what second in the timestamp
 
 - **Return Type:** Timestamp
 
 **Example:**
 
 ```sql
-SELECT date.new_timestamp('2023-09-18 08:30:00');
+select date.new_timestamp(2021, 12, 31, 23, 59, 59) -- returns 2021-12-31T23:59:59+00:00 (if you are in utc timezone)
 ```
 
-### date.from_epoch() {#date_from_epoch_function}
+### date.from_epoch(epoch) {#date_from_epoch_function}
 
 Converts an epoch timestamp (seconds since January 1, 1970) to a date or timestamp.
 
 - **Parameters:**
-  - `epoch_timestamp` (numeric): The epoch timestamp to convert.
+  - `epoch_timestamp` (bigint): The epoch timestamp to convert.
 
-- **Return Type:** Date or Timestamp
+- **Return Type:** Timestamp
 
 **Example:**
 
 ```sql
-SELECT date.from_epoch(1631906400);
+select date.from_epoch(1631906400) -- 2021-09-17T19:20:00+00:00
 ```
 
-### date.last_weekday() {#
+### date.last_weekday(date, weekday) {#date_last_weekday_function}
 
-date_last_weekday_function}
-
-Finds the last weekday (e.g., Friday) before a date.
+Finds the last of a weekday (e.g., Friday) before a date.
 
 - **Parameters:**
-  - `weekday` (string): The weekday to find.
+  - `date` (date): The date to find before
+  - `weekday` (1-7): The weekday to find. (you should use date constants for weekdays e.g. `date.monday`)
 
 - **Return Type:** Date
 
+The reason this is actually useful is you might want weekly reports starting on some arbitrary date, so this ends up being very handy.
+
 **Example:**
 
 ```sql
-SELECT date.last_weekday('Friday', '2023-09-17');
+select date.last_weekday(date '2023-09-18', date.monday) -- 2023-09-11
+select date.last_weekday(date '2023-09-18', date.sunday) -- 2023-09-17
 ```
 
-### extract {#extract_function}
+### extract(part from date) {#extract_function}
 
 Extracts a specific field (e.g., year, month, day) from a date or timestamp.
 
-- **Parameters:**
-  - `field` (string): The field to extract.
-  - `date` (date or timestamp): The date or timestamp from which to extract the field.
+This is equivelant to [`date.part`](#date_part_function), but this is part of the sql standard and will work in other databases.
 
-- **Return Type:** Numeric
+- **Parameters:**
+  - `part` ([date part](#date-part)): The field to extract.
+  - `date` (date, time or timestamp): The date or timestamp from which to extract the field.
+
+- **Return Type:** Bigint
 
 **Example:**
 
 ```sql
-SELECT extract('year' FROM '2023-09-17');
+SELECT extract(year FROM '2023-09-17') -- 2023
 ```
 
 ### Date Part
