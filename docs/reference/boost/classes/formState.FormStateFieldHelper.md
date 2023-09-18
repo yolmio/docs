@@ -24,7 +24,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:374](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L374)
+[src/formState.ts:374](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L374)
 
 ## Accessors
 
@@ -38,7 +38,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:389](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L389)
+[src/formState.ts:389](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L389)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:393](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L393)
+[src/formState.ts:393](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L393)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:405](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L405)
+[src/formState.ts:405](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L405)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:379](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L379)
+[src/formState.ts:379](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L379)
 
 ## Methods
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:397](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L397)
+[src/formState.ts:397](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L397)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:409](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L409)
+[src/formState.ts:409](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L409)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:383](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L383)
+[src/formState.ts:383](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L383)

@@ -1,0 +1,26 @@
+---
+title: "Math Functions"
+---
+
+- abs
+- ceil
+- floor
+- trunc
+- exp
+- ln
+- log10
+- sqrt
+- log
+- power
+- round
+- factorial
+- pi
+- radians
+- degrees
+- cbrt
+- acos
+- asin
+- atan
+- cos
+- sin
+- tan

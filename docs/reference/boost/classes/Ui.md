@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:219](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L219)
+[src/app.ts:225](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L225)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:220](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L220)
+[src/app.ts:226](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L226)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:222](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L222)
+[src/app.ts:228](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L228)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:221](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L221)
+[src/app.ts:227](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L227)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:213](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L213)
+[src/app.ts:219](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L219)
 
 ## Methods
 
@@ -96,19 +96,20 @@ ___
 
 #### Defined in
 
-[src/app.ts:232](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L232)
+[src/app.ts:238](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L238)
 
 ___
 
 ### addDatagridPage
 
-▸ **addDatagridPage**(`opts`): `void`
+▸ **addDatagridPage**(`table`, `f`): `void`
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | `DatagridPageOpts` |
+| `table` | `string` |
+| `f` | (`f`: `DatagridPageBuilder`) => `unknown` |
 
 #### Returns
 
@@ -116,7 +117,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:269](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L269)
+[src/app.ts:278](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L278)
 
 ___
 
@@ -136,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:236](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L236)
+[src/app.ts:242](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L242)
 
 ___
 
@@ -156,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:240](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L240)
+[src/app.ts:246](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L246)
 
 ___
 
@@ -176,7 +177,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:248](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L248)
+[src/app.ts:254](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L254)
 
 ___
 
@@ -197,19 +198,20 @@ ___
 
 #### Defined in
 
-[src/app.ts:252](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L252)
+[src/app.ts:258](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L258)
 
 ___
 
 ### addSimpleDatagridPage
 
-▸ **addSimpleDatagridPage**(`opts`): `void`
+▸ **addSimpleDatagridPage**(`table`, `f`): `void`
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | `DatagridPageOpts` |
+| `table` | `string` |
+| `f` | (`f`: `SimpleDatagridPageBuilder`) => `unknown` |
 
 #### Returns
 
@@ -217,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:265](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L265)
+[src/app.ts:271](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L271)
 
 ___
 
@@ -237,7 +239,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:259](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L259)
+[src/app.ts:265](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L265)
 
 ___
 
@@ -257,7 +259,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:244](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L244)
+[src/app.ts:250](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L250)
 
 ___
 
@@ -277,4 +279,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:228](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L228)
+[src/app.ts:234](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L234)

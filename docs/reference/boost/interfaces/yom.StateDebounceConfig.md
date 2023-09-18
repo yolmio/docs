@@ -19,7 +19,7 @@ boolean, defaults to false
 
 #### Defined in
 
-[src/yom.ts:1597](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1597)
+[src/yom.ts:1627](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1627)
 
 ___
 
@@ -31,7 +31,7 @@ positive integer of miliseconds of delay
 
 #### Defined in
 
-[src/yom.ts:1595](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1595)
+[src/yom.ts:1625](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1625)
 
 ___
 
@@ -43,7 +43,7 @@ boolean, defaults to false
 
 #### Defined in
 
-[src/yom.ts:1593](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1593)
+[src/yom.ts:1623](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1623)
 
 ___
 
@@ -55,7 +55,7 @@ boolean, defaults to true
 
 #### Defined in
 
-[src/yom.ts:1599](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1599)
+[src/yom.ts:1629](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1629)
 
 ___
 
@@ -67,4 +67,4 @@ positive integer of miliseconds of delay
 
 #### Defined in
 
-[src/yom.ts:1591](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1591)
+[src/yom.ts:1621](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1621)

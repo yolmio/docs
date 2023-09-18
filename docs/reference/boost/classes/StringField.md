@@ -34,7 +34,7 @@ FieldBase.constructor
 
 #### Defined in
 
-[src/app.ts:604](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L604)
+[src/app.ts:601](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L601)
 
 ## Properties
 
@@ -44,7 +44,7 @@ FieldBase.constructor
 
 #### Defined in
 
-[src/app.ts:600](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L600)
+[src/app.ts:597](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L597)
 
 ___
 
@@ -58,7 +58,7 @@ FieldBase.checks
 
 #### Defined in
 
-[src/app.ts:567](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L567)
+[src/app.ts:564](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L564)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:597](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L597)
+[src/app.ts:594](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L594)
 
 ___
 
@@ -82,7 +82,7 @@ FieldBase.default
 
 #### Defined in
 
-[src/app.ts:570](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L570)
+[src/app.ts:567](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L567)
 
 ___
 
@@ -96,7 +96,7 @@ FieldBase.description
 
 #### Defined in
 
-[src/app.ts:569](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L569)
+[src/app.ts:566](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L566)
 
 ___
 
@@ -110,7 +110,7 @@ FieldBase.displayName
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L575)
+[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
 
 ___
 
@@ -124,7 +124,7 @@ FieldBase.ext
 
 #### Defined in
 
-[src/app.ts:573](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L573)
+[src/app.ts:570](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L570)
 
 ___
 
@@ -138,7 +138,7 @@ FieldBase.group
 
 #### Defined in
 
-[src/app.ts:571](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L571)
+[src/app.ts:568](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L568)
 
 ___
 
@@ -152,7 +152,7 @@ FieldBase.indexed
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L572)
+[src/app.ts:569](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L569)
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:599](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L599)
+[src/app.ts:596](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L596)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:604](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L604)
+[src/app.ts:601](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L601)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:598](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L598)
+[src/app.ts:595](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L595)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:601](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L601)
+[src/app.ts:598](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L598)
 
 ___
 
@@ -206,7 +206,7 @@ FieldBase.name
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L575)
+[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
 
 ___
 
@@ -220,7 +220,7 @@ FieldBase.notNull
 
 #### Defined in
 
-[src/app.ts:566](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L566)
+[src/app.ts:563](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L563)
 
 ___
 
@@ -234,7 +234,7 @@ FieldBase.renameFrom
 
 #### Defined in
 
-[src/app.ts:565](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L565)
+[src/app.ts:562](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L562)
 
 ___
 
@@ -244,7 +244,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:596](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L596)
+[src/app.ts:593](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L593)
 
 ___
 
@@ -258,7 +258,7 @@ FieldBase.unique
 
 #### Defined in
 
-[src/app.ts:568](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L568)
+[src/app.ts:565](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L565)
 
 ___
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:602](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L602)
+[src/app.ts:599](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L599)
 
 ## Accessors
 
@@ -288,7 +288,7 @@ FieldBase.identName
 
 #### Defined in
 
-[src/app.ts:578](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L578)
+[src/app.ts:575](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L575)
 
 ## Methods
 
@@ -306,7 +306,7 @@ FieldBase.isInteger
 
 #### Defined in
 
-[src/app.ts:582](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L582)
+[src/app.ts:579](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L579)
 
 ___
 
@@ -324,7 +324,7 @@ FieldBase.isNumeric
 
 #### Defined in
 
-[src/app.ts:585](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L585)
+[src/app.ts:582](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L582)
 
 ___
 
@@ -342,4 +342,4 @@ FieldBase.isVariablePrecision
 
 #### Defined in
 
-[src/app.ts:588](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L588)
+[src/app.ts:585](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L585)

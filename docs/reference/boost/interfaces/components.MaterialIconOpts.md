@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/materialIcon.ts:10](https://github.com/yolmio/boost/blob/b239488/src/components/materialIcon.ts#L10)
+[src/components/materialIcon.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/components/materialIcon.ts#L10)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/components/materialIcon.ts:11](https://github.com/yolmio/boost/blob/b239488/src/components/materialIcon.ts#L11)
+[src/components/materialIcon.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/components/materialIcon.ts#L11)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/components/materialIcon.ts:13](https://github.com/yolmio/boost/blob/b239488/src/components/materialIcon.ts#L13)
+[src/components/materialIcon.ts:13](https://github.com/yolmio/boost/blob/5cada48/src/components/materialIcon.ts#L13)
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[src/components/materialIcon.ts:12](https://github.com/yolmio/boost/blob/b239488/src/components/materialIcon.ts#L12)
+[src/components/materialIcon.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/components/materialIcon.ts#L12)

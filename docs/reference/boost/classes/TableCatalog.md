@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:1298](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1298)
+[src/app.ts:1279](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1279)
 
 ## Methods
 
@@ -46,7 +46,7 @@ Integrates with addressCard and addressesCards.
 
 #### Defined in
 
-[src/app.ts:1317](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1317)
+[src/app.ts:1298](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1298)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1386](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1386)
+[src/app.ts:1367](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1367)
 
 ___
 
@@ -83,7 +83,7 @@ system.
 
 #### Defined in
 
-[src/app.ts:1306](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1306)
+[src/app.ts:1287](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1287)
 
 ___
 
@@ -109,4 +109,4 @@ image_thumb: uuid
 
 #### Defined in
 
-[src/app.ts:1405](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1405)
+[src/app.ts:1386](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1386)

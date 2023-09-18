@@ -24,7 +24,7 @@ global_id: uuid (id of the user in yolm's authentication system)
 
 #### Defined in
 
-[src/yom.ts:2238](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2238)
+[src/yom.ts:2268](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2268)
 
 ___
 
@@ -42,7 +42,7 @@ notification_type: string (either "none" or "new_app" or "user")
 
 #### Defined in
 
-[src/yom.ts:2229](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2229)
+[src/yom.ts:2259](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2259)
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2219](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2219)
+[src/yom.ts:2249](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2249)

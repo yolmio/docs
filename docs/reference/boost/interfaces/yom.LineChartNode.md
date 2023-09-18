@@ -19,7 +19,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1669](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1669)
+[src/yom.ts:1699](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1699)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1660](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1660)
+[src/yom.ts:1690](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1690)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1661](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1661)
+[src/yom.ts:1691](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1691)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1678](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1678)
+[src/yom.ts:1708](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1708)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1658](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1658)
+[src/yom.ts:1688](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1688)
 
 ___
 
@@ -71,7 +71,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1680](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1680)
+[src/yom.ts:1710](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1710)
 
 ___
 
@@ -83,7 +83,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1675](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1675)
+[src/yom.ts:1705](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1705)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1656](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1656)
+[src/yom.ts:1686](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1686)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1659](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1659)
+[src/yom.ts:1689](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1689)
 
 ___
 
@@ -115,7 +115,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1673](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1673)
+[src/yom.ts:1703](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1703)
 
 ___
 
@@ -127,7 +127,7 @@ Height of foreignObject for point label, defaults to 48
 
 #### Defined in
 
-[src/yom.ts:1686](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1686)
+[src/yom.ts:1716](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1716)
 
 ___
 
@@ -139,7 +139,7 @@ Width of foreignObject for point label, defaults to 48
 
 #### Defined in
 
-[src/yom.ts:1688](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1688)
+[src/yom.ts:1718](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1718)
 
 ___
 
@@ -151,7 +151,7 @@ x offset of foreignObject for point label, defaults to 24
 
 #### Defined in
 
-[src/yom.ts:1690](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1690)
+[src/yom.ts:1720](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1720)
 
 ___
 
@@ -163,7 +163,7 @@ y offset of foreignObject for point label, defaults to 24
 
 #### Defined in
 
-[src/yom.ts:1692](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1692)
+[src/yom.ts:1722](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1722)
 
 ___
 
@@ -175,7 +175,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1677](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1677)
+[src/yom.ts:1707](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1707)
 
 ___
 
@@ -187,7 +187,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1682](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1682)
+[src/yom.ts:1712](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1712)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1657](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1657)
+[src/yom.ts:1687](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1687)
 
 ___
 
@@ -209,7 +209,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1667](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1667)
+[src/yom.ts:1697](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1697)
 
 ___
 
@@ -221,7 +221,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1671](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1671)
+[src/yom.ts:1701](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1701)
 
 ___
 
@@ -233,7 +233,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1663](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1663)
+[src/yom.ts:1693](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1693)
 
 ___
 
@@ -245,7 +245,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1665](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1665)
+[src/yom.ts:1695](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1695)
 
 ___
 
@@ -257,7 +257,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1684](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1684)
+[src/yom.ts:1714](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1714)
 
 ___
 
@@ -267,4 +267,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1655](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1655)
+[src/yom.ts:1685](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1685)

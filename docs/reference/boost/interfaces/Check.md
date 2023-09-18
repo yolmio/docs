@@ -30,7 +30,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:417](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L417)
+[src/app.ts:431](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L431)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:418](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L418)
+[src/app.ts:432](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L432)
 
 ___
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:416](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L416)
+[src/app.ts:430](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L430)

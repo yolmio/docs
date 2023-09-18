@@ -11,23 +11,23 @@ pagination_next: null
 
 ## Properties
 
+### condition
+
+• **condition**: [`SqlExpression`](../namespaces/yom.md#sqlexpression)
+
+#### Defined in
+
+[src/yom.ts:1640](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1640)
+
+___
+
 ### else
 
 • `Optional` **else**: [`Node`](../namespaces/yom.md#node)
 
 #### Defined in
 
-[src/yom.ts:1612](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1612)
-
-___
-
-### expr
-
-• **expr**: [`SqlExpression`](../namespaces/yom.md#sqlexpression)
-
-#### Defined in
-
-[src/yom.ts:1610](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1610)
+[src/yom.ts:1642](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1642)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1609](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1609)
+[src/yom.ts:1639](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1639)
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1611](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1611)
+[src/yom.ts:1641](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1641)

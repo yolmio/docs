@@ -23,7 +23,7 @@ the task is aborted when the parent task is aborted.
 
 #### Defined in
 
-[src/yom.ts:1230](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1230)
+[src/yom.ts:1242](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1242)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1231](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1231)
+[src/yom.ts:1243](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1243)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1232](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1232)
+[src/yom.ts:1244](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1244)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1229](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1229)
+[src/yom.ts:1241](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1241)

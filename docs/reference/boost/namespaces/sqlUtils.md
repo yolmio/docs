@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:18](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L18)
+[src/utils/sqlHelpers.ts:18](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L18)
 
 ## Functions
 
@@ -36,7 +36,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:3](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L3)
+[src/utils/sqlHelpers.ts:3](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L3)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:27](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L27)
+[src/utils/sqlHelpers.ts:27](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L27)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:20](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L20)
+[src/utils/sqlHelpers.ts:20](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L20)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:31](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L31)
+[src/utils/sqlHelpers.ts:31](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L31)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:14](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L14)
+[src/utils/sqlHelpers.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L14)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:41](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L41)
+[src/utils/sqlHelpers.ts:41](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L41)
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:63](https://github.com/yolmio/boost/blob/b239488/src/utils/sqlHelpers.ts#L63)
+[src/utils/sqlHelpers.ts:63](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L63)

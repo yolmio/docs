@@ -32,7 +32,7 @@ This indicates how to get a display name of any record of the table
 
 #### Defined in
 
-[src/app.ts:556](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L556)
+[src/app.ts:553](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L553)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:555](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L555)
+[src/app.ts:552](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L552)

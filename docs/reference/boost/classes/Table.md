@@ -24,7 +24,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:497](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L497)
+[src/app.ts:510](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L510)
 
 ## Properties
 
@@ -34,7 +34,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:493](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L493)
+[src/app.ts:506](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L506)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:483](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L483)
+[src/app.ts:496](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L496)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:488](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L488)
+[src/app.ts:501](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L501)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:490](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L490)
+[src/app.ts:503](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L503)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:500](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L500)
+[src/app.ts:513](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L513)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:489](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L489)
+[src/app.ts:502](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L502)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:495](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L495)
+[src/app.ts:508](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L508)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:481](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L481)
+[src/app.ts:494](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L494)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:479](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L479)
+[src/app.ts:493](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L493)
 
 ___
 
@@ -140,7 +140,7 @@ Return an expression which should be the href to the given id
 
 #### Defined in
 
-[src/app.ts:492](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L492)
+[src/app.ts:505](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L505)
 
 ___
 
@@ -164,7 +164,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:486](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L486)
+[src/app.ts:499](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L499)
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:499](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L499)
+[src/app.ts:512](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L512)
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:498](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L498)
+[src/app.ts:511](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L511)
 
 ___
 
@@ -194,7 +194,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:485](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L485)
+[src/app.ts:498](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L498)
 
 ___
 
@@ -204,7 +204,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:478](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L478)
+[src/app.ts:492](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L492)
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:487](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L487)
+[src/app.ts:500](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L500)
 
 ___
 
@@ -224,17 +224,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:482](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L482)
-
-___
-
-### virtualFields
-
-• **virtualFields**: `Record`<`string`, [`VirtualField`](../interfaces/VirtualField.md)\> = `{}`
-
-#### Defined in
-
-[src/app.ts:480](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L480)
+[src/app.ts:495](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L495)
 
 ## Accessors
 
@@ -248,7 +238,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:503](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L503)
+[src/app.ts:516](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L516)
 
 ___
 
@@ -262,7 +252,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:507](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L507)
+[src/app.ts:520](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L520)
 
 ## Methods
 
@@ -276,7 +266,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:511](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L511)
+[src/app.ts:524](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L524)
 
 ___
 
@@ -300,7 +290,7 @@ Returns the first foreign key field found.
 
 #### Defined in
 
-[src/app.ts:530](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L530)
+[src/app.ts:543](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L543)
 
 ___
 
@@ -320,4 +310,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:515](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L515)
+[src/app.ts:528](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L528)

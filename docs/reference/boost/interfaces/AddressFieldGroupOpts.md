@@ -30,7 +30,7 @@ Control which fields are created
 
 #### Defined in
 
-[src/app.ts:1437](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1437)
+[src/app.ts:1418](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1418)
 
 ___
 
@@ -42,7 +42,7 @@ Name of the field group. Defaults to `address`.
 
 #### Defined in
 
-[src/app.ts:1427](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1427)
+[src/app.ts:1408](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1408)
 
 ___
 
@@ -56,4 +56,4 @@ For example: billing_, shipping_, etc.
 
 #### Defined in
 
-[src/app.ts:1433](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1433)
+[src/app.ts:1414](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1414)

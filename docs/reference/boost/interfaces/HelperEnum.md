@@ -16,17 +16,17 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:2052](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2052)
+[src/app.ts:2022](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2022)
 
 ___
 
-### disableDisplayDt
+### disableDisplayRfn
 
-• `Optional` **disableDisplayDt**: `boolean`
+• `Optional` **disableDisplayRfn**: `boolean`
 
 #### Defined in
 
-[src/app.ts:2064](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2064)
+[src/app.ts:2034](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2034)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2050](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2050)
+[src/app.ts:2020](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2020)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2049](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2049)
+[src/app.ts:2019](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2019)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2051](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2051)
+[src/app.ts:2021](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2021)
 
 ___
 
@@ -66,24 +66,24 @@ ___
 
 #### Defined in
 
-[src/app.ts:2053](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2053)
+[src/app.ts:2023](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2023)
 
 ___
 
-### withBoolDts
+### withBoolRfns
 
-• `Optional` **withBoolDts**: [`BoolDt`](../modules.md#booldt)[]
+• `Optional` **withBoolRfns**: [`BoolRfn`](../modules.md#boolrfn)[]
 
 #### Defined in
 
-[src/app.ts:2063](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2063)
+[src/app.ts:2033](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2033)
 
 ___
 
-### withSimpleDts
+### withSimpleRfns
 
-• `Optional` **withSimpleDts**: [`SimpleDt`](SimpleDt.md)[]
+• `Optional` **withSimpleRfns**: [`SimpleRfn`](SimpleRfn.md)[]
 
 #### Defined in
 
-[src/app.ts:2062](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2062)
+[src/app.ts:2032](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2032)

@@ -23,7 +23,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:56](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L56)
+[src/formState.ts:56](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L56)
 
 ___
 
@@ -51,7 +51,7 @@ set a field error, set something touched, etc.
 
 #### Defined in
 
-[src/formState.ts:62](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L62)
+[src/formState.ts:62](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L62)
 
 ___
 
@@ -61,4 +61,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:57](https://github.com/yolmio/boost/blob/b239488/src/formState.ts#L57)
+[src/formState.ts:57](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L57)

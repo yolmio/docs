@@ -23,7 +23,7 @@ are aborted. This is to prevent memory leaks.
 
 #### Defined in
 
-[src/yom.ts:1943](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1943)
+[src/yom.ts:1973](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1973)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1944](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1944)
+[src/yom.ts:1974](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1974)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1935](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1935)
+[src/yom.ts:1965](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1965)

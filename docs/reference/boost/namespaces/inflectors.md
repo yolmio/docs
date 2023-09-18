@@ -26,7 +26,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/utils/inflectors.ts:324](https://github.com/yolmio/boost/blob/b239488/src/utils/inflectors.ts#L324)
+[src/utils/inflectors.ts:324](https://github.com/yolmio/boost/blob/5cada48/src/utils/inflectors.ts#L324)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/utils/inflectors.ts:317](https://github.com/yolmio/boost/blob/b239488/src/utils/inflectors.ts#L317)
+[src/utils/inflectors.ts:317](https://github.com/yolmio/boost/blob/5cada48/src/utils/inflectors.ts#L317)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/utils/inflectors.ts:3](https://github.com/yolmio/boost/blob/b239488/src/utils/inflectors.ts#L3)
+[src/utils/inflectors.ts:3](https://github.com/yolmio/boost/blob/5cada48/src/utils/inflectors.ts#L3)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/utils/inflectors.ts:302](https://github.com/yolmio/boost/blob/b239488/src/utils/inflectors.ts#L302)
+[src/utils/inflectors.ts:302](https://github.com/yolmio/boost/blob/5cada48/src/utils/inflectors.ts#L302)
 
 ___
 
@@ -106,4 +106,4 @@ ___
 
 #### Defined in
 
-[src/utils/inflectors.ts:310](https://github.com/yolmio/boost/blob/b239488/src/utils/inflectors.ts#L310)
+[src/utils/inflectors.ts:310](https://github.com/yolmio/boost/blob/5cada48/src/utils/inflectors.ts#L310)

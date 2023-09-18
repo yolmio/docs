@@ -33,7 +33,7 @@ NumericFieldBase.constructor
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L575)
+[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
 
 ## Properties
 
@@ -47,7 +47,7 @@ NumericFieldBase.checks
 
 #### Defined in
 
-[src/app.ts:567](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L567)
+[src/app.ts:564](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L564)
 
 ___
 
@@ -61,7 +61,7 @@ NumericFieldBase.default
 
 #### Defined in
 
-[src/app.ts:570](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L570)
+[src/app.ts:567](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L567)
 
 ___
 
@@ -75,7 +75,7 @@ NumericFieldBase.description
 
 #### Defined in
 
-[src/app.ts:569](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L569)
+[src/app.ts:566](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L566)
 
 ___
 
@@ -89,7 +89,7 @@ NumericFieldBase.displayName
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L575)
+[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
 
 ___
 
@@ -103,7 +103,7 @@ NumericFieldBase.ext
 
 #### Defined in
 
-[src/app.ts:573](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L573)
+[src/app.ts:570](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L570)
 
 ___
 
@@ -117,7 +117,7 @@ NumericFieldBase.group
 
 #### Defined in
 
-[src/app.ts:571](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L571)
+[src/app.ts:568](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L568)
 
 ___
 
@@ -131,7 +131,7 @@ NumericFieldBase.indexed
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L572)
+[src/app.ts:569](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L569)
 
 ___
 
@@ -145,7 +145,7 @@ NumericFieldBase.max
 
 #### Defined in
 
-[src/app.ts:611](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L611)
+[src/app.ts:608](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L608)
 
 ___
 
@@ -159,7 +159,7 @@ NumericFieldBase.min
 
 #### Defined in
 
-[src/app.ts:610](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L610)
+[src/app.ts:607](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L607)
 
 ___
 
@@ -173,7 +173,7 @@ NumericFieldBase.name
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L575)
+[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
 
 ___
 
@@ -187,7 +187,7 @@ NumericFieldBase.notNull
 
 #### Defined in
 
-[src/app.ts:566](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L566)
+[src/app.ts:563](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L563)
 
 ___
 
@@ -201,7 +201,7 @@ NumericFieldBase.renameFrom
 
 #### Defined in
 
-[src/app.ts:565](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L565)
+[src/app.ts:562](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L562)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:684](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L684)
+[src/app.ts:681](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L681)
 
 ___
 
@@ -225,7 +225,7 @@ NumericFieldBase.unique
 
 #### Defined in
 
-[src/app.ts:568](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L568)
+[src/app.ts:565](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L565)
 
 ## Accessors
 
@@ -245,7 +245,7 @@ NumericFieldBase.identName
 
 #### Defined in
 
-[src/app.ts:578](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L578)
+[src/app.ts:575](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L575)
 
 ## Methods
 
@@ -263,7 +263,7 @@ NumericFieldBase.isInteger
 
 #### Defined in
 
-[src/app.ts:582](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L582)
+[src/app.ts:579](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L579)
 
 ___
 
@@ -281,7 +281,7 @@ NumericFieldBase.isNumeric
 
 #### Defined in
 
-[src/app.ts:613](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L613)
+[src/app.ts:610](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L610)
 
 ___
 
@@ -299,4 +299,4 @@ NumericFieldBase.isVariablePrecision
 
 #### Defined in
 
-[src/app.ts:685](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L685)
+[src/app.ts:682](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L682)

@@ -25,7 +25,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/statements.ts:405](https://github.com/yolmio/boost/blob/b239488/src/statements.ts#L405)
+[src/statements.ts:405](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L405)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:419](https://github.com/yolmio/boost/blob/b239488/src/statements.ts#L419)
+[src/statements.ts:419](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L419)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:692](https://github.com/yolmio/boost/blob/b239488/src/statements.ts#L692)
+[src/statements.ts:692](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L692)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:575](https://github.com/yolmio/boost/blob/b239488/src/statements.ts#L575)
+[src/statements.ts:575](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L575)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:668](https://github.com/yolmio/boost/blob/b239488/src/statements.ts#L668)
+[src/statements.ts:668](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L668)
 
 ## Variables
 
@@ -75,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/statements.ts:4](https://github.com/yolmio/boost/blob/b239488/src/statements.ts#L4)
+[src/statements.ts:4](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L4)

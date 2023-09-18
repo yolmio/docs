@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:12](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L12)
+[src/components/deleteRecordDialog.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L12)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:11](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L11)
+[src/components/deleteRecordDialog.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L11)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:8](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L8)
+[src/components/deleteRecordDialog.ts:8](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L8)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:7](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L7)
+[src/components/deleteRecordDialog.ts:7](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L7)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:6](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L6)
+[src/components/deleteRecordDialog.ts:6](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L6)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:10](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L10)
+[src/components/deleteRecordDialog.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L10)
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:9](https://github.com/yolmio/boost/blob/b239488/src/components/deleteRecordDialog.ts#L9)
+[src/components/deleteRecordDialog.ts:9](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L9)

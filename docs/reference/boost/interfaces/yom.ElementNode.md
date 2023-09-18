@@ -19,7 +19,7 @@ Represents an html or svg element
 
 #### Defined in
 
-[src/yom.ts:2011](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2011)
+[src/yom.ts:2041](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2041)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2005](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2005)
+[src/yom.ts:2035](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2035)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2006](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2006)
+[src/yom.ts:2036](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2036)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2003](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2003)
+[src/yom.ts:2033](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2033)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2002](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2002)
+[src/yom.ts:2032](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2032)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2010](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2010)
+[src/yom.ts:2040](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2040)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2009](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2009)
+[src/yom.ts:2039](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2039)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2004](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2004)
+[src/yom.ts:2034](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2034)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2007](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2007)
+[src/yom.ts:2037](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2037)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2000](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2000)
+[src/yom.ts:2030](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2030)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2001](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2001)
+[src/yom.ts:2031](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2031)
 
 ___
 
@@ -129,4 +129,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2008](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2008)
+[src/yom.ts:2038](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2038)

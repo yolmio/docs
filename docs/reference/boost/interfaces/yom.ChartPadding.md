@@ -19,7 +19,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1701](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1701)
+[src/yom.ts:1731](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1731)
 
 ___
 
@@ -31,7 +31,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1703](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1703)
+[src/yom.ts:1733](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1733)
 
 ___
 
@@ -43,7 +43,7 @@ double
 
 #### Defined in
 
-[src/yom.ts:1699](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1699)
+[src/yom.ts:1729](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1729)
 
 ___
 
@@ -55,4 +55,4 @@ double
 
 #### Defined in
 
-[src/yom.ts:1697](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1697)
+[src/yom.ts:1727](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1727)

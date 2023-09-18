@@ -1,0 +1,28 @@
+---
+title: "String Functions"
+---
+
+- char_length() or character_length()
+- octet_length()
+- upper()
+- lower()
+- reverse()
+- left()
+- right()
+- repeat()
+- lpad()
+- rpad()
+- trim([BOTH | LEADING | TRAILING] [expr FROM] expr)
+- substring(expr [FROM expr] [FOR expr])
+- position(expr in expr)
+- expr like pattern
+- regex.is_match
+- regex.replace
+- regex.replace_all
+- uri.encode_component
+- uri.is_match
+- literal.bool
+- literal.timestamp
+- literal.date
+- literal.number
+- literal.string

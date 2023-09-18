@@ -19,7 +19,7 @@ Throws an error in the procedure, error will be of type `thrown_error`
 
 #### Defined in
 
-[src/yom.ts:74](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L74)
+[src/yom.ts:75](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L75)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:73](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L73)
+[src/yom.ts:74](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L74)
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:72](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L72)
+[src/yom.ts:73](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L73)

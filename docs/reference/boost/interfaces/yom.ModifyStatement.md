@@ -19,7 +19,7 @@ Runs an insert, update or delete sql statement
 
 #### Defined in
 
-[src/yom.ts:67](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L67)
+[src/yom.ts:68](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L68)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:66](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L66)
+[src/yom.ts:67](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L67)

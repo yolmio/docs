@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:338](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L338)
+[src/app.ts:352](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L352)
 
 ## Methods
 
@@ -50,7 +50,7 @@ file: uuid (This is the id of the file in our file storage which you can use to 
 
 #### Defined in
 
-[src/app.ts:368](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L368)
+[src/app.ts:382](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L382)
 
 ___
 
@@ -78,4 +78,4 @@ date: date
 
 #### Defined in
 
-[src/app.ts:351](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L351)
+[src/app.ts:365](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L365)

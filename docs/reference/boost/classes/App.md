@@ -26,7 +26,7 @@ This is where everything about the app is configured, the database, the ui, the 
 
 #### Defined in
 
-[src/app.ts:80](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L80)
+[src/app.ts:79](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L79)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:82](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L82)
+[src/app.ts:81](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L81)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:81](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L81)
+[src/app.ts:80](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L80)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:84](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L84)
+[src/app.ts:83](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L83)
 
 ___
 
@@ -66,17 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:83](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L83)
-
-___
-
-### decisionTables
-
-• **decisionTables**: `Record`<`string`, [`DecisionTable`](../interfaces/DecisionTable.md)\> = `{}`
-
-#### Defined in
-
-[src/app.ts:87](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L87)
+[src/app.ts:82](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L82)
 
 ___
 
@@ -86,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:55](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L55)
+[src/app.ts:55](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L55)
 
 ___
 
@@ -96,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:57](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L57)
+[src/app.ts:57](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L57)
 
 ___
 
@@ -106,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:86](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L86)
+[src/app.ts:85](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L85)
 
 ___
 
@@ -120,7 +110,27 @@ It needs to be unique within an account
 
 #### Defined in
 
-[src/app.ts:47](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L47)
+[src/app.ts:47](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L47)
+
+___
+
+### recordRuleFunctions
+
+• **recordRuleFunctions**: `Record`<`string`, [`RecordRuleFn`](../interfaces/RecordRuleFn.md)\> = `{}`
+
+#### Defined in
+
+[src/app.ts:86](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L86)
+
+___
+
+### ruleFunctions
+
+• **ruleFunctions**: `Record`<`string`, [`RuleFunction`](../interfaces/RuleFunction.md)\> = `{}`
+
+#### Defined in
+
+[src/app.ts:87](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L87)
 
 ___
 
@@ -130,7 +140,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:88](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L88)
+[src/app.ts:88](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L88)
 
 ___
 
@@ -140,7 +150,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:96](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L96)
+[src/app.ts:96](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L96)
 
 ___
 
@@ -150,7 +160,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:95](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L95)
+[src/app.ts:95](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L95)
 
 ___
 
@@ -160,7 +170,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:65](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L65)
+[src/app.ts:64](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L64)
 
 ___
 
@@ -170,7 +180,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:89](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L89)
+[src/app.ts:89](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L89)
 
 ___
 
@@ -180,7 +190,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:90](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L90)
+[src/app.ts:90](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L90)
 
 ___
 
@@ -190,7 +200,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:56](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L56)
+[src/app.ts:56](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L56)
 
 ___
 
@@ -202,7 +212,7 @@ The title of the html document for this application
 
 #### Defined in
 
-[src/app.ts:51](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L51)
+[src/app.ts:51](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L51)
 
 ___
 
@@ -212,29 +222,9 @@ ___
 
 #### Defined in
 
-[src/app.ts:85](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L85)
+[src/app.ts:84](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L84)
 
 ## Methods
-
-### addDecisionTable
-
-▸ **addDecisionTable**(`dt`): `void`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `dt` | `HelperDecisionTable` |
-
-#### Returns
-
-`void`
-
-#### Defined in
-
-[src/app.ts:106](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L106)
-
-___
 
 ### addEnum
 
@@ -252,7 +242,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:110](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L110)
+[src/app.ts:114](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L114)
 
 ___
 
@@ -272,7 +262,47 @@ ___
 
 #### Defined in
 
-[src/app.ts:199](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L199)
+[src/app.ts:205](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L205)
+
+___
+
+### addRecordRuleFunction
+
+▸ **addRecordRuleFunction**(`rrfn`): `void`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `rrfn` | `HelperRecordRuleFn` |
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[src/app.ts:106](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L106)
+
+___
+
+### addRuleFunction
+
+▸ **addRuleFunction**(`rfn`): `void`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `rfn` | `HelperRuleFunction` |
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[src/app.ts:110](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L110)
 
 ___
 
@@ -292,7 +322,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:102](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L102)
+[src/app.ts:102](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L102)
 
 ___
 
@@ -313,7 +343,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:192](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L192)
+[src/app.ts:198](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L198)
 
 ___
 
@@ -334,7 +364,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:180](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L180)
+[src/app.ts:186](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L186)
 
 ___
 
@@ -348,7 +378,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:203](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L203)
+[src/app.ts:209](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L209)
 
 ___
 
@@ -368,4 +398,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:98](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L98)
+[src/app.ts:98](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L98)

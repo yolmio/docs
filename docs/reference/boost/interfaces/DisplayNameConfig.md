@@ -32,7 +32,7 @@ How the display name derived from the sql name for tables, fields, etc.
 
 #### Defined in
 
-[src/app.ts:2014](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2014)
+[src/app.ts:1989](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1989)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2018](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2018)
+[src/app.ts:1992](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1992)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2019](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2019)
+[src/app.ts:1993](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1993)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2016](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2016)
+[src/app.ts:1991](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1991)
 
 ___
 
@@ -128,28 +128,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:2015](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2015)
-
-___
-
-### virtual
-
-• **virtual**: (`sqlName`: `string`) => `string`
-
-#### Type declaration
-
-▸ (`sqlName`): `string`
-
-##### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `sqlName` | `string` |
-
-##### Returns
-
-`string`
-
-#### Defined in
-
-[src/app.ts:2017](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2017)
+[src/app.ts:1990](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1990)

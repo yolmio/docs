@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:1942](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1942)
+[src/app.ts:1917](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1917)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1940](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1940)
+[src/app.ts:1915](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1915)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1939](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1939)
+[src/app.ts:1914](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1914)
 
 ___
 
@@ -46,4 +46,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:1941](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1941)
+[src/app.ts:1916](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1916)

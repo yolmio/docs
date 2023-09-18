@@ -27,7 +27,7 @@ BaseTestData.name
 
 #### Defined in
 
-[src/yom.ts:2325](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2325)
+[src/yom.ts:2355](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2355)
 
 ___
 
@@ -39,7 +39,7 @@ Use this procedure to intialize the database
 
 #### Defined in
 
-[src/yom.ts:2336](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2336)
+[src/yom.ts:2366](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2366)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2334](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L2334)
+[src/yom.ts:2364](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2364)

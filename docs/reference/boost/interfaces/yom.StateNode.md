@@ -19,7 +19,7 @@ boolean, defaults to false
 
 #### Defined in
 
-[src/yom.ts:1557](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1557)
+[src/yom.ts:1587](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1587)
 
 ___
 
@@ -32,7 +32,7 @@ state node or any below.
 
 #### Defined in
 
-[src/yom.ts:1548](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1548)
+[src/yom.ts:1578](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1578)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1586](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1586)
+[src/yom.ts:1616](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1616)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1585](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1585)
+[src/yom.ts:1615](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1615)
 
 ___
 
@@ -70,7 +70,7 @@ description: nullable string
 
 #### Defined in
 
-[src/yom.ts:1584](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1584)
+[src/yom.ts:1614](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1614)
 
 ___
 
@@ -82,7 +82,7 @@ positive integer of miliseconds of delay
 
 #### Defined in
 
-[src/yom.ts:1555](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1555)
+[src/yom.ts:1585](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1585)
 
 ___
 
@@ -94,7 +94,7 @@ Don't execute ancestor allows for this state node. Useful for an unauthorized br
 
 #### Defined in
 
-[src/yom.ts:1552](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1552)
+[src/yom.ts:1582](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1582)
 
 ___
 
@@ -106,7 +106,7 @@ boolean, defaults to false
 
 #### Defined in
 
-[src/yom.ts:1559](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1559)
+[src/yom.ts:1589](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1589)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1553](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1553)
+[src/yom.ts:1583](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1583)
 
 ___
 
@@ -139,7 +139,7 @@ disallowed: means that the allow returned null or false
 
 #### Defined in
 
-[src/yom.ts:1574](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1574)
+[src/yom.ts:1604](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1604)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1537](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1537)
+[src/yom.ts:1567](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1567)
 
 ___
 
@@ -163,4 +163,4 @@ Equality is as expected for most types, but null is considered equal to null.
 
 #### Defined in
 
-[src/yom.ts:1543](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1543)
+[src/yom.ts:1573](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1573)

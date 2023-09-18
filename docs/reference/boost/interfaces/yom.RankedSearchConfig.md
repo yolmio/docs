@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/yom.ts:499](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L499)
+[src/yom.ts:511](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L511)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:500](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L500)
+[src/yom.ts:512](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L512)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:498](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L498)
+[src/yom.ts:510](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L510)

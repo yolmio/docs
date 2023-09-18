@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/styleTypes.ts:298](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L298)
+[src/styleTypes.ts:298](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L298)
 
 ___
 
@@ -44,7 +44,7 @@ https://developer.mozilla.org/docs/Web/CSS/border
 
 #### Defined in
 
-[src/styleTypes.ts:310](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L310)
+[src/styleTypes.ts:310](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L310)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:297](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L297)
+[src/styleTypes.ts:297](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L297)
 
 ___
 
@@ -78,7 +78,7 @@ https://developer.mozilla.org/docs/Web/CSS/box-shadow
 
 #### Defined in
 
-[src/styleTypes.ts:324](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L324)
+[src/styleTypes.ts:324](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L324)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:296](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L296)
+[src/styleTypes.ts:296](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L296)
 
 ___
 
@@ -111,7 +111,7 @@ https://developer.mozilla.org/docs/Web/CSS/font-weight
 
 #### Defined in
 
-[src/styleTypes.ts:337](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L337)
+[src/styleTypes.ts:337](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L337)
 
 ___
 
@@ -133,4 +133,4 @@ https://developer.mozilla.org/docs/Web/CSS/z-index
 
 #### Defined in
 
-[src/styleTypes.ts:349](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L349)
+[src/styleTypes.ts:349](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L349)

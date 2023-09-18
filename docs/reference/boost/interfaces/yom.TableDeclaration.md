@@ -24,7 +24,7 @@ If not possible, you must specify the fields manually.
 
 #### Defined in
 
-[src/yom.ts:89](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L89)
+[src/yom.ts:90](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L90)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:87](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L87)
+[src/yom.ts:88](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L88)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:88](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L88)
+[src/yom.ts:89](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L89)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:86](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L86)
+[src/yom.ts:87](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L87)

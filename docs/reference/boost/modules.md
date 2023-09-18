@@ -65,9 +65,6 @@ pagination_next: null
 - [CSSSelectorObjectOrCssVariables](interfaces/CSSSelectorObjectOrCssVariables.md)
 - [Check](interfaces/Check.md)
 - [DataGridColumn](interfaces/DataGridColumn.md)
-- [DecisionTable](interfaces/DecisionTable.md)
-- [DecisionTableOutput](interfaces/DecisionTableOutput.md)
-- [DecisionTableVariable](interfaces/DecisionTableVariable.md)
 - [DisplayNameConfig](interfaces/DisplayNameConfig.md)
 - [DurationUsage](interfaces/DurationUsage.md)
 - [Enum](interfaces/Enum.md)
@@ -84,19 +81,20 @@ pagination_next: null
 - [Parameter](interfaces/Parameter.md)
 - [Profile](interfaces/Profile.md)
 - [RecordDisplayName](interfaces/RecordDisplayName.md)
+- [RecordRuleFn](interfaces/RecordRuleFn.md)
+- [RecordRuleFnOutput](interfaces/RecordRuleFnOutput.md)
 - [RoutesNode](interfaces/RoutesNode.md)
+- [RuleFunction](interfaces/RuleFunction.md)
 - [ScalarFunction](interfaces/ScalarFunction.md)
 - [ScriptDb](interfaces/ScriptDb.md)
 - [ScriptDbMappingFileDefinition](interfaces/ScriptDbMappingFileDefinition.md)
 - [ScriptDbModelDefinition](interfaces/ScriptDbModelDefinition.md)
 - [SearchConfig](interfaces/SearchConfig.md)
-- [SimpleDt](interfaces/SimpleDt.md)
+- [SimpleRfn](interfaces/SimpleRfn.md)
 - [SwitchNode](interfaces/SwitchNode.md)
 - [SwitchNodeCase](interfaces/SwitchNodeCase.md)
 - [TableControlOpts](interfaces/TableControlOpts.md)
 - [TableFunction](interfaces/TableFunction.md)
-- [VirtualField](interfaces/VirtualField.md)
-- [VirtualFieldHelper](interfaces/VirtualFieldHelper.md)
 - [WebAppConfig](interfaces/WebAppConfig.md)
 
 ## Type Aliases
@@ -107,17 +105,17 @@ pagination_next: null
 
 #### Defined in
 
-[src/nodeTypes.ts:83](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L83)
+[src/nodeTypes.ts:91](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L91)
 
 ___
 
-### BoolDt
+### BoolRfn
 
-Ƭ **BoolDt**: { `name`: `string` ; `trues`: `string`[]  } \| { `falses`: `string`[] ; `name`: `string`  }
+Ƭ **BoolRfn**: { `name`: `string` ; `trues`: `string`[]  } \| { `falses`: `string`[] ; `name`: `string`  }
 
 #### Defined in
 
-[src/app.ts:2038](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2038)
+[src/app.ts:2008](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2008)
 
 ___
 
@@ -129,7 +127,7 @@ Map of all CSS pseudo selectors (`:hover`, `:focus`, ...).
 
 #### Defined in
 
-[src/styleTypes.ts:355](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L355)
+[src/styleTypes.ts:355](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L355)
 
 ___
 
@@ -139,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:625](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L625)
+[src/app.ts:622](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L622)
 
 ___
 
@@ -163,7 +161,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:421](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L421)
+[src/app.ts:435](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L435)
 
 ___
 
@@ -173,7 +171,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:59](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L59)
+[src/nodeTypes.ts:67](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L67)
 
 ___
 
@@ -183,7 +181,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:55](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L55)
+[src/nodeTypes.ts:63](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L63)
 
 ___
 
@@ -193,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:690](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L690)
+[src/app.ts:687](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L687)
 
 ___
 
@@ -203,7 +201,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:618](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L618)
+[src/app.ts:615](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L615)
 
 ___
 
@@ -213,7 +211,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:24](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L24)
+[src/nodeTypes.ts:29](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L29)
 
 ___
 
@@ -223,7 +221,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:72](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L72)
+[src/nodeTypes.ts:80](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L80)
 
 ___
 
@@ -233,7 +231,17 @@ ___
 
 #### Defined in
 
-[src/app.ts:1945](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L1945)
+[src/app.ts:1920](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1920)
+
+___
+
+### EventHandlersNode
+
+Ƭ **EventHandlersNode**: [`EventHandlersNode`](interfaces/yom.EventHandlersNode.md)
+
+#### Defined in
+
+[src/nodeTypes.ts:27](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L27)
 
 ___
 
@@ -243,7 +251,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:800](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L800)
+[src/app.ts:797](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L797)
 
 ___
 
@@ -253,7 +261,27 @@ ___
 
 #### Defined in
 
-[src/app.ts:475](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L475)
+[src/app.ts:489](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L489)
+
+___
+
+### HelperFieldType
+
+Ƭ **HelperFieldType**: [`FieldType`](namespaces/yom.md#fieldtype) \| [`FieldIntegerTypes`](namespaces/yom.md#fieldintegertypes) \| [`SimpleScalarTypes`](namespaces/yom.md#simplescalartypes)
+
+#### Defined in
+
+[src/app.ts:1951](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1951)
+
+___
+
+### HelperScalarType
+
+Ƭ **HelperScalarType**: [`ScalarType`](namespaces/yom.md#scalartype) \| [`SimpleScalarTypes`](namespaces/yom.md#simplescalartypes) \| [`ScalarIntegerTypes`](namespaces/yom.md#scalarintegertypes) \| ``"String"``
+
+#### Defined in
+
+[src/app.ts:1875](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1875)
 
 ___
 
@@ -263,7 +291,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:32](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L32)
+[src/nodeTypes.ts:40](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L40)
 
 ___
 
@@ -273,7 +301,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:457](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L457)
+[src/app.ts:471](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L471)
 
 ___
 
@@ -283,7 +311,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:667](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L667)
+[src/app.ts:664](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L664)
 
 ___
 
@@ -293,7 +321,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:632](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L632)
+[src/app.ts:629](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L629)
 
 ___
 
@@ -303,7 +331,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:79](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L79)
+[src/nodeTypes.ts:87](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L87)
 
 ___
 
@@ -313,17 +341,17 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:26](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L26)
+[src/nodeTypes.ts:34](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L34)
 
 ___
 
 ### Node
 
-Ƭ **Node**: `string` \| ([`Node`](modules.md#node) \| ``null`` \| `undefined`)[] \| [`EachNode`](modules.md#eachnode) \| [`IfNode`](modules.md#ifnode) \| [`SwitchNode`](interfaces/SwitchNode.md) \| [`StateNode`](modules.md#statenode) \| [`ModeNode`](modules.md#modenode) \| [`RouteNode`](modules.md#routenode) \| [`RoutesNode`](interfaces/RoutesNode.md) \| [`PortalNode`](modules.md#portalnode) \| [`ElementNode`](modules.md#elementnode) \| [`QueryParamsNode`](modules.md#queryparamsnode) \| [`LineChartNode`](modules.md#linechartnode) \| [`BarChartNode`](modules.md#barchartnode) \| [`PieChartNode`](modules.md#piechartnode) \| [`DataGridNode`](modules.md#datagridnode) \| [`SourceMapNode`](modules.md#sourcemapnode) \| [`EventHandlersNode`](interfaces/yom.EventHandlersNode.md)
+Ƭ **Node**: `string` \| ([`Node`](modules.md#node) \| ``null`` \| `undefined`)[] \| [`EachNode`](modules.md#eachnode) \| [`IfNode`](modules.md#ifnode) \| [`SwitchNode`](interfaces/SwitchNode.md) \| [`StateNode`](modules.md#statenode) \| [`ModeNode`](modules.md#modenode) \| [`RouteNode`](modules.md#routenode) \| [`RoutesNode`](interfaces/RoutesNode.md) \| [`PortalNode`](modules.md#portalnode) \| [`ElementNode`](modules.md#elementnode) \| [`QueryParamsNode`](modules.md#queryparamsnode) \| [`LineChartNode`](modules.md#linechartnode) \| [`BarChartNode`](modules.md#barchartnode) \| [`PieChartNode`](modules.md#piechartnode) \| [`DataGridNode`](modules.md#datagridnode) \| [`SourceMapNode`](modules.md#sourcemapnode) \| [`RecursiveNode`](modules.md#recursivenode) \| [`RecurseNode`](modules.md#recursenode) \| [`EventHandlersNode`](modules.md#eventhandlersnode)
 
 #### Defined in
 
-[src/nodeTypes.ts:4](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L4)
+[src/nodeTypes.ts:4](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L4)
 
 ___
 
@@ -333,7 +361,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:706](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L706)
+[src/app.ts:703](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L703)
 
 ___
 
@@ -343,7 +371,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:77](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L77)
+[src/nodeTypes.ts:85](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L85)
 
 ___
 
@@ -353,7 +381,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:87](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L87)
+[src/nodeTypes.ts:95](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L95)
 
 ___
 
@@ -363,7 +391,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:28](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L28)
+[src/nodeTypes.ts:36](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L36)
 
 ___
 
@@ -373,7 +401,7 @@ ___
 
 #### Defined in
 
-[src/profile.ts:7](https://github.com/yolmio/boost/blob/b239488/src/profile.ts#L7)
+[src/profile.ts:7](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L7)
 
 ___
 
@@ -383,7 +411,27 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:29](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L29)
+[src/nodeTypes.ts:37](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L37)
+
+___
+
+### RecurseNode
+
+Ƭ **RecurseNode**: [`RecurseNode`](interfaces/yom.RecurseNode.md)
+
+#### Defined in
+
+[src/nodeTypes.ts:26](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L26)
+
+___
+
+### RecursiveNode
+
+Ƭ **RecursiveNode**: `Omit`<[`RecursiveNode`](interfaces/yom.RecursiveNode.md), ``"children"``\> & { `children`: [`Node`](modules.md#node)  }
+
+#### Defined in
+
+[src/nodeTypes.ts:30](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L30)
 
 ___
 
@@ -393,7 +441,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:27](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L27)
+[src/nodeTypes.ts:35](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L35)
 
 ___
 
@@ -403,7 +451,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:12](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L12)
+[src/styleTypes.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L12)
 
 ___
 
@@ -413,7 +461,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:36](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L36)
+[src/nodeTypes.ts:44](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L44)
 
 ___
 
@@ -423,7 +471,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:14](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L14)
+[src/styleTypes.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L14)
 
 ___
 
@@ -433,7 +481,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:25](https://github.com/yolmio/boost/blob/b239488/src/nodeTypes.ts#L25)
+[src/nodeTypes.ts:33](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L33)
 
 ___
 
@@ -443,7 +491,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:593](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L593)
+[src/app.ts:590](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L590)
 
 ___
 
@@ -453,7 +501,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:394](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L394)
+[src/styleTypes.ts:394](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L394)
 
 ___
 
@@ -463,7 +511,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:389](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L389)
+[src/styleTypes.ts:389](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L389)
 
 ___
 
@@ -473,7 +521,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:385](https://github.com/yolmio/boost/blob/b239488/src/styleTypes.ts#L385)
+[src/styleTypes.ts:385](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L385)
 
 ___
 
@@ -483,17 +531,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:423](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L423)
-
-___
-
-### VirtualType
-
-Ƭ **VirtualType**: { `type`: [`SimpleScalarTypes`](namespaces/yom.md#simplescalartypes)  } \| { `type`: [`ScalarIntegerTypes`](namespaces/yom.md#scalarintegertypes) ; `usage?`: [`IntegerUsage`](modules.md#integerusage)  } \| { `precision`: `number` ; `scale`: `number` ; `type`: ``"Decimal"``  } \| { `table`: `string` ; `type`: ``"ForeignKey"``  } \| { `enum`: `string` ; `type`: ``"Enum"``  } \| { `type`: ``"String"``  }
-
-#### Defined in
-
-[src/app.ts:545](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L545)
+[src/app.ts:437](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L437)
 
 ## Variables
 
@@ -506,7 +544,7 @@ variable.
 
 #### Defined in
 
-[src/app.ts:2133](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L2133)
+[src/app.ts:2131](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2131)
 
 ___
 
@@ -645,7 +683,7 @@ ___
 
 #### Defined in
 
-[src/colors.ts:1](https://github.com/yolmio/boost/blob/b239488/src/colors.ts#L1)
+[src/colors.ts:1](https://github.com/yolmio/boost/blob/5cada48/src/colors.ts#L1)
 
 ___
 
@@ -668,6 +706,8 @@ ___
 | `pieChart` | (`opts`: `Omit`<[`PieChartNode`](modules.md#piechartnode), ``"t"``\>) => [`PieChartNode`](modules.md#piechartnode) |
 | `portal` | (`children`: [`Node`](modules.md#node)) => [`PortalNode`](modules.md#portalnode) |
 | `queryParams` | (`params`: [`QueryParam`](interfaces/yom.QueryParam.md)[], `children`: [`Node`](modules.md#node)) => [`QueryParamsNode`](modules.md#queryparamsnode) |
+| `recurse` | (`props`: `Omit`<[`RecurseNode`](interfaces/yom.RecurseNode.md), ``"t"``\>) => [`RecurseNode`](modules.md#recursenode)(`where`: [`SqlExpression`](namespaces/yom.md#sqlexpression)) => [`RecurseNode`](modules.md#recursenode) |
+| `recursive` | (`props`: `Omit`<[`RecursiveNode`](modules.md#recursivenode), ``"t"``\>) => [`RecursiveNode`](modules.md#recursivenode) |
 | `route` | (`props`: `Omit`<[`RouteNode`](modules.md#routenode), ``"t"``\>) => [`RouteNode`](modules.md#routenode) |
 | `routes` | (...`routes`: [`RouteNode`](modules.md#routenode)[]) => [`RoutesNode`](interfaces/RoutesNode.md) |
 | `sourceMap` | (`source`: `string`, `children`: [`Node`](modules.md#node)) => [`SourceMapNode`](modules.md#sourcemapnode) |
@@ -676,7 +716,7 @@ ___
 
 #### Defined in
 
-[src/nodeHelpers.ts:186](https://github.com/yolmio/boost/blob/b239488/src/nodeHelpers.ts#L186)
+[src/nodeHelpers.ts:206](https://github.com/yolmio/boost/blob/5cada48/src/nodeHelpers.ts#L206)
 
 ## Functions
 
@@ -696,4 +736,24 @@ ___
 
 #### Defined in
 
-[src/profile.ts:11](https://github.com/yolmio/boost/blob/b239488/src/profile.ts#L11)
+[src/profile.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L11)
+
+___
+
+### fieldTypeFromHelper
+
+▸ **fieldTypeFromHelper**(`ty`): [`FieldType`](namespaces/yom.md#fieldtype)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `ty` | [`HelperFieldType`](modules.md#helperfieldtype) |
+
+#### Returns
+
+[`FieldType`](namespaces/yom.md#fieldtype)
+
+#### Defined in
+
+[src/app.ts:1983](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1983)

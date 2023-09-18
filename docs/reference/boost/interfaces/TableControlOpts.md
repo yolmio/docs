@@ -26,7 +26,7 @@ ComponentOpts.color
 
 #### Defined in
 
-[src/components/types.ts:10](https://github.com/yolmio/boost/blob/b239488/src/components/types.ts#L10)
+[src/components/types.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/components/types.ts#L10)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:434](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L434)
+[src/app.ts:448](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L448)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:436](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L436)
+[src/app.ts:450](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L450)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:430](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L430)
+[src/app.ts:444](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L444)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:431](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L431)
+[src/app.ts:445](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L445)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:435](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L435)
+[src/app.ts:449](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L449)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:437](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L437)
+[src/app.ts:451](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L451)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:433](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L433)
+[src/app.ts:447](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L447)
 
 ___
 
@@ -139,7 +139,7 @@ ComponentOpts.size
 
 #### Defined in
 
-[src/components/types.ts:11](https://github.com/yolmio/boost/blob/b239488/src/components/types.ts#L11)
+[src/components/types.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/components/types.ts#L11)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:429](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L429)
+[src/app.ts:443](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L443)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:432](https://github.com/yolmio/boost/blob/b239488/src/app.ts#L432)
+[src/app.ts:446](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L446)
 
 ___
 
@@ -173,4 +173,4 @@ ComponentOpts.variant
 
 #### Defined in
 
-[src/components/types.ts:12](https://github.com/yolmio/boost/blob/b239488/src/components/types.ts#L12)
+[src/components/types.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/components/types.ts#L12)

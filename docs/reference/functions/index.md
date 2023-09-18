@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: "Functions and operators"
+title: "SQL Functions and Operators"
 ---
 
 woo

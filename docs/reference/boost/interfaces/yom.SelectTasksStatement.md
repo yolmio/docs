@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/yom.ts:1247](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1247)
+[src/yom.ts:1259](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1259)
 
 ___
 
@@ -29,4 +29,4 @@ Either a query or list of expressions of task handles
 
 #### Defined in
 
-[src/yom.ts:1249](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1249)
+[src/yom.ts:1261](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1261)

@@ -23,7 +23,7 @@ Table is of the form:
 
 #### Defined in
 
-[src/yom.ts:1517](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1517)
+[src/yom.ts:1547](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1547)
 
 ___
 
@@ -33,4 +33,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1516](https://github.com/yolmio/boost/blob/b239488/src/yom.ts#L1516)
+[src/yom.ts:1546](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1546)
