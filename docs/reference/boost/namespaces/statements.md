@@ -25,7 +25,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/statements.ts:405](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L405)
+@yolm/boost/dist/statements.d.ts:78
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:419](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L419)
+@yolm/boost/dist/statements.d.ts:83
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:692](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L692)
+@yolm/boost/dist/statements.d.ts:160
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:575](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L575)
+@yolm/boost/dist/statements.d.ts:117
 
 ___
 
@@ -65,14 +65,14 @@ ___
 
 #### Defined in
 
-[src/statements.ts:668](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L668)
+@yolm/boost/dist/statements.d.ts:153
 
 ## Variables
 
 ### BACKING\_ARRAY
 
-• `Const` **BACKING\_ARRAY**: typeof [`BACKING_ARRAY`](statements.md#backing_array)
+• `Const` **BACKING\_ARRAY**: unique `symbol`
 
 #### Defined in
 
-[src/statements.ts:4](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L4)
+@yolm/boost/dist/statements.d.ts:2

@@ -41,7 +41,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/enumSelect.ts:8](https://github.com/yolmio/boost/blob/5cada48/src/components/enumSelect.ts#L8)
+@yolm/boost/dist/components/enumSelect.d.ts:3
 
 ## Functions
 
@@ -61,7 +61,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/alert.ts:79](https://github.com/yolmio/boost/blob/5cada48/src/components/alert.ts#L79)
+@yolm/boost/dist/components/alert.d.ts:9
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[src/components/button.ts:135](https://github.com/yolmio/boost/blob/5cada48/src/components/button.ts#L135)
+@yolm/boost/dist/components/button.d.ts:42
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/components/card.ts:136](https://github.com/yolmio/boost/blob/5cada48/src/components/card.ts#L136)
+@yolm/boost/dist/components/card.d.ts:10
 
 ___
 
@@ -121,13 +121,13 @@ ___
 
 #### Defined in
 
-[src/components/card.ts:161](https://github.com/yolmio/boost/blob/5cada48/src/components/card.ts#L161)
+@yolm/boost/dist/components/card.d.ts:15
 
 ___
 
 ### checkbox
 
-▸ **checkbox**(`opts`): [`Node`](../modules.md#node)
+▸ **checkbox**(`opts`): [`@yolm/boost`](../modules.md)
 
 #### Parameters
 
@@ -137,11 +137,11 @@ ___
 
 #### Returns
 
-[`Node`](../modules.md#node)
+[`@yolm/boost`](../modules.md)
 
 #### Defined in
 
-[src/components/checkbox.ts:212](https://github.com/yolmio/boost/blob/5cada48/src/components/checkbox.ts#L212)
+@yolm/boost/dist/components/checkbox.d.ts:17
 
 ___
 
@@ -161,13 +161,13 @@ ___
 
 #### Defined in
 
-[src/components/chip.ts:271](https://github.com/yolmio/boost/blob/5cada48/src/components/chip.ts#L271)
+@yolm/boost/dist/components/chip.d.ts:20
 
 ___
 
 ### chipDelete
 
-▸ **chipDelete**(`opts`): [`ElementNode`](../modules.md#elementnode)
+▸ **chipDelete**(`opts`): `ElementNode`
 
 #### Parameters
 
@@ -177,11 +177,11 @@ ___
 
 #### Returns
 
-[`ElementNode`](../modules.md#elementnode)
+`ElementNode`
 
 #### Defined in
 
-[src/components/chip.ts:339](https://github.com/yolmio/boost/blob/5cada48/src/components/chip.ts#L339)
+@yolm/boost/dist/components/chip.d.ts:25
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | [`CircularProgressOpts`](../interfaces/components.CircularProgressOpts.md) |
+| `opts?` | [`CircularProgressOpts`](../interfaces/components.CircularProgressOpts.md) |
 
 #### Returns
 
@@ -201,13 +201,13 @@ ___
 
 #### Defined in
 
-[src/components/circularProgress.ts:161](https://github.com/yolmio/boost/blob/5cada48/src/components/circularProgress.ts#L161)
+@yolm/boost/dist/components/circularProgress.d.ts:9
 
 ___
 
 ### deleteRecordDialog
 
-▸ **deleteRecordDialog**(`opts`): [`StateNode`](../modules.md#statenode)
+▸ **deleteRecordDialog**(`opts`): [`@yolm/boost`](../modules.md)
 
 #### Parameters
 
@@ -217,11 +217,11 @@ ___
 
 #### Returns
 
-[`StateNode`](../modules.md#statenode)
+[`@yolm/boost`](../modules.md)
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:15](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L15)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:11
 
 ___
 
@@ -233,7 +233,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | [`DividerOpts`](../interfaces/components.DividerOpts.md) |
+| `opts?` | [`DividerOpts`](../interfaces/components.DividerOpts.md) |
 
 #### Returns
 
@@ -241,13 +241,13 @@ ___
 
 #### Defined in
 
-[src/components/divider.ts:103](https://github.com/yolmio/boost/blob/5cada48/src/components/divider.ts#L103)
+@yolm/boost/dist/components/divider.d.ts:9
 
 ___
 
 ### enumSelect
 
-▸ **enumSelect**(`opts`): [`Node`](../modules.md#node)
+▸ **enumSelect**(`opts`): [`@yolm/boost`](../modules.md)
 
 #### Parameters
 
@@ -257,11 +257,11 @@ ___
 
 #### Returns
 
-[`Node`](../modules.md#node)
+[`@yolm/boost`](../modules.md)
 
 #### Defined in
 
-[src/components/enumSelect.ts:32](https://github.com/yolmio/boost/blob/5cada48/src/components/enumSelect.ts#L32)
+@yolm/boost/dist/components/enumSelect.d.ts:7
 
 ___
 
@@ -281,13 +281,13 @@ ___
 
 #### Defined in
 
-[src/components/formControl.ts:80](https://github.com/yolmio/boost/blob/5cada48/src/components/formControl.ts#L80)
+@yolm/boost/dist/components/formControl.d.ts:12
 
 ___
 
 ### formHelperText
 
-▸ **formHelperText**(`opts`): [`ElementNode`](../modules.md#elementnode)
+▸ **formHelperText**(`opts`): `ElementNode`
 
 #### Parameters
 
@@ -297,11 +297,11 @@ ___
 
 #### Returns
 
-[`ElementNode`](../modules.md#elementnode)
+`ElementNode`
 
 #### Defined in
 
-[src/components/formHelperText.ts:24](https://github.com/yolmio/boost/blob/5cada48/src/components/formHelperText.ts#L24)
+@yolm/boost/dist/components/formHelperText.d.ts:6
 
 ___
 
@@ -321,13 +321,13 @@ ___
 
 #### Defined in
 
-[src/components/formLabel.ts:33](https://github.com/yolmio/boost/blob/5cada48/src/components/formLabel.ts#L33)
+@yolm/boost/dist/components/formLabel.d.ts:7
 
 ___
 
 ### getTableRecordSelect
 
-▸ **getTableRecordSelect**(`tableName`, `opts`): [`Node`](../modules.md#node)
+▸ **getTableRecordSelect**(`tableName`, `opts`): [`@yolm/boost`](../modules.md)
 
 #### Parameters
 
@@ -338,11 +338,11 @@ ___
 
 #### Returns
 
-[`Node`](../modules.md#node)
+[`@yolm/boost`](../modules.md)
 
 #### Defined in
 
-[src/components/tableRecordSelect.ts:9](https://github.com/yolmio/boost/blob/5cada48/src/components/tableRecordSelect.ts#L9)
+@yolm/boost/dist/components/tableRecordSelect.d.ts:2
 
 ___
 
@@ -362,7 +362,7 @@ ___
 
 #### Defined in
 
-[src/components/iconButton.ts:78](https://github.com/yolmio/boost/blob/5cada48/src/components/iconButton.ts#L78)
+@yolm/boost/dist/components/iconButton.d.ts:17
 
 ___
 
@@ -382,13 +382,13 @@ ___
 
 #### Defined in
 
-[src/components/input.ts:203](https://github.com/yolmio/boost/blob/5cada48/src/components/input.ts#L203)
+@yolm/boost/dist/components/input.d.ts:71
 
 ___
 
 ### insertDialog
 
-▸ **insertDialog**(`opts`): [`SourceMapNode`](../modules.md#sourcemapnode)
+▸ **insertDialog**(`opts`): [`@yolm/boost`](../modules.md)
 
 #### Parameters
 
@@ -398,11 +398,11 @@ ___
 
 #### Returns
 
-[`SourceMapNode`](../modules.md#sourcemapnode)
+[`@yolm/boost`](../modules.md)
 
 #### Defined in
 
-[src/components/insertDialog.ts:45](https://github.com/yolmio/boost/blob/5cada48/src/components/insertDialog.ts#L45)
+@yolm/boost/dist/components/insertDialog.d.ts:12
 
 ___
 
@@ -414,7 +414,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | `IconName` \| [`MaterialIconOpts`](../interfaces/components.MaterialIconOpts.md) |
+| `opts` | [`MaterialIconOpts`](../interfaces/components.MaterialIconOpts.md) \| `IconName` |
 
 #### Returns
 
@@ -422,7 +422,7 @@ ___
 
 #### Defined in
 
-[src/components/materialIcon.ts:20](https://github.com/yolmio/boost/blob/5cada48/src/components/materialIcon.ts#L20)
+@yolm/boost/dist/components/materialIcon.d.ts:10
 
 ___
 
@@ -442,7 +442,7 @@ ___
 
 #### Defined in
 
-[src/components/svgIcon.ts:42](https://github.com/yolmio/boost/blob/5cada48/src/components/svgIcon.ts#L42)
+@yolm/boost/dist/components/svgIcon.d.ts:11
 
 ___
 
@@ -462,7 +462,7 @@ ___
 
 #### Defined in
 
-[src/components/textarea.ts:193](https://github.com/yolmio/boost/blob/5cada48/src/components/textarea.ts#L193)
+@yolm/boost/dist/components/textarea.d.ts:8
 
 ___
 
@@ -482,13 +482,13 @@ ___
 
 #### Defined in
 
-[src/components/typography.ts:109](https://github.com/yolmio/boost/blob/5cada48/src/components/typography.ts#L109)
+@yolm/boost/dist/components/typography.d.ts:29
 
 ___
 
 ### updateDialog
 
-▸ **updateDialog**(`opts`): [`SourceMapNode`](../modules.md#sourcemapnode)
+▸ **updateDialog**(`opts`): [`@yolm/boost`](../modules.md)
 
 #### Parameters
 
@@ -498,8 +498,8 @@ ___
 
 #### Returns
 
-[`SourceMapNode`](../modules.md#sourcemapnode)
+[`@yolm/boost`](../modules.md)
 
 #### Defined in
 
-[src/components/updateDialog.ts:47](https://github.com/yolmio/boost/blob/5cada48/src/components/updateDialog.ts#L47)
+@yolm/boost/dist/components/updateDialog.d.ts:11

@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/svgIcon.ts:15](https://github.com/yolmio/boost/blob/5cada48/src/components/svgIcon.ts#L15)
+@yolm/boost/dist/components/svgIcon.d.ts:9
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/components/svgIcon.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/components/svgIcon.ts#L12)
+@yolm/boost/dist/components/svgIcon.d.ts:6
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/components/svgIcon.ts:13](https://github.com/yolmio/boost/blob/5cada48/src/components/svgIcon.ts#L13)
+@yolm/boost/dist/components/svgIcon.d.ts:7
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[src/components/svgIcon.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/components/svgIcon.ts#L14)
+@yolm/boost/dist/components/svgIcon.d.ts:8

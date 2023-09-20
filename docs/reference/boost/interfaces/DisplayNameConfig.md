@@ -32,7 +32,7 @@ How the display name derived from the sql name for tables, fields, etc.
 
 #### Defined in
 
-[src/app.ts:1989](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1989)
+@yolm/boost/dist/app.d.ts:730
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1992](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1992)
+@yolm/boost/dist/app.d.ts:733
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1993](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1993)
+@yolm/boost/dist/app.d.ts:734
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1991](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1991)
+@yolm/boost/dist/app.d.ts:732
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:1990](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1990)
+@yolm/boost/dist/app.d.ts:731

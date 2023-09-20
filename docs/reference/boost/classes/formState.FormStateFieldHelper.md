@@ -24,7 +24,79 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:374](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L374)
+@yolm/boost/dist/formState.d.ts:61
+
+## Properties
+
+### setError
+
+• **setError**: (`error`: [`SqlExpression`](../namespaces/yom.md#sqlexpression)) => [`BasicStatements`](statements.BasicStatements.md)
+
+#### Type declaration
+
+▸ (`error`): [`BasicStatements`](statements.BasicStatements.md)
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `error` | [`SqlExpression`](../namespaces/yom.md#sqlexpression) |
+
+##### Returns
+
+[`BasicStatements`](statements.BasicStatements.md)
+
+#### Defined in
+
+@yolm/boost/dist/formState.d.ts:66
+
+___
+
+### setTouched
+
+• **setTouched**: (`touched`: [`SqlExpression`](../namespaces/yom.md#sqlexpression)) => [`BasicStatements`](statements.BasicStatements.md)
+
+#### Type declaration
+
+▸ (`touched`): [`BasicStatements`](statements.BasicStatements.md)
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `touched` | [`SqlExpression`](../namespaces/yom.md#sqlexpression) |
+
+##### Returns
+
+[`BasicStatements`](statements.BasicStatements.md)
+
+#### Defined in
+
+@yolm/boost/dist/formState.d.ts:68
+
+___
+
+### setValue
+
+• **setValue**: (`value`: [`SqlExpression`](../namespaces/yom.md#sqlexpression)) => [`BasicStatements`](statements.BasicStatements.md)
+
+#### Type declaration
+
+▸ (`value`): [`BasicStatements`](statements.BasicStatements.md)
+
+##### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `value` | [`SqlExpression`](../namespaces/yom.md#sqlexpression) |
+
+##### Returns
+
+[`BasicStatements`](statements.BasicStatements.md)
+
+#### Defined in
+
+@yolm/boost/dist/formState.d.ts:63
 
 ## Accessors
 
@@ -38,7 +110,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:389](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L389)
+@yolm/boost/dist/formState.d.ts:64
 
 ___
 
@@ -52,7 +124,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:393](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L393)
+@yolm/boost/dist/formState.d.ts:65
 
 ___
 
@@ -66,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:405](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L405)
+@yolm/boost/dist/formState.d.ts:67
 
 ___
 
@@ -80,64 +152,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:379](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L379)
-
-## Methods
-
-### setError
-
-▸ **setError**(`error`): [`BasicStatements`](statements.BasicStatements.md)
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `error` | [`SqlExpression`](../namespaces/yom.md#sqlexpression) |
-
-#### Returns
-
-[`BasicStatements`](statements.BasicStatements.md)
-
-#### Defined in
-
-[src/formState.ts:397](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L397)
-
-___
-
-### setTouched
-
-▸ **setTouched**(`touched`): [`BasicStatements`](statements.BasicStatements.md)
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `touched` | [`SqlExpression`](../namespaces/yom.md#sqlexpression) |
-
-#### Returns
-
-[`BasicStatements`](statements.BasicStatements.md)
-
-#### Defined in
-
-[src/formState.ts:409](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L409)
-
-___
-
-### setValue
-
-▸ **setValue**(`value`): [`BasicStatements`](statements.BasicStatements.md)
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `value` | [`SqlExpression`](../namespaces/yom.md#sqlexpression) |
-
-#### Returns
-
-[`BasicStatements`](statements.BasicStatements.md)
-
-#### Defined in
-
-[src/formState.ts:383](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L383)
+@yolm/boost/dist/formState.d.ts:62

@@ -198,8 +198,8 @@ const config = {
 
       // Plugin / TypeDoc options
       {
-        entryPoints: ["../boost/src/index.ts"],
-        tsconfig: "../boost/tsconfig.json",
+        entryPoints: ["node_modules/@yolm/boost/dist/index.d.ts"],
+        tsconfig: "tsconfig.boost.json",
 
         excludePrivate: true,
         readme: "./BOOST_README.md",

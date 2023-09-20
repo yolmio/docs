@@ -19,7 +19,7 @@ positive integer
 
 #### Defined in
 
-[src/yom.ts:1226](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1226)
+@yolm/boost/dist/yom.d.ts:444
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1224](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1224)
+@yolm/boost/dist/yom.d.ts:442

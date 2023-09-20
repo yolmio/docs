@@ -33,7 +33,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:742](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L742)
+@yolm/boost/dist/formState.d.ts:139
 
 ## Accessors
 
@@ -51,7 +51,7 @@ FormState.debugFormState
 
 #### Defined in
 
-[src/formState.ts:246](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L246)
+@yolm/boost/dist/formState.d.ts:41
 
 ___
 
@@ -69,7 +69,7 @@ FormState.formError
 
 #### Defined in
 
-[src/formState.ts:227](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L227)
+@yolm/boost/dist/formState.d.ts:36
 
 ___
 
@@ -87,7 +87,7 @@ FormState.hasAnyError
 
 #### Defined in
 
-[src/formState.ts:256](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L256)
+@yolm/boost/dist/formState.d.ts:42
 
 ___
 
@@ -105,7 +105,7 @@ FormState.hasAnyFieldsError
 
 #### Defined in
 
-[src/formState.ts:157](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L157)
+@yolm/boost/dist/formState.d.ts:31
 
 ___
 
@@ -123,7 +123,7 @@ FormState.hasFormError
 
 #### Defined in
 
-[src/formState.ts:230](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L230)
+@yolm/boost/dist/formState.d.ts:37
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:832](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L832)
+@yolm/boost/dist/formState.d.ts:140
 
 ___
 
@@ -155,7 +155,7 @@ FormState.resetErrorState
 
 #### Defined in
 
-[src/formState.ts:273](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L273)
+@yolm/boost/dist/formState.d.ts:43
 
 ___
 
@@ -173,7 +173,7 @@ FormState.resetErrorStateFields
 
 #### Defined in
 
-[src/formState.ts:149](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L149)
+@yolm/boost/dist/formState.d.ts:30
 
 ___
 
@@ -191,7 +191,7 @@ FormState.setTouchedAll
 
 #### Defined in
 
-[src/formState.ts:286](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L286)
+@yolm/boost/dist/formState.d.ts:44
 
 ___
 
@@ -209,7 +209,7 @@ FormState.setTouchedAllFields
 
 #### Defined in
 
-[src/formState.ts:133](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L133)
+@yolm/boost/dist/formState.d.ts:28
 
 ___
 
@@ -227,7 +227,7 @@ FormState.setTouchedNone
 
 #### Defined in
 
-[src/formState.ts:297](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L297)
+@yolm/boost/dist/formState.d.ts:45
 
 ___
 
@@ -245,7 +245,7 @@ FormState.setTouchedNoneFields
 
 #### Defined in
 
-[src/formState.ts:141](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L141)
+@yolm/boost/dist/formState.d.ts:29
 
 ___
 
@@ -263,7 +263,7 @@ FormState.stateProcedure
 
 #### Defined in
 
-[src/formState.ts:93](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L93)
+@yolm/boost/dist/formState.d.ts:27
 
 ___
 
@@ -281,7 +281,7 @@ FormState.submitting
 
 #### Defined in
 
-[src/formState.ts:236](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L236)
+@yolm/boost/dist/formState.d.ts:39
 
 ## Methods
 
@@ -306,7 +306,7 @@ FormState.submitting
 
 #### Defined in
 
-[src/formState.ts:204](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L204)
+@yolm/boost/dist/formState.d.ts:35
 
 ___
 
@@ -331,7 +331,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:173](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L173)
+@yolm/boost/dist/formState.d.ts:33
 
 ___
 
@@ -355,7 +355,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:165](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L165)
+@yolm/boost/dist/formState.d.ts:32
 
 ___
 
@@ -379,7 +379,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:194](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L194)
+@yolm/boost/dist/formState.d.ts:34
 
 ___
 
@@ -403,7 +403,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:233](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L233)
+@yolm/boost/dist/formState.d.ts:38
 
 ___
 
@@ -427,4 +427,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:239](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L239)
+@yolm/boost/dist/formState.d.ts:40

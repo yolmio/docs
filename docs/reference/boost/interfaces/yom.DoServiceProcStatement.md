@@ -19,7 +19,7 @@ Don't execute ancestor allows for. Useful for an unauthorized branch below a sta
 
 #### Defined in
 
-[src/yom.ts:1322](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1322)
+@yolm/boost/dist/yom.d.ts:514
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1323](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1323)
+@yolm/boost/dist/yom.d.ts:515
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1318](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1318)
+@yolm/boost/dist/yom.d.ts:510

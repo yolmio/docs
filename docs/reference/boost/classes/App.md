@@ -12,6 +12,8 @@ The app singleton.
 
 This is where everything about the app is configured, the database, the ui, the api, everything.
 
+HOWDY BROTHER
+
 ## Constructors
 
 ### constructor
@@ -26,7 +28,7 @@ This is where everything about the app is configured, the database, the ui, the 
 
 #### Defined in
 
-[src/app.ts:79](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L79)
+@yolm/boost/dist/app.d.ts:42
 
 ___
 
@@ -36,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:81](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L81)
+@yolm/boost/dist/app.d.ts:44
 
 ___
 
@@ -46,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:80](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L80)
+@yolm/boost/dist/app.d.ts:43
 
 ___
 
@@ -56,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:83](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L83)
+@yolm/boost/dist/app.d.ts:46
 
 ___
 
@@ -66,17 +68,17 @@ ___
 
 #### Defined in
 
-[src/app.ts:82](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L82)
+@yolm/boost/dist/app.d.ts:45
 
 ___
 
 ### displayName
 
-• **displayName**: `string` = `"Please Rename"`
+• **displayName**: `string`
 
 #### Defined in
 
-[src/app.ts:55](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L55)
+@yolm/boost/dist/app.d.ts:38
 
 ___
 
@@ -86,23 +88,23 @@ ___
 
 #### Defined in
 
-[src/app.ts:57](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L57)
+@yolm/boost/dist/app.d.ts:40
 
 ___
 
 ### enums
 
-• **enums**: `Record`<`string`, [`Enum`](../interfaces/Enum.md)\> = `{}`
+• **enums**: `Record`<`string`, [`Enum`](../interfaces/Enum.md)\>
 
 #### Defined in
 
-[src/app.ts:85](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L85)
+@yolm/boost/dist/app.d.ts:48
 
 ___
 
 ### name
 
-• **name**: `string` = `"please-rename"`
+• **name**: `string`
 
 The name of the application it will show up at: yolm.app/{YOUR_ACCOUNT_NAME}/{APP_NAME}
 
@@ -110,57 +112,57 @@ It needs to be unique within an account
 
 #### Defined in
 
-[src/app.ts:47](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L47)
+@yolm/boost/dist/app.d.ts:33
 
 ___
 
 ### recordRuleFunctions
 
-• **recordRuleFunctions**: `Record`<`string`, [`RecordRuleFn`](../interfaces/RecordRuleFn.md)\> = `{}`
+• **recordRuleFunctions**: `Record`<`string`, [`RecordRuleFn`](../interfaces/RecordRuleFn.md)\>
 
 #### Defined in
 
-[src/app.ts:86](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L86)
+@yolm/boost/dist/app.d.ts:49
 
 ___
 
 ### ruleFunctions
 
-• **ruleFunctions**: `Record`<`string`, [`RuleFunction`](../interfaces/RuleFunction.md)\> = `{}`
+• **ruleFunctions**: `Record`<`string`, [`RuleFunction`](../interfaces/RuleFunction.md)\>
 
 #### Defined in
 
-[src/app.ts:87](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L87)
+@yolm/boost/dist/app.d.ts:50
 
 ___
 
 ### scalarFunctions
 
-• **scalarFunctions**: `Record`<`string`, [`ScalarFunction`](../interfaces/ScalarFunction.md)\> = `{}`
+• **scalarFunctions**: `Record`<`string`, [`ScalarFunction`](../interfaces/ScalarFunction.md)\>
 
 #### Defined in
 
-[src/app.ts:88](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L88)
+@yolm/boost/dist/app.d.ts:51
 
 ___
 
 ### scriptDbs
 
-• **scriptDbs**: [`ScriptDb`](../interfaces/ScriptDb.md)[] = `[]`
+• **scriptDbs**: [`ScriptDb`](../interfaces/ScriptDb.md)[]
 
 #### Defined in
 
-[src/app.ts:96](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L96)
+@yolm/boost/dist/app.d.ts:55
 
 ___
 
 ### scripts
 
-• **scripts**: [`Script`](../interfaces/yom.Script.md)[] = `[]`
+• **scripts**: [`Script`](../interfaces/yom.Script.md)[]
 
 #### Defined in
 
-[src/app.ts:95](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L95)
+@yolm/boost/dist/app.d.ts:54
 
 ___
 
@@ -170,17 +172,17 @@ ___
 
 #### Defined in
 
-[src/app.ts:64](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L64)
+@yolm/boost/dist/app.d.ts:41
 
 ___
 
 ### tableFunctions
 
-• **tableFunctions**: `Record`<`string`, [`TableFunction`](../interfaces/TableFunction.md)\> = `{}`
+• **tableFunctions**: `Record`<`string`, [`TableFunction`](../interfaces/TableFunction.md)\>
 
 #### Defined in
 
-[src/app.ts:89](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L89)
+@yolm/boost/dist/app.d.ts:52
 
 ___
 
@@ -190,7 +192,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:90](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L90)
+@yolm/boost/dist/app.d.ts:53
 
 ___
 
@@ -200,19 +202,19 @@ ___
 
 #### Defined in
 
-[src/app.ts:56](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L56)
+@yolm/boost/dist/app.d.ts:39
 
 ___
 
 ### title
 
-• **title**: `string` = `"please-rename"`
+• **title**: `string`
 
 The title of the html document for this application
 
 #### Defined in
 
-[src/app.ts:51](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L51)
+@yolm/boost/dist/app.d.ts:37
 
 ___
 
@@ -222,7 +224,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:84](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L84)
+@yolm/boost/dist/app.d.ts:47
 
 ## Methods
 
@@ -242,7 +244,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:114](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L114)
+@yolm/boost/dist/app.d.ts:60
 
 ___
 
@@ -262,7 +264,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:205](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L205)
+@yolm/boost/dist/app.d.ts:63
 
 ___
 
@@ -282,7 +284,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:106](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L106)
+@yolm/boost/dist/app.d.ts:58
 
 ___
 
@@ -302,7 +304,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:110](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L110)
+@yolm/boost/dist/app.d.ts:59
 
 ___
 
@@ -322,7 +324,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:102](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L102)
+@yolm/boost/dist/app.d.ts:57
 
 ___
 
@@ -343,7 +345,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:198](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L198)
+@yolm/boost/dist/app.d.ts:62
 
 ___
 
@@ -364,7 +366,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:186](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L186)
+@yolm/boost/dist/app.d.ts:61
 
 ___
 
@@ -378,7 +380,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:209](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L209)
+@yolm/boost/dist/app.d.ts:64
 
 ___
 
@@ -398,4 +400,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:98](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L98)
+@yolm/boost/dist/app.d.ts:56

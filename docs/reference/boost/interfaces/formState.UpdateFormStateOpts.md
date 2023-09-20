@@ -48,7 +48,7 @@ Runs on the client after the service procedure has completed successfully.
 
 #### Defined in
 
-[src/formState.ts:545](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L545)
+@yolm/boost/dist/formState.d.ts:120
 
 ___
 
@@ -79,7 +79,7 @@ Runs after the commit of the transaction, this lets you reference anything done 
 
 #### Defined in
 
-[src/formState.ts:541](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L541)
+@yolm/boost/dist/formState.d.ts:116
 
 ___
 
@@ -111,7 +111,7 @@ in the body of the transaction or you can just do some additional updates or ins
 
 #### Defined in
 
-[src/formState.ts:531](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L531)
+@yolm/boost/dist/formState.d.ts:106
 
 ___
 
@@ -144,7 +144,7 @@ You can set errors in the form state here and we will not start the service proc
 
 #### Defined in
 
-[src/formState.ts:519](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L519)
+@yolm/boost/dist/formState.d.ts:94
 
 ___
 
@@ -177,7 +177,7 @@ for an insert into another table you can do that here.
 
 #### Defined in
 
-[src/formState.ts:537](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L537)
+@yolm/boost/dist/formState.d.ts:112
 
 ___
 
@@ -211,7 +211,7 @@ and instead return the error to the client.
 
 #### Defined in
 
-[src/formState.ts:526](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L526)
+@yolm/boost/dist/formState.d.ts:101
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:1227](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L1227)
+@yolm/boost/dist/formState.d.ts:160
 
 ___
 
@@ -231,7 +231,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:1229](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L1229)
+@yolm/boost/dist/formState.d.ts:161
 
 ___
 
@@ -241,7 +241,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:1230](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L1230)
+@yolm/boost/dist/formState.d.ts:162
 
 ___
 
@@ -251,4 +251,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:1226](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L1226)
+@yolm/boost/dist/formState.d.ts:159

@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:313](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L313)
+@yolm/boost/dist/app.d.ts:111
 
 ___
 
@@ -32,77 +32,77 @@ ___
 
 #### Defined in
 
-[src/app.ts:312](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L312)
+@yolm/boost/dist/app.d.ts:110
 
 ___
 
 ### enableTransactionQueries
 
-• **enableTransactionQueries**: `boolean` = `true`
+• **enableTransactionQueries**: `boolean`
 
 #### Defined in
 
-[src/app.ts:314](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L314)
+@yolm/boost/dist/app.d.ts:112
 
 ___
 
 ### recordRuleFunctions
 
-• **recordRuleFunctions**: `Record`<`string`, [`RecordRuleFn`](../interfaces/RecordRuleFn.md)\> = `{}`
+• **recordRuleFunctions**: `Record`<`string`, [`RecordRuleFn`](../interfaces/RecordRuleFn.md)\>
 
 #### Defined in
 
-[src/app.ts:315](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L315)
+@yolm/boost/dist/app.d.ts:113
 
 ___
 
 ### ruleFunctions
 
-• **ruleFunctions**: `Record`<`string`, [`RuleFunction`](../interfaces/RuleFunction.md)\> = `{}`
+• **ruleFunctions**: `Record`<`string`, [`RuleFunction`](../interfaces/RuleFunction.md)\>
 
 #### Defined in
 
-[src/app.ts:316](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L316)
+@yolm/boost/dist/app.d.ts:114
 
 ___
 
 ### scalarFunctions
 
-• **scalarFunctions**: `Record`<`string`, [`ScalarFunction`](../interfaces/ScalarFunction.md)\> = `{}`
+• **scalarFunctions**: `Record`<`string`, [`ScalarFunction`](../interfaces/ScalarFunction.md)\>
 
 #### Defined in
 
-[src/app.ts:317](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L317)
+@yolm/boost/dist/app.d.ts:115
 
 ___
 
 ### searchMatches
 
-• **searchMatches**: `Record`<`string`, [`SearchMatchConfig`](../interfaces/yom.SearchMatchConfig.md)\> = `{}`
+• **searchMatches**: `Record`<`string`, [`SearchMatchConfig`](../interfaces/yom.SearchMatchConfig.md)\>
 
 #### Defined in
 
-[src/app.ts:319](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L319)
+@yolm/boost/dist/app.d.ts:117
 
 ___
 
 ### tables
 
-• **tables**: `Record`<`string`, [`Table`](Table.md)\> = `{}`
+• **tables**: `Record`<`string`, [`Table`](Table.md)\>
 
 #### Defined in
 
-[src/app.ts:318](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L318)
+@yolm/boost/dist/app.d.ts:116
 
 ___
 
 ### userTableName
 
-• **userTableName**: `string` = `"user"`
+• **userTableName**: `string`
 
 #### Defined in
 
-[src/app.ts:311](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L311)
+@yolm/boost/dist/app.d.ts:109
 
 ## Accessors
 
@@ -120,7 +120,7 @@ These also have the added benefit of integrating with other parts of the app, su
 
 #### Defined in
 
-[src/app.ts:326](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L326)
+@yolm/boost/dist/app.d.ts:123
 
 ## Methods
 
@@ -140,7 +140,7 @@ These also have the added benefit of integrating with other parts of the app, su
 
 #### Defined in
 
-[src/app.ts:340](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L340)
+@yolm/boost/dist/app.d.ts:126
 
 ___
 
@@ -160,7 +160,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:344](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L344)
+@yolm/boost/dist/app.d.ts:127
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:336](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L336)
+@yolm/boost/dist/app.d.ts:125
 
 ___
 
@@ -201,4 +201,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:330](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L330)
+@yolm/boost/dist/app.d.ts:124

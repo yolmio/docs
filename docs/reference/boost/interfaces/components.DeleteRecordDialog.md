@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L12)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:9
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L11)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:8
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:8](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L8)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:5
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:7](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L7)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:4
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:6](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L6)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:3
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L10)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:7
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 #### Defined in
 
-[src/components/deleteRecordDialog.ts:9](https://github.com/yolmio/boost/blob/5cada48/src/components/deleteRecordDialog.ts#L9)
+@yolm/boost/dist/components/deleteRecordDialog.d.ts:6

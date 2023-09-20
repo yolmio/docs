@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/yom.ts:2313](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2313)
+@yolm/boost/dist/yom.d.ts:1274
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2315](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2315)
+@yolm/boost/dist/yom.d.ts:1275
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2296](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2296)
+@yolm/boost/dist/yom.d.ts:1267
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2298](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2298)
+@yolm/boost/dist/yom.d.ts:1268
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2304](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2304)
+@yolm/boost/dist/yom.d.ts:1271
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2306](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2306)
+@yolm/boost/dist/yom.d.ts:1272
 
 ___
 
@@ -79,7 +79,7 @@ Preserves inserts and updates (according to below options) of deleted records
 
 #### Defined in
 
-[src/yom.ts:2288](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2288)
+@yolm/boost/dist/yom.d.ts:1262
 
 ___
 
@@ -91,7 +91,7 @@ Preserve ids of records (if false we can completely throw away all inserts, upda
 
 #### Defined in
 
-[src/yom.ts:2290](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2290)
+@yolm/boost/dist/yom.d.ts:1264
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2292](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2292)
+@yolm/boost/dist/yom.d.ts:1265
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2294](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2294)
+@yolm/boost/dist/yom.d.ts:1266
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2300](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2300)
+@yolm/boost/dist/yom.d.ts:1269
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2302](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2302)
+@yolm/boost/dist/yom.d.ts:1270
 
 ___
 
@@ -141,4 +141,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2308](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2308)
+@yolm/boost/dist/yom.d.ts:1273

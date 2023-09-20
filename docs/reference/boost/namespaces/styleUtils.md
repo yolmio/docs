@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/styleUtils.ts:496](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L496)
+@yolm/boost/dist/styleUtils.d.ts:32
 
 ## Variables
 
@@ -26,7 +26,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/styleUtils.ts:475](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L475)
+@yolm/boost/dist/styleUtils.d.ts:27
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L11)
+@yolm/boost/dist/styleUtils.d.ts:5
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:481](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L481)
+@yolm/boost/dist/styleUtils.d.ts:30
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:479](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L479)
+@yolm/boost/dist/styleUtils.d.ts:28
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L10)
+@yolm/boost/dist/styleUtils.d.ts:4
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:480](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L480)
+@yolm/boost/dist/styleUtils.d.ts:29
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:482](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L482)
+@yolm/boost/dist/styleUtils.d.ts:31
 
 ## Functions
 
@@ -100,21 +100,21 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `lg` | { `maxWidth`: `number` = app.theme.breakpoints.values.lg } |
+| `lg` | { `maxWidth`: `number`  } |
 | `lg.maxWidth` | `number` |
-| `md` | { `maxWidth`: `number` = app.theme.breakpoints.values.md } |
+| `md` | { `maxWidth`: `number`  } |
 | `md.maxWidth` | `number` |
 | `mx` | `string` |
 | `px` | `number` |
-| `sm` | { `maxWidth`: `number` = app.theme.breakpoints.values.sm } |
+| `sm` | { `maxWidth`: `number`  } |
 | `sm.maxWidth` | `number` |
 | `width` | `string` |
-| `xl` | { `maxWidth`: `number` = app.theme.breakpoints.values.xl } |
+| `xl` | { `maxWidth`: `number`  } |
 | `xl.maxWidth` | `number` |
 
 #### Defined in
 
-[src/styleUtils.ts:455](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L455)
+@yolm/boost/dist/styleUtils.d.ts:10
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:42](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L42)
+@yolm/boost/dist/styleUtils.d.ts:7
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:51](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L51)
+@yolm/boost/dist/styleUtils.d.ts:8
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:257](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L257)
+@yolm/boost/dist/styleUtils.d.ts:9
 
 ___
 
@@ -201,7 +201,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:498](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L498)
+@yolm/boost/dist/styleUtils.d.ts:33
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:6](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L6)
+@yolm/boost/dist/styleUtils.d.ts:3
 
 ___
 
@@ -243,4 +243,4 @@ ___
 
 #### Defined in
 
-[src/styleUtils.ts:13](https://github.com/yolmio/boost/blob/5cada48/src/styleUtils.ts#L13)
+@yolm/boost/dist/styleUtils.d.ts:6

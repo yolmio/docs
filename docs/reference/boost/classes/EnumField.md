@@ -34,13 +34,13 @@ FieldBase.constructor
 
 #### Defined in
 
-[src/app.ts:779](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L779)
+@yolm/boost/dist/app.d.ts:405
 
 ## Properties
 
 ### checks
 
-• **checks**: [`FieldCheck`](../interfaces/FieldCheck.md)[] = `[]`
+• **checks**: [`FieldCheck`](../interfaces/FieldCheck.md)[]
 
 #### Inherited from
 
@@ -48,7 +48,7 @@ FieldBase.checks
 
 #### Defined in
 
-[src/app.ts:564](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L564)
+@yolm/boost/dist/app.d.ts:271
 
 ___
 
@@ -62,7 +62,7 @@ FieldBase.default
 
 #### Defined in
 
-[src/app.ts:567](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L567)
+@yolm/boost/dist/app.d.ts:274
 
 ___
 
@@ -76,7 +76,7 @@ FieldBase.description
 
 #### Defined in
 
-[src/app.ts:566](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L566)
+@yolm/boost/dist/app.d.ts:273
 
 ___
 
@@ -90,7 +90,7 @@ FieldBase.displayName
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
+@yolm/boost/dist/app.d.ts:268
 
 ___
 
@@ -100,13 +100,13 @@ ___
 
 #### Defined in
 
-[src/app.ts:778](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L778)
+@yolm/boost/dist/app.d.ts:404
 
 ___
 
 ### ext
 
-• **ext**: `Record`<`string`, `any`\> = `{}`
+• **ext**: `Record`<`string`, `any`\>
 
 #### Inherited from
 
@@ -114,7 +114,7 @@ FieldBase.ext
 
 #### Defined in
 
-[src/app.ts:570](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L570)
+@yolm/boost/dist/app.d.ts:277
 
 ___
 
@@ -128,13 +128,13 @@ FieldBase.group
 
 #### Defined in
 
-[src/app.ts:568](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L568)
+@yolm/boost/dist/app.d.ts:275
 
 ___
 
 ### indexed
 
-• **indexed**: `boolean` = `false`
+• **indexed**: `boolean`
 
 #### Inherited from
 
@@ -142,7 +142,7 @@ FieldBase.indexed
 
 #### Defined in
 
-[src/app.ts:569](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L569)
+@yolm/boost/dist/app.d.ts:276
 
 ___
 
@@ -156,13 +156,13 @@ FieldBase.name
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
+@yolm/boost/dist/app.d.ts:267
 
 ___
 
 ### notNull
 
-• **notNull**: `boolean` = `false`
+• **notNull**: `boolean`
 
 #### Inherited from
 
@@ -170,7 +170,7 @@ FieldBase.notNull
 
 #### Defined in
 
-[src/app.ts:563](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L563)
+@yolm/boost/dist/app.d.ts:270
 
 ___
 
@@ -184,7 +184,7 @@ FieldBase.renameFrom
 
 #### Defined in
 
-[src/app.ts:562](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L562)
+@yolm/boost/dist/app.d.ts:269
 
 ___
 
@@ -194,13 +194,13 @@ ___
 
 #### Defined in
 
-[src/app.ts:777](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L777)
+@yolm/boost/dist/app.d.ts:403
 
 ___
 
 ### unique
 
-• **unique**: `boolean` = `false`
+• **unique**: `boolean`
 
 #### Inherited from
 
@@ -208,7 +208,7 @@ FieldBase.unique
 
 #### Defined in
 
-[src/app.ts:565](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L565)
+@yolm/boost/dist/app.d.ts:272
 
 ## Accessors
 
@@ -228,7 +228,7 @@ FieldBase.identName
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L575)
+@yolm/boost/dist/app.d.ts:280
 
 ## Methods
 
@@ -246,7 +246,7 @@ FieldBase.isInteger
 
 #### Defined in
 
-[src/app.ts:579](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L579)
+@yolm/boost/dist/app.d.ts:281
 
 ___
 
@@ -264,7 +264,7 @@ FieldBase.isNumeric
 
 #### Defined in
 
-[src/app.ts:582](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L582)
+@yolm/boost/dist/app.d.ts:282
 
 ___
 
@@ -282,4 +282,4 @@ FieldBase.isVariablePrecision
 
 #### Defined in
 
-[src/app.ts:585](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L585)
+@yolm/boost/dist/app.d.ts:283

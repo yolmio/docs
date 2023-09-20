@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/nodeTypes.ts:60](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L60)
+@yolm/boost/dist/nodeTypes.d.ts:44
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:59](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L59)
+@yolm/boost/dist/nodeTypes.d.ts:43

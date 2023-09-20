@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:403](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L403)
+@yolm/boost/dist/app.d.ts:163
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:402](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L402)
+@yolm/boost/dist/app.d.ts:162

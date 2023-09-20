@@ -24,27 +24,27 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:510](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L510)
+@yolm/boost/dist/app.d.ts:245
 
 ## Properties
 
 ### baseUrl
 
-• **baseUrl**: `string` = `""`
+• **baseUrl**: `string`
 
 #### Defined in
 
-[src/app.ts:506](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L506)
+@yolm/boost/dist/app.d.ts:243
 
 ___
 
 ### checks
 
-• **checks**: [`Check`](../interfaces/Check.md)[] = `[]`
+• **checks**: [`Check`](../interfaces/Check.md)[]
 
 #### Defined in
 
-[src/app.ts:496](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L496)
+@yolm/boost/dist/app.d.ts:234
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:501](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L501)
+@yolm/boost/dist/app.d.ts:238
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:503](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L503)
+@yolm/boost/dist/app.d.ts:240
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:513](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L513)
+@yolm/boost/dist/app.d.ts:229
 
 ___
 
@@ -84,37 +84,37 @@ ___
 
 #### Defined in
 
-[src/app.ts:502](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L502)
+@yolm/boost/dist/app.d.ts:239
 
 ___
 
 ### ext
 
-• **ext**: `Record`<`string`, `any`\> = `{}`
+• **ext**: `Record`<`string`, `any`\>
 
 #### Defined in
 
-[src/app.ts:508](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L508)
+@yolm/boost/dist/app.d.ts:244
 
 ___
 
 ### fieldGroups
 
-• **fieldGroups**: `Record`<`string`, [`FieldGroup`](../modules.md#fieldgroup)\> = `{}`
+• **fieldGroups**: `Record`<`string`, [`FieldGroup`](../modules.md#fieldgroup)\>
 
 #### Defined in
 
-[src/app.ts:494](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L494)
+@yolm/boost/dist/app.d.ts:232
 
 ___
 
 ### fields
 
-• **fields**: `Record`<`string`, [`Field`](../modules.md#field)\> = `{}`
+• **fields**: `Record`<`string`, [`Field`](../modules.md#field)\>
 
 #### Defined in
 
-[src/app.ts:493](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L493)
+@yolm/boost/dist/app.d.ts:231
 
 ___
 
@@ -140,7 +140,7 @@ Return an expression which should be the href to the given id
 
 #### Defined in
 
-[src/app.ts:505](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L505)
+@yolm/boost/dist/app.d.ts:242
 
 ___
 
@@ -164,7 +164,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:499](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L499)
+@yolm/boost/dist/app.d.ts:236
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:512](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L512)
+@yolm/boost/dist/app.d.ts:228
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:511](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L511)
+@yolm/boost/dist/app.d.ts:227
 
 ___
 
@@ -194,7 +194,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:498](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L498)
+@yolm/boost/dist/app.d.ts:235
 
 ___
 
@@ -204,7 +204,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:492](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L492)
+@yolm/boost/dist/app.d.ts:230
 
 ___
 
@@ -214,17 +214,17 @@ ___
 
 #### Defined in
 
-[src/app.ts:500](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L500)
+@yolm/boost/dist/app.d.ts:237
 
 ___
 
 ### uniqueConstraints
 
-• **uniqueConstraints**: [`UniqueConstraint`](../interfaces/yom.UniqueConstraint.md)[] = `[]`
+• **uniqueConstraints**: [`UniqueConstraint`](../interfaces/yom.UniqueConstraint.md)[]
 
 #### Defined in
 
-[src/app.ts:495](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L495)
+@yolm/boost/dist/app.d.ts:233
 
 ## Accessors
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:516](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L516)
+@yolm/boost/dist/app.d.ts:246
 
 ___
 
@@ -252,7 +252,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:520](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L520)
+@yolm/boost/dist/app.d.ts:247
 
 ## Methods
 
@@ -266,7 +266,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:524](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L524)
+@yolm/boost/dist/app.d.ts:248
 
 ___
 
@@ -290,7 +290,7 @@ Returns the first foreign key field found.
 
 #### Defined in
 
-[src/app.ts:543](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L543)
+@yolm/boost/dist/app.d.ts:255
 
 ___
 
@@ -310,4 +310,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:528](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L528)
+@yolm/boost/dist/app.d.ts:249

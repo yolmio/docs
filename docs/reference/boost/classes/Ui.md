@@ -22,27 +22,27 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:225](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L225)
+@yolm/boost/dist/app.d.ts:68
 
 ___
 
 ### globalStyles
 
-• **globalStyles**: [`Style`](../modules.md#style)[] = `[]`
+• **globalStyles**: [`Style`](../modules.md#style)[]
 
 #### Defined in
 
-[src/app.ts:226](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L226)
+@yolm/boost/dist/app.d.ts:69
 
 ___
 
 ### pages
 
-• **pages**: [`Page`](../interfaces/Page.md)[] = `[]`
+• **pages**: [`Page`](../interfaces/Page.md)[]
 
 #### Defined in
 
-[src/app.ts:228](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L228)
+@yolm/boost/dist/app.d.ts:71
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:227](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L227)
+@yolm/boost/dist/app.d.ts:70
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:219](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L219)
+@yolm/boost/dist/app.d.ts:67
 
 ## Methods
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:238](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L238)
+@yolm/boost/dist/app.d.ts:73
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:278](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L278)
+@yolm/boost/dist/app.d.ts:81
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | `DbManagmentPageOpts` |
+| `opts?` | `DbManagmentPageOpts` |
 
 #### Returns
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:242](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L242)
+@yolm/boost/dist/app.d.ts:74
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:246](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L246)
+@yolm/boost/dist/app.d.ts:75
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:254](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L254)
+@yolm/boost/dist/app.d.ts:77
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:258](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L258)
+@yolm/boost/dist/app.d.ts:78
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:271](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L271)
+@yolm/boost/dist/app.d.ts:80
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:265](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L265)
+@yolm/boost/dist/app.d.ts:79
 
 ___
 
@@ -259,7 +259,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:250](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L250)
+@yolm/boost/dist/app.d.ts:76
 
 ___
 
@@ -279,4 +279,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:234](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L234)
+@yolm/boost/dist/app.d.ts:72

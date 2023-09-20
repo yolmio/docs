@@ -105,7 +105,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/nodeTypes.ts:91](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L91)
+@yolm/boost/dist/nodeTypes.d.ts:70
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:2008](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2008)
+@yolm/boost/dist/app.d.ts:746
 
 ___
 
@@ -127,7 +127,7 @@ Map of all CSS pseudo selectors (`:hover`, `:focus`, ...).
 
 #### Defined in
 
-[src/styleTypes.ts:355](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L355)
+@yolm/boost/dist/styleTypes.d.ts:343
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:622](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L622)
+@yolm/boost/dist/app.d.ts:311
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:435](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L435)
+@yolm/boost/dist/app.d.ts:181
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:67](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L67)
+@yolm/boost/dist/nodeTypes.d.ts:49
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:63](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L63)
+@yolm/boost/dist/nodeTypes.d.ts:46
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:687](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L687)
+@yolm/boost/dist/app.d.ts:354
 
 ___
 
@@ -201,7 +201,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:615](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L615)
+@yolm/boost/dist/app.d.ts:306
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:29](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L29)
+@yolm/boost/dist/nodeTypes.d.ts:6
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:80](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L80)
+@yolm/boost/dist/nodeTypes.d.ts:60
 
 ___
 
@@ -231,7 +231,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1920](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1920)
+@yolm/boost/dist/app.d.ts:689
 
 ___
 
@@ -241,7 +241,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:27](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L27)
+@yolm/boost/dist/nodeTypes.d.ts:5
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:797](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L797)
+@yolm/boost/dist/app.d.ts:413
 
 ___
 
@@ -261,7 +261,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:489](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L489)
+@yolm/boost/dist/app.d.ts:225
 
 ___
 
@@ -271,7 +271,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1951](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1951)
+@yolm/boost/dist/app.d.ts:719
 
 ___
 
@@ -281,7 +281,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1875](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1875)
+@yolm/boost/dist/app.d.ts:648
 
 ___
 
@@ -291,7 +291,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:40](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L40)
+@yolm/boost/dist/nodeTypes.d.ts:27
 
 ___
 
@@ -301,7 +301,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:471](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L471)
+@yolm/boost/dist/app.d.ts:214
 
 ___
 
@@ -311,7 +311,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:664](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L664)
+@yolm/boost/dist/app.d.ts:345
 
 ___
 
@@ -321,7 +321,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:629](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L629)
+@yolm/boost/dist/app.d.ts:316
 
 ___
 
@@ -331,7 +331,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:87](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L87)
+@yolm/boost/dist/nodeTypes.d.ts:65
 
 ___
 
@@ -341,7 +341,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:34](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L34)
+@yolm/boost/dist/nodeTypes.d.ts:15
 
 ___
 
@@ -351,7 +351,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:4](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L4)
+@yolm/boost/dist/nodeTypes.d.ts:3
 
 ___
 
@@ -361,7 +361,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:703](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L703)
+@yolm/boost/dist/app.d.ts:365
 
 ___
 
@@ -371,7 +371,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:85](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L85)
+@yolm/boost/dist/nodeTypes.d.ts:64
 
 ___
 
@@ -381,7 +381,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:95](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L95)
+@yolm/boost/dist/nodeTypes.d.ts:75
 
 ___
 
@@ -391,7 +391,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:36](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L36)
+@yolm/boost/dist/nodeTypes.d.ts:21
 
 ___
 
@@ -401,7 +401,7 @@ ___
 
 #### Defined in
 
-[src/profile.ts:7](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L7)
+@yolm/boost/dist/profile.d.ts:6
 
 ___
 
@@ -411,7 +411,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:37](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L37)
+@yolm/boost/dist/nodeTypes.d.ts:24
 
 ___
 
@@ -421,7 +421,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:26](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L26)
+@yolm/boost/dist/nodeTypes.d.ts:4
 
 ___
 
@@ -431,7 +431,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:30](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L30)
+@yolm/boost/dist/nodeTypes.d.ts:9
 
 ___
 
@@ -441,7 +441,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:35](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L35)
+@yolm/boost/dist/nodeTypes.d.ts:18
 
 ___
 
@@ -451,7 +451,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L12)
+@yolm/boost/dist/styleTypes.d.ts:4
 
 ___
 
@@ -461,7 +461,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:44](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L44)
+@yolm/boost/dist/nodeTypes.d.ts:31
 
 ___
 
@@ -471,7 +471,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L14)
+@yolm/boost/dist/styleTypes.d.ts:5
 
 ___
 
@@ -481,7 +481,7 @@ ___
 
 #### Defined in
 
-[src/nodeTypes.ts:33](https://github.com/yolmio/boost/blob/5cada48/src/nodeTypes.ts#L33)
+@yolm/boost/dist/nodeTypes.d.ts:12
 
 ___
 
@@ -491,7 +491,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:590](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L590)
+@yolm/boost/dist/app.d.ts:285
 
 ___
 
@@ -501,7 +501,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:394](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L394)
+@yolm/boost/dist/styleTypes.d.ts:370
 
 ___
 
@@ -511,7 +511,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:389](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L389)
+@yolm/boost/dist/styleTypes.d.ts:369
 
 ___
 
@@ -521,7 +521,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:385](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L385)
+@yolm/boost/dist/styleTypes.d.ts:366
 
 ___
 
@@ -531,7 +531,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:437](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L437)
+@yolm/boost/dist/app.d.ts:182
 
 ## Variables
 
@@ -544,7 +544,7 @@ variable.
 
 #### Defined in
 
-[src/app.ts:2131](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L2131)
+@yolm/boost/dist/app.d.ts:806
 
 ___
 
@@ -556,7 +556,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `blue` | { `100`: `string` = "#DDF1FF"; `200`: `string` = "#ADDBFF"; `300`: `string` = "#6FB6FF"; `400`: `string` = "#3990FF"; `50`: `string` = "#F4FAFF"; `500`: `string` = "#096BDE"; `600`: `string` = "#054DA7"; `700`: `string` = "#02367D"; `800`: `string` = "#072859"; `900`: `string` = "#00153C" } |
+| `blue` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `blue.100` | `string` |
 | `blue.200` | `string` |
 | `blue.300` | `string` |
@@ -567,7 +567,7 @@ ___
 | `blue.700` | `string` |
 | `blue.800` | `string` |
 | `blue.900` | `string` |
-| `green` | { `100`: `string` = "#D7F5DD"; `200`: `string` = "#77EC95"; `300`: `string` = "#4CC76E"; `400`: `string` = "#2CA24D"; `50`: `string` = "#F3FEF5"; `500`: `string` = "#1A7D36"; `600`: `string` = "#0F5D26"; `700`: `string` = "#034318"; `800`: `string` = "#002F0F"; `900`: `string` = "#001D09" } |
+| `green` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `green.100` | `string` |
 | `green.200` | `string` |
 | `green.300` | `string` |
@@ -578,7 +578,7 @@ ___
 | `green.700` | `string` |
 | `green.800` | `string` |
 | `green.900` | `string` |
-| `grey` | { `100`: `string` = "#EBEBEF"; `200`: `string` = "#D8D8DF"; `300`: `string` = "#B9B9C6"; `400`: `string` = "#8F8FA3"; `50`: `string` = "#F7F7F8"; `500`: `string` = "#73738C"; `600`: `string` = "#5A5A72"; `700`: `string` = "#434356"; `800`: `string` = "#25252D"; `900`: `string` = "#131318" } |
+| `grey` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `grey.100` | `string` |
 | `grey.200` | `string` |
 | `grey.300` | `string` |
@@ -589,7 +589,7 @@ ___
 | `grey.700` | `string` |
 | `grey.800` | `string` |
 | `grey.900` | `string` |
-| `lime` | { `100`: `string` = "#ecfccb"; `200`: `string` = "#d9f99d"; `300`: `string` = "#bef264"; `400`: `string` = "#a3e635"; `50`: `string` = "#f7fee7"; `500`: `string` = "#84cc16"; `600`: `string` = "#65a30d"; `700`: `string` = "#4d7c0f"; `800`: `string` = "#3f6212"; `900`: `string` = "#365314" } |
+| `lime` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `lime.100` | `string` |
 | `lime.200` | `string` |
 | `lime.300` | `string` |
@@ -600,7 +600,7 @@ ___
 | `lime.700` | `string` |
 | `lime.800` | `string` |
 | `lime.900` | `string` |
-| `neutral` | { `100`: `string` = "#f5f5f5"; `200`: `string` = "#e5e5e5"; `300`: `string` = "#d4d4d4"; `400`: `string` = "#a3a3a3"; `50`: `string` = "#fafafa"; `500`: `string` = "#737373"; `600`: `string` = "#525252"; `700`: `string` = "#404040"; `800`: `string` = "#262626"; `900`: `string` = "#171717"; `950`: `string` = "#0a0a0a" } |
+| `neutral` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string` ; `950`: `string`  } |
 | `neutral.100` | `string` |
 | `neutral.200` | `string` |
 | `neutral.300` | `string` |
@@ -612,7 +612,7 @@ ___
 | `neutral.800` | `string` |
 | `neutral.900` | `string` |
 | `neutral.950` | `string` |
-| `purple` | { `100`: `string` = "#F4EAFF"; `200`: `string` = "#E1CBFF"; `300`: `string` = "#C69EFF"; `400`: `string` = "#A374F9"; `50`: `string` = "#FDF7FF"; `500`: `string` = "#814DDE"; `600`: `string` = "#5F35AE"; `700`: `string` = "#452382"; `800`: `string` = "#301761"; `900`: `string` = "#1D0A42" } |
+| `purple` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `purple.100` | `string` |
 | `purple.200` | `string` |
 | `purple.300` | `string` |
@@ -623,7 +623,7 @@ ___
 | `purple.700` | `string` |
 | `purple.800` | `string` |
 | `purple.900` | `string` |
-| `red` | { `100`: `string` = "#FFE9E8"; `200`: `string` = "#FFC7C5"; `300`: `string` = "#FF9192"; `400`: `string` = "#FA5255"; `50`: `string` = "#FFF8F6"; `500`: `string` = "#D3232F"; `600`: `string` = "#A10E25"; `700`: `string` = "#77061B"; `800`: `string` = "#580013"; `900`: `string` = "#39000D" } |
+| `red` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `red.100` | `string` |
 | `red.200` | `string` |
 | `red.300` | `string` |
@@ -634,7 +634,7 @@ ___
 | `red.700` | `string` |
 | `red.800` | `string` |
 | `red.900` | `string` |
-| `slate` | { `100`: `string` = "#f1f5f9"; `200`: `string` = "#e2e8f0"; `300`: `string` = "#cbd5e1"; `400`: `string` = "#94a3b8"; `50`: `string` = "#f8fafc"; `500`: `string` = "#64748b"; `600`: `string` = "#475569"; `700`: `string` = "#334155"; `800`: `string` = "#1e293b"; `900`: `string` = "#0f172a" } |
+| `slate` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `slate.100` | `string` |
 | `slate.200` | `string` |
 | `slate.300` | `string` |
@@ -645,7 +645,7 @@ ___
 | `slate.700` | `string` |
 | `slate.800` | `string` |
 | `slate.900` | `string` |
-| `stone` | { `100`: `string` = "#f5f5f4"; `200`: `string` = "#e7e5e4"; `300`: `string` = "#d6d3d1"; `400`: `string` = "#a8a29e"; `50`: `string` = "#fafaf9"; `500`: `string` = "#78716c"; `600`: `string` = "#57534e"; `700`: `string` = "#44403c"; `800`: `string` = "#292524"; `900`: `string` = "#1c1917"; `950`: `string` = "#0c0a09" } |
+| `stone` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string` ; `950`: `string`  } |
 | `stone.100` | `string` |
 | `stone.200` | `string` |
 | `stone.300` | `string` |
@@ -657,7 +657,7 @@ ___
 | `stone.800` | `string` |
 | `stone.900` | `string` |
 | `stone.950` | `string` |
-| `yellow` | { `100`: `string` = "#FAE17D"; `200`: `string` = "#EAC54F"; `300`: `string` = "#D4A72C"; `400`: `string` = "#BF8700"; `50`: `string` = "#FFF8C5"; `500`: `string` = "#9A6700"; `600`: `string` = "#7D4E00"; `700`: `string` = "#633C01"; `800`: `string` = "#4D2D00"; `900`: `string` = "#3B2300" } |
+| `yellow` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string`  } |
 | `yellow.100` | `string` |
 | `yellow.200` | `string` |
 | `yellow.300` | `string` |
@@ -668,7 +668,7 @@ ___
 | `yellow.700` | `string` |
 | `yellow.800` | `string` |
 | `yellow.900` | `string` |
-| `zinc` | { `100`: `string` = "#f4f4f5"; `200`: `string` = "#e4e4e7"; `300`: `string` = "#d4d4d8"; `400`: `string` = "#a1a1aa"; `50`: `string` = "#fafafa"; `500`: `string` = "#71717a"; `600`: `string` = "#52525b"; `700`: `string` = "#3f3f46"; `800`: `string` = "#27272a"; `900`: `string` = "#18181b"; `950`: `string` = "#09090b" } |
+| `zinc` | { `100`: `string` ; `200`: `string` ; `300`: `string` ; `400`: `string` ; `50`: `string` ; `500`: `string` ; `600`: `string` ; `700`: `string` ; `800`: `string` ; `900`: `string` ; `950`: `string`  } |
 | `zinc.100` | `string` |
 | `zinc.200` | `string` |
 | `zinc.300` | `string` |
@@ -683,7 +683,7 @@ ___
 
 #### Defined in
 
-[src/colors.ts:1](https://github.com/yolmio/boost/blob/5cada48/src/colors.ts#L1)
+@yolm/boost/dist/colors.d.ts:1
 
 ___
 
@@ -695,28 +695,28 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `barChart` | (`opts`: `Omit`<[`BarChartNode`](modules.md#barchartnode), ``"t"``\>) => [`BarChartNode`](modules.md#barchartnode) |
-| `dataGrid` | (`opts`: `DatagridOpts`) => [`DataGridNode`](modules.md#datagridnode) |
-| `each` | (`props`: `Omit`<[`EachNode`](modules.md#eachnode), ``"t"``\>) => [`EachNode`](modules.md#eachnode) |
-| `element` | (`tag`: [`AllHtmlTags`](namespaces/yom.md#allhtmltags), `el`: `ElementOpts`) => [`ElementNode`](modules.md#elementnode) |
-| `eventHandlers` | (`opts`: `EventHandlersOpts`) => [`EventHandlersNode`](interfaces/yom.EventHandlersNode.md) |
-| `if` | (`expr`: `string`, `then`: [`Node`](modules.md#node)) => [`IfNode`](modules.md#ifnode)(`opts`: `Omit`<[`IfNode`](modules.md#ifnode), ``"t"``\>) => [`IfNode`](modules.md#ifnode) |
-| `lineChart` | (`opts`: `Omit`<[`LineChartNode`](modules.md#linechartnode), ``"t"``\>) => [`LineChartNode`](modules.md#linechartnode) |
-| `mode` | (`props`: `Omit`<[`ModeNode`](modules.md#modenode), ``"t"``\>) => [`ModeNode`](modules.md#modenode) |
-| `pieChart` | (`opts`: `Omit`<[`PieChartNode`](modules.md#piechartnode), ``"t"``\>) => [`PieChartNode`](modules.md#piechartnode) |
-| `portal` | (`children`: [`Node`](modules.md#node)) => [`PortalNode`](modules.md#portalnode) |
-| `queryParams` | (`params`: [`QueryParam`](interfaces/yom.QueryParam.md)[], `children`: [`Node`](modules.md#node)) => [`QueryParamsNode`](modules.md#queryparamsnode) |
-| `recurse` | (`props`: `Omit`<[`RecurseNode`](interfaces/yom.RecurseNode.md), ``"t"``\>) => [`RecurseNode`](modules.md#recursenode)(`where`: [`SqlExpression`](namespaces/yom.md#sqlexpression)) => [`RecurseNode`](modules.md#recursenode) |
-| `recursive` | (`props`: `Omit`<[`RecursiveNode`](modules.md#recursivenode), ``"t"``\>) => [`RecursiveNode`](modules.md#recursivenode) |
-| `route` | (`props`: `Omit`<[`RouteNode`](modules.md#routenode), ``"t"``\>) => [`RouteNode`](modules.md#routenode) |
-| `routes` | (...`routes`: [`RouteNode`](modules.md#routenode)[]) => [`RoutesNode`](interfaces/RoutesNode.md) |
-| `sourceMap` | (`source`: `string`, `children`: [`Node`](modules.md#node)) => [`SourceMapNode`](modules.md#sourcemapnode) |
-| `state` | (`props`: `StateNodeOpts`) => [`StateNode`](modules.md#statenode) |
-| `switch` | (...`cases`: { `condition`: `string` ; `node`: `undefined` \| [`Node`](modules.md#node)  }[]) => [`SwitchNode`](interfaces/SwitchNode.md) |
+| `barChart` | typeof `barChart` |
+| `dataGrid` | typeof `dataGrid` |
+| `each` | typeof `each` |
+| `element` | typeof `element` |
+| `eventHandlers` | typeof `eventHandlers` |
+| `if` | typeof `if_` |
+| `lineChart` | typeof `lineChart` |
+| `mode` | typeof `mode` |
+| `pieChart` | typeof `pieChart` |
+| `portal` | typeof `portal` |
+| `queryParams` | typeof `queryParams` |
+| `recurse` | typeof `recurse` |
+| `recursive` | typeof `recursive` |
+| `route` | typeof `route` |
+| `routes` | typeof `routes` |
+| `sourceMap` | typeof `sourceMap` |
+| `state` | typeof `state` |
+| `switch` | typeof `switch_` |
 
 #### Defined in
 
-[src/nodeHelpers.ts:206](https://github.com/yolmio/boost/blob/5cada48/src/nodeHelpers.ts#L206)
+@yolm/boost/dist/nodeHelpers.d.ts:52
 
 ## Functions
 
@@ -736,7 +736,7 @@ ___
 
 #### Defined in
 
-[src/profile.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L11)
+@yolm/boost/dist/profile.d.ts:9
 
 ___
 
@@ -756,4 +756,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:1983](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1983)
+@yolm/boost/dist/app.d.ts:727

@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/colorManipulator.ts:46](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L46)
+@yolm/boost/dist/colorManipulator.d.ts:10
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/colorManipulator.ts:44](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L44)
+@yolm/boost/dist/colorManipulator.d.ts:8
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[src/colorManipulator.ts:45](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L45)
+@yolm/boost/dist/colorManipulator.d.ts:9

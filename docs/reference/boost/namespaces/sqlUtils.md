@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:18](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L18)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:3
 
 ## Functions
 
@@ -36,7 +36,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:3](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L3)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:1
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:27](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L27)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:5
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:20](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L20)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:4
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:31](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L31)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:6
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L14)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:2
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:41](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L41)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:7
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 #### Defined in
 
-[src/utils/sqlHelpers.ts:63](https://github.com/yolmio/boost/blob/5cada48/src/utils/sqlHelpers.ts#L63)
+@yolm/boost/dist/utils/sqlHelpers.d.ts:8

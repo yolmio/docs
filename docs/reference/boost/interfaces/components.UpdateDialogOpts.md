@@ -46,7 +46,7 @@ Runs on the client after the service procedure has completed successfully.
 
 #### Defined in
 
-[src/formState.ts:545](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L545)
+@yolm/boost/dist/formState.d.ts:120
 
 ___
 
@@ -77,7 +77,7 @@ Runs after the commit of the transaction, this lets you reference anything done 
 
 #### Defined in
 
-[src/formState.ts:541](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L541)
+@yolm/boost/dist/formState.d.ts:116
 
 ___
 
@@ -109,7 +109,7 @@ in the body of the transaction or you can just do some additional updates or ins
 
 #### Defined in
 
-[src/formState.ts:531](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L531)
+@yolm/boost/dist/formState.d.ts:106
 
 ___
 
@@ -142,7 +142,7 @@ You can set errors in the form state here and we will not start the service proc
 
 #### Defined in
 
-[src/formState.ts:519](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L519)
+@yolm/boost/dist/formState.d.ts:94
 
 ___
 
@@ -175,7 +175,7 @@ for an insert into another table you can do that here.
 
 #### Defined in
 
-[src/formState.ts:537](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L537)
+@yolm/boost/dist/formState.d.ts:112
 
 ___
 
@@ -209,7 +209,7 @@ and instead return the error to the client.
 
 #### Defined in
 
-[src/formState.ts:526](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L526)
+@yolm/boost/dist/formState.d.ts:101
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/components/updateDialog.ts:27](https://github.com/yolmio/boost/blob/5cada48/src/components/updateDialog.ts#L27)
+@yolm/boost/dist/components/updateDialog.d.ts:8
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[src/components/updateDialog.ts:25](https://github.com/yolmio/boost/blob/5cada48/src/components/updateDialog.ts#L25)
+@yolm/boost/dist/components/updateDialog.d.ts:6
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[src/components/updateDialog.ts:24](https://github.com/yolmio/boost/blob/5cada48/src/components/updateDialog.ts#L24)
+@yolm/boost/dist/components/updateDialog.d.ts:5
 
 ___
 
@@ -249,7 +249,7 @@ ___
 
 #### Defined in
 
-[src/components/updateDialog.ts:28](https://github.com/yolmio/boost/blob/5cada48/src/components/updateDialog.ts#L28)
+@yolm/boost/dist/components/updateDialog.d.ts:9
 
 ___
 
@@ -259,4 +259,4 @@ ___
 
 #### Defined in
 
-[src/components/updateDialog.ts:26](https://github.com/yolmio/boost/blob/5cada48/src/components/updateDialog.ts#L26)
+@yolm/boost/dist/components/updateDialog.d.ts:7

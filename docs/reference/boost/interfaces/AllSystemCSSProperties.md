@@ -42,7 +42,7 @@ Omit.KhtmlBoxAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8084
+csstype/index.d.ts:8084
 
 ___
 
@@ -64,7 +64,7 @@ Omit.KhtmlBoxDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8094
+csstype/index.d.ts:8094
 
 ___
 
@@ -86,7 +86,7 @@ Omit.KhtmlBoxFlex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8104
+csstype/index.d.ts:8104
 
 ___
 
@@ -108,7 +108,7 @@ Omit.KhtmlBoxFlexGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8114
+csstype/index.d.ts:8114
 
 ___
 
@@ -130,7 +130,7 @@ Omit.KhtmlBoxLines
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8124
+csstype/index.d.ts:8124
 
 ___
 
@@ -152,7 +152,7 @@ Omit.KhtmlBoxOrdinalGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8134
+csstype/index.d.ts:8134
 
 ___
 
@@ -174,7 +174,7 @@ Omit.KhtmlBoxOrient
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8144
+csstype/index.d.ts:8144
 
 ___
 
@@ -196,7 +196,7 @@ Omit.KhtmlBoxPack
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8154
+csstype/index.d.ts:8154
 
 ___
 
@@ -218,7 +218,7 @@ Omit.KhtmlLineBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8164
+csstype/index.d.ts:8164
 
 ___
 
@@ -240,7 +240,7 @@ Omit.KhtmlOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8174
+csstype/index.d.ts:8174
 
 ___
 
@@ -262,7 +262,7 @@ Omit.KhtmlUserSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8184
+csstype/index.d.ts:8184
 
 ___
 
@@ -280,7 +280,7 @@ Omit.MozAnimation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7671
+csstype/index.d.ts:7671
 
 ___
 
@@ -300,7 +300,7 @@ Omit.MozAnimationDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5878
+csstype/index.d.ts:5878
 
 ___
 
@@ -320,7 +320,7 @@ Omit.MozAnimationDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5886
+csstype/index.d.ts:5886
 
 ___
 
@@ -340,7 +340,7 @@ Omit.MozAnimationDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5894
+csstype/index.d.ts:5894
 
 ___
 
@@ -360,7 +360,7 @@ Omit.MozAnimationFillMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5902
+csstype/index.d.ts:5902
 
 ___
 
@@ -380,7 +380,7 @@ Omit.MozAnimationIterationCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5910
+csstype/index.d.ts:5910
 
 ___
 
@@ -400,7 +400,7 @@ Omit.MozAnimationName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5918
+csstype/index.d.ts:5918
 
 ___
 
@@ -420,7 +420,7 @@ Omit.MozAnimationPlayState
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5926
+csstype/index.d.ts:5926
 
 ___
 
@@ -440,7 +440,7 @@ Omit.MozAnimationTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5934
+csstype/index.d.ts:5934
 
 ___
 
@@ -460,7 +460,7 @@ Omit.MozAppearance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5942
+csstype/index.d.ts:5942
 
 ___
 
@@ -480,7 +480,7 @@ Omit.MozBackfaceVisibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5950
+csstype/index.d.ts:5950
 
 ___
 
@@ -502,7 +502,7 @@ Omit.MozBackgroundClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8194
+csstype/index.d.ts:8194
 
 ___
 
@@ -524,7 +524,7 @@ Omit.MozBackgroundInlinePolicy
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8204
+csstype/index.d.ts:8204
 
 ___
 
@@ -546,7 +546,7 @@ Omit.MozBackgroundOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8214
+csstype/index.d.ts:8214
 
 ___
 
@@ -568,7 +568,7 @@ Omit.MozBackgroundSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8224
+csstype/index.d.ts:8224
 
 ___
 
@@ -588,7 +588,7 @@ Omit.MozBinding
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5958
+csstype/index.d.ts:5958
 
 ___
 
@@ -608,7 +608,7 @@ Omit.MozBorderBottomColors
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5966
+csstype/index.d.ts:5966
 
 ___
 
@@ -628,7 +628,7 @@ Omit.MozBorderEndColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5974
+csstype/index.d.ts:5974
 
 ___
 
@@ -648,7 +648,7 @@ Omit.MozBorderEndStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5982
+csstype/index.d.ts:5982
 
 ___
 
@@ -668,7 +668,7 @@ Omit.MozBorderEndWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5990
+csstype/index.d.ts:5990
 
 ___
 
@@ -686,7 +686,7 @@ Omit.MozBorderImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7677
+csstype/index.d.ts:7677
 
 ___
 
@@ -706,7 +706,7 @@ Omit.MozBorderLeftColors
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5998
+csstype/index.d.ts:5998
 
 ___
 
@@ -726,7 +726,7 @@ Omit.MozBorderRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8232
+csstype/index.d.ts:8232
 
 ___
 
@@ -748,7 +748,7 @@ Omit.MozBorderRadiusBottomleft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8242
+csstype/index.d.ts:8242
 
 ___
 
@@ -770,7 +770,7 @@ Omit.MozBorderRadiusBottomright
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8252
+csstype/index.d.ts:8252
 
 ___
 
@@ -792,7 +792,7 @@ Omit.MozBorderRadiusTopleft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8262
+csstype/index.d.ts:8262
 
 ___
 
@@ -814,7 +814,7 @@ Omit.MozBorderRadiusTopright
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8272
+csstype/index.d.ts:8272
 
 ___
 
@@ -834,7 +834,7 @@ Omit.MozBorderRightColors
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6006
+csstype/index.d.ts:6006
 
 ___
 
@@ -854,7 +854,7 @@ Omit.MozBorderStartColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6014
+csstype/index.d.ts:6014
 
 ___
 
@@ -874,7 +874,7 @@ Omit.MozBorderStartStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6022
+csstype/index.d.ts:6022
 
 ___
 
@@ -894,7 +894,7 @@ Omit.MozBorderTopColors
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6030
+csstype/index.d.ts:6030
 
 ___
 
@@ -916,7 +916,7 @@ Omit.MozBoxAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8282
+csstype/index.d.ts:8282
 
 ___
 
@@ -938,7 +938,7 @@ Omit.MozBoxDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8292
+csstype/index.d.ts:8292
 
 ___
 
@@ -960,7 +960,7 @@ Omit.MozBoxFlex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8302
+csstype/index.d.ts:8302
 
 ___
 
@@ -982,7 +982,7 @@ Omit.MozBoxOrdinalGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8312
+csstype/index.d.ts:8312
 
 ___
 
@@ -1004,7 +1004,7 @@ Omit.MozBoxOrient
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8322
+csstype/index.d.ts:8322
 
 ___
 
@@ -1026,7 +1026,7 @@ Omit.MozBoxPack
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8332
+csstype/index.d.ts:8332
 
 ___
 
@@ -1048,7 +1048,7 @@ Omit.MozBoxShadow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8342
+csstype/index.d.ts:8342
 
 ___
 
@@ -1068,7 +1068,7 @@ Omit.MozBoxSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6038
+csstype/index.d.ts:6038
 
 ___
 
@@ -1088,7 +1088,7 @@ Omit.MozColumnCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6046
+csstype/index.d.ts:6046
 
 ___
 
@@ -1108,7 +1108,7 @@ Omit.MozColumnFill
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6054
+csstype/index.d.ts:6054
 
 ___
 
@@ -1126,7 +1126,7 @@ Omit.MozColumnRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7683
+csstype/index.d.ts:7683
 
 ___
 
@@ -1146,7 +1146,7 @@ Omit.MozColumnRuleColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6062
+csstype/index.d.ts:6062
 
 ___
 
@@ -1166,7 +1166,7 @@ Omit.MozColumnRuleStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6070
+csstype/index.d.ts:6070
 
 ___
 
@@ -1186,7 +1186,7 @@ Omit.MozColumnRuleWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6078
+csstype/index.d.ts:6078
 
 ___
 
@@ -1206,7 +1206,7 @@ Omit.MozColumnWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6086
+csstype/index.d.ts:6086
 
 ___
 
@@ -1224,7 +1224,7 @@ Omit.MozColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7689
+csstype/index.d.ts:7689
 
 ___
 
@@ -1244,7 +1244,7 @@ Omit.MozContextProperties
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6094
+csstype/index.d.ts:6094
 
 ___
 
@@ -1266,7 +1266,7 @@ Omit.MozFloatEdge
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8352
+csstype/index.d.ts:8352
 
 ___
 
@@ -1286,7 +1286,7 @@ Omit.MozFontFeatureSettings
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6102
+csstype/index.d.ts:6102
 
 ___
 
@@ -1306,7 +1306,7 @@ Omit.MozFontLanguageOverride
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6110
+csstype/index.d.ts:6110
 
 ___
 
@@ -1328,7 +1328,7 @@ Omit.MozForceBrokenImageIcon
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8362
+csstype/index.d.ts:8362
 
 ___
 
@@ -1348,7 +1348,7 @@ Omit.MozHyphens
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6118
+csstype/index.d.ts:6118
 
 ___
 
@@ -1368,7 +1368,7 @@ Omit.MozImageRegion
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6126
+csstype/index.d.ts:6126
 
 ___
 
@@ -1388,7 +1388,7 @@ Omit.MozMarginEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6134
+csstype/index.d.ts:6134
 
 ___
 
@@ -1408,7 +1408,7 @@ Omit.MozMarginStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6142
+csstype/index.d.ts:6142
 
 ___
 
@@ -1430,7 +1430,7 @@ Omit.MozOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8372
+csstype/index.d.ts:8372
 
 ___
 
@@ -1450,7 +1450,7 @@ Omit.MozOrient
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6150
+csstype/index.d.ts:6150
 
 ___
 
@@ -1470,7 +1470,7 @@ Omit.MozOsxFontSmoothing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6158
+csstype/index.d.ts:6158
 
 ___
 
@@ -1490,7 +1490,7 @@ Omit.MozOutline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8380
+csstype/index.d.ts:8380
 
 ___
 
@@ -1512,7 +1512,7 @@ Omit.MozOutlineColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8390
+csstype/index.d.ts:8390
 
 ___
 
@@ -1532,7 +1532,7 @@ Omit.MozOutlineRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8398
+csstype/index.d.ts:8398
 
 ___
 
@@ -1554,7 +1554,7 @@ Omit.MozOutlineRadiusBottomleft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8408
+csstype/index.d.ts:8408
 
 ___
 
@@ -1576,7 +1576,7 @@ Omit.MozOutlineRadiusBottomright
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8418
+csstype/index.d.ts:8418
 
 ___
 
@@ -1598,7 +1598,7 @@ Omit.MozOutlineRadiusTopleft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8428
+csstype/index.d.ts:8428
 
 ___
 
@@ -1620,7 +1620,7 @@ Omit.MozOutlineRadiusTopright
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8438
+csstype/index.d.ts:8438
 
 ___
 
@@ -1642,7 +1642,7 @@ Omit.MozOutlineStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8448
+csstype/index.d.ts:8448
 
 ___
 
@@ -1664,7 +1664,7 @@ Omit.MozOutlineWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8458
+csstype/index.d.ts:8458
 
 ___
 
@@ -1684,7 +1684,7 @@ Omit.MozPaddingEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6166
+csstype/index.d.ts:6166
 
 ___
 
@@ -1704,7 +1704,7 @@ Omit.MozPaddingStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6174
+csstype/index.d.ts:6174
 
 ___
 
@@ -1724,7 +1724,7 @@ Omit.MozPerspective
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6182
+csstype/index.d.ts:6182
 
 ___
 
@@ -1744,7 +1744,7 @@ Omit.MozPerspectiveOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6190
+csstype/index.d.ts:6190
 
 ___
 
@@ -1764,7 +1764,7 @@ Omit.MozStackSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6198
+csstype/index.d.ts:6198
 
 ___
 
@@ -1784,7 +1784,7 @@ Omit.MozTabSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6206
+csstype/index.d.ts:6206
 
 ___
 
@@ -1806,7 +1806,7 @@ Omit.MozTextAlignLast
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8468
+csstype/index.d.ts:8468
 
 ___
 
@@ -1826,7 +1826,7 @@ Omit.MozTextBlink
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6214
+csstype/index.d.ts:6214
 
 ___
 
@@ -1848,7 +1848,7 @@ Omit.MozTextDecorationColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8478
+csstype/index.d.ts:8478
 
 ___
 
@@ -1870,7 +1870,7 @@ Omit.MozTextDecorationLine
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8488
+csstype/index.d.ts:8488
 
 ___
 
@@ -1892,7 +1892,7 @@ Omit.MozTextDecorationStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8498
+csstype/index.d.ts:8498
 
 ___
 
@@ -1912,7 +1912,7 @@ Omit.MozTextSizeAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6222
+csstype/index.d.ts:6222
 
 ___
 
@@ -1932,7 +1932,7 @@ Omit.MozTransformOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6230
+csstype/index.d.ts:6230
 
 ___
 
@@ -1952,7 +1952,7 @@ Omit.MozTransformStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6238
+csstype/index.d.ts:6238
 
 ___
 
@@ -1970,7 +1970,7 @@ Omit.MozTransition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7695
+csstype/index.d.ts:7695
 
 ___
 
@@ -1990,7 +1990,7 @@ Omit.MozTransitionDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6246
+csstype/index.d.ts:6246
 
 ___
 
@@ -2010,7 +2010,7 @@ Omit.MozTransitionDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6254
+csstype/index.d.ts:6254
 
 ___
 
@@ -2030,7 +2030,7 @@ Omit.MozTransitionProperty
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6262
+csstype/index.d.ts:6262
 
 ___
 
@@ -2050,7 +2050,7 @@ Omit.MozTransitionTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6270
+csstype/index.d.ts:6270
 
 ___
 
@@ -2070,7 +2070,7 @@ Omit.MozUserFocus
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6278
+csstype/index.d.ts:6278
 
 ___
 
@@ -2092,7 +2092,7 @@ Omit.MozUserInput
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8508
+csstype/index.d.ts:8508
 
 ___
 
@@ -2112,7 +2112,7 @@ Omit.MozUserModify
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6286
+csstype/index.d.ts:6286
 
 ___
 
@@ -2132,7 +2132,7 @@ Omit.MozUserSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6294
+csstype/index.d.ts:6294
 
 ___
 
@@ -2152,7 +2152,7 @@ Omit.MozWindowDragging
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6302
+csstype/index.d.ts:6302
 
 ___
 
@@ -2172,7 +2172,7 @@ Omit.MozWindowShadow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6310
+csstype/index.d.ts:6310
 
 ___
 
@@ -2192,7 +2192,7 @@ Omit.OAnimation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8526
+csstype/index.d.ts:8526
 
 ___
 
@@ -2214,7 +2214,7 @@ Omit.OAnimationDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8536
+csstype/index.d.ts:8536
 
 ___
 
@@ -2236,7 +2236,7 @@ Omit.OAnimationDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8546
+csstype/index.d.ts:8546
 
 ___
 
@@ -2258,7 +2258,7 @@ Omit.OAnimationDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8556
+csstype/index.d.ts:8556
 
 ___
 
@@ -2280,7 +2280,7 @@ Omit.OAnimationFillMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8566
+csstype/index.d.ts:8566
 
 ___
 
@@ -2302,7 +2302,7 @@ Omit.OAnimationIterationCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8576
+csstype/index.d.ts:8576
 
 ___
 
@@ -2324,7 +2324,7 @@ Omit.OAnimationName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8586
+csstype/index.d.ts:8586
 
 ___
 
@@ -2346,7 +2346,7 @@ Omit.OAnimationPlayState
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8596
+csstype/index.d.ts:8596
 
 ___
 
@@ -2368,7 +2368,7 @@ Omit.OAnimationTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8606
+csstype/index.d.ts:8606
 
 ___
 
@@ -2390,7 +2390,7 @@ Omit.OBackgroundSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8616
+csstype/index.d.ts:8616
 
 ___
 
@@ -2410,7 +2410,7 @@ Omit.OBorderImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8624
+csstype/index.d.ts:8624
 
 ___
 
@@ -2432,7 +2432,7 @@ Omit.OObjectFit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8634
+csstype/index.d.ts:8634
 
 ___
 
@@ -2454,7 +2454,7 @@ Omit.OObjectPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8644
+csstype/index.d.ts:8644
 
 ___
 
@@ -2476,7 +2476,7 @@ Omit.OTabSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8654
+csstype/index.d.ts:8654
 
 ___
 
@@ -2498,7 +2498,7 @@ Omit.OTextOverflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8664
+csstype/index.d.ts:8664
 
 ___
 
@@ -2520,7 +2520,7 @@ Omit.OTransform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8674
+csstype/index.d.ts:8674
 
 ___
 
@@ -2542,7 +2542,7 @@ Omit.OTransformOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8684
+csstype/index.d.ts:8684
 
 ___
 
@@ -2562,7 +2562,7 @@ Omit.OTransition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8692
+csstype/index.d.ts:8692
 
 ___
 
@@ -2584,7 +2584,7 @@ Omit.OTransitionDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8702
+csstype/index.d.ts:8702
 
 ___
 
@@ -2606,7 +2606,7 @@ Omit.OTransitionDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8712
+csstype/index.d.ts:8712
 
 ___
 
@@ -2628,7 +2628,7 @@ Omit.OTransitionProperty
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8722
+csstype/index.d.ts:8722
 
 ___
 
@@ -2650,7 +2650,7 @@ Omit.OTransitionTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8732
+csstype/index.d.ts:8732
 
 ___
 
@@ -2670,7 +2670,7 @@ Omit.WebkitAlignContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6806
+csstype/index.d.ts:6806
 
 ___
 
@@ -2690,7 +2690,7 @@ Omit.WebkitAlignItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6814
+csstype/index.d.ts:6814
 
 ___
 
@@ -2710,7 +2710,7 @@ Omit.WebkitAlignSelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6822
+csstype/index.d.ts:6822
 
 ___
 
@@ -2728,7 +2728,7 @@ Omit.WebkitAnimation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7743
+csstype/index.d.ts:7743
 
 ___
 
@@ -2748,7 +2748,7 @@ Omit.WebkitAnimationDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6830
+csstype/index.d.ts:6830
 
 ___
 
@@ -2768,7 +2768,7 @@ Omit.WebkitAnimationDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6838
+csstype/index.d.ts:6838
 
 ___
 
@@ -2788,7 +2788,7 @@ Omit.WebkitAnimationDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6846
+csstype/index.d.ts:6846
 
 ___
 
@@ -2808,7 +2808,7 @@ Omit.WebkitAnimationFillMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6854
+csstype/index.d.ts:6854
 
 ___
 
@@ -2828,7 +2828,7 @@ Omit.WebkitAnimationIterationCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6862
+csstype/index.d.ts:6862
 
 ___
 
@@ -2848,7 +2848,7 @@ Omit.WebkitAnimationName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6870
+csstype/index.d.ts:6870
 
 ___
 
@@ -2868,7 +2868,7 @@ Omit.WebkitAnimationPlayState
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6878
+csstype/index.d.ts:6878
 
 ___
 
@@ -2888,7 +2888,7 @@ Omit.WebkitAnimationTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6886
+csstype/index.d.ts:6886
 
 ___
 
@@ -2908,7 +2908,7 @@ Omit.WebkitAppearance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6894
+csstype/index.d.ts:6894
 
 ___
 
@@ -2928,7 +2928,7 @@ Omit.WebkitBackdropFilter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6902
+csstype/index.d.ts:6902
 
 ___
 
@@ -2948,7 +2948,7 @@ Omit.WebkitBackfaceVisibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6910
+csstype/index.d.ts:6910
 
 ___
 
@@ -2968,7 +2968,7 @@ Omit.WebkitBackgroundClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6918
+csstype/index.d.ts:6918
 
 ___
 
@@ -2988,7 +2988,7 @@ Omit.WebkitBackgroundOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6926
+csstype/index.d.ts:6926
 
 ___
 
@@ -3008,7 +3008,7 @@ Omit.WebkitBackgroundSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6934
+csstype/index.d.ts:6934
 
 ___
 
@@ -3026,7 +3026,7 @@ Omit.WebkitBorderBefore
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7749
+csstype/index.d.ts:7749
 
 ___
 
@@ -3044,7 +3044,7 @@ Omit.WebkitBorderBeforeColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6940
+csstype/index.d.ts:6940
 
 ___
 
@@ -3062,7 +3062,7 @@ Omit.WebkitBorderBeforeStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6946
+csstype/index.d.ts:6946
 
 ___
 
@@ -3080,7 +3080,7 @@ Omit.WebkitBorderBeforeWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6952
+csstype/index.d.ts:6952
 
 ___
 
@@ -3100,7 +3100,7 @@ Omit.WebkitBorderBottomLeftRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6960
+csstype/index.d.ts:6960
 
 ___
 
@@ -3120,7 +3120,7 @@ Omit.WebkitBorderBottomRightRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6968
+csstype/index.d.ts:6968
 
 ___
 
@@ -3138,7 +3138,7 @@ Omit.WebkitBorderImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7755
+csstype/index.d.ts:7755
 
 ___
 
@@ -3158,7 +3158,7 @@ Omit.WebkitBorderImageSlice
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6976
+csstype/index.d.ts:6976
 
 ___
 
@@ -3176,7 +3176,7 @@ Omit.WebkitBorderRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7761
+csstype/index.d.ts:7761
 
 ___
 
@@ -3196,7 +3196,7 @@ Omit.WebkitBorderTopLeftRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6984
+csstype/index.d.ts:6984
 
 ___
 
@@ -3216,7 +3216,7 @@ Omit.WebkitBorderTopRightRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6992
+csstype/index.d.ts:6992
 
 ___
 
@@ -3238,7 +3238,7 @@ Omit.WebkitBoxAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8742
+csstype/index.d.ts:8742
 
 ___
 
@@ -3258,7 +3258,7 @@ Omit.WebkitBoxDecorationBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7000
+csstype/index.d.ts:7000
 
 ___
 
@@ -3280,7 +3280,7 @@ Omit.WebkitBoxDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8752
+csstype/index.d.ts:8752
 
 ___
 
@@ -3302,7 +3302,7 @@ Omit.WebkitBoxFlex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8762
+csstype/index.d.ts:8762
 
 ___
 
@@ -3324,7 +3324,7 @@ Omit.WebkitBoxFlexGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8772
+csstype/index.d.ts:8772
 
 ___
 
@@ -3346,7 +3346,7 @@ Omit.WebkitBoxLines
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8782
+csstype/index.d.ts:8782
 
 ___
 
@@ -3368,7 +3368,7 @@ Omit.WebkitBoxOrdinalGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8792
+csstype/index.d.ts:8792
 
 ___
 
@@ -3390,7 +3390,7 @@ Omit.WebkitBoxOrient
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8802
+csstype/index.d.ts:8802
 
 ___
 
@@ -3412,7 +3412,7 @@ Omit.WebkitBoxPack
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8812
+csstype/index.d.ts:8812
 
 ___
 
@@ -3432,7 +3432,7 @@ Omit.WebkitBoxReflect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7008
+csstype/index.d.ts:7008
 
 ___
 
@@ -3452,7 +3452,7 @@ Omit.WebkitBoxShadow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7016
+csstype/index.d.ts:7016
 
 ___
 
@@ -3472,7 +3472,7 @@ Omit.WebkitBoxSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7024
+csstype/index.d.ts:7024
 
 ___
 
@@ -3492,7 +3492,7 @@ Omit.WebkitClipPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7032
+csstype/index.d.ts:7032
 
 ___
 
@@ -3512,7 +3512,7 @@ Omit.WebkitColumnCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7040
+csstype/index.d.ts:7040
 
 ___
 
@@ -3532,7 +3532,7 @@ Omit.WebkitColumnFill
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7048
+csstype/index.d.ts:7048
 
 ___
 
@@ -3550,7 +3550,7 @@ Omit.WebkitColumnRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7767
+csstype/index.d.ts:7767
 
 ___
 
@@ -3570,7 +3570,7 @@ Omit.WebkitColumnRuleColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7056
+csstype/index.d.ts:7056
 
 ___
 
@@ -3590,7 +3590,7 @@ Omit.WebkitColumnRuleStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7064
+csstype/index.d.ts:7064
 
 ___
 
@@ -3610,7 +3610,7 @@ Omit.WebkitColumnRuleWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7072
+csstype/index.d.ts:7072
 
 ___
 
@@ -3630,7 +3630,7 @@ Omit.WebkitColumnSpan
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7080
+csstype/index.d.ts:7080
 
 ___
 
@@ -3650,7 +3650,7 @@ Omit.WebkitColumnWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7088
+csstype/index.d.ts:7088
 
 ___
 
@@ -3668,7 +3668,7 @@ Omit.WebkitColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7773
+csstype/index.d.ts:7773
 
 ___
 
@@ -3688,7 +3688,7 @@ Omit.WebkitFilter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7096
+csstype/index.d.ts:7096
 
 ___
 
@@ -3706,7 +3706,7 @@ Omit.WebkitFlex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7779
+csstype/index.d.ts:7779
 
 ___
 
@@ -3726,7 +3726,7 @@ Omit.WebkitFlexBasis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7104
+csstype/index.d.ts:7104
 
 ___
 
@@ -3746,7 +3746,7 @@ Omit.WebkitFlexDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7112
+csstype/index.d.ts:7112
 
 ___
 
@@ -3764,7 +3764,7 @@ Omit.WebkitFlexFlow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7785
+csstype/index.d.ts:7785
 
 ___
 
@@ -3784,7 +3784,7 @@ Omit.WebkitFlexGrow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7120
+csstype/index.d.ts:7120
 
 ___
 
@@ -3804,7 +3804,7 @@ Omit.WebkitFlexShrink
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7128
+csstype/index.d.ts:7128
 
 ___
 
@@ -3824,7 +3824,7 @@ Omit.WebkitFlexWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7136
+csstype/index.d.ts:7136
 
 ___
 
@@ -3844,7 +3844,7 @@ Omit.WebkitFontFeatureSettings
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7144
+csstype/index.d.ts:7144
 
 ___
 
@@ -3864,7 +3864,7 @@ Omit.WebkitFontKerning
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7152
+csstype/index.d.ts:7152
 
 ___
 
@@ -3884,7 +3884,7 @@ Omit.WebkitFontSmoothing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7160
+csstype/index.d.ts:7160
 
 ___
 
@@ -3904,7 +3904,7 @@ Omit.WebkitFontVariantLigatures
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7168
+csstype/index.d.ts:7168
 
 ___
 
@@ -3924,7 +3924,7 @@ Omit.WebkitHyphenateCharacter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7176
+csstype/index.d.ts:7176
 
 ___
 
@@ -3944,7 +3944,7 @@ Omit.WebkitHyphens
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7184
+csstype/index.d.ts:7184
 
 ___
 
@@ -3964,7 +3964,7 @@ Omit.WebkitInitialLetter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7192
+csstype/index.d.ts:7192
 
 ___
 
@@ -3984,7 +3984,7 @@ Omit.WebkitJustifyContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7200
+csstype/index.d.ts:7200
 
 ___
 
@@ -4004,7 +4004,7 @@ Omit.WebkitLineBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7208
+csstype/index.d.ts:7208
 
 ___
 
@@ -4024,7 +4024,7 @@ Omit.WebkitLineClamp
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7216
+csstype/index.d.ts:7216
 
 ___
 
@@ -4044,7 +4044,7 @@ Omit.WebkitMarginEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7224
+csstype/index.d.ts:7224
 
 ___
 
@@ -4064,7 +4064,7 @@ Omit.WebkitMarginStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7232
+csstype/index.d.ts:7232
 
 ___
 
@@ -4082,7 +4082,7 @@ Omit.WebkitMask
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7791
+csstype/index.d.ts:7791
 
 ___
 
@@ -4102,7 +4102,7 @@ Omit.WebkitMaskAttachment
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7240
+csstype/index.d.ts:7240
 
 ___
 
@@ -4120,7 +4120,7 @@ Omit.WebkitMaskBoxImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7797
+csstype/index.d.ts:7797
 
 ___
 
@@ -4140,7 +4140,7 @@ Omit.WebkitMaskBoxImageOutset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7248
+csstype/index.d.ts:7248
 
 ___
 
@@ -4160,7 +4160,7 @@ Omit.WebkitMaskBoxImageRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7256
+csstype/index.d.ts:7256
 
 ___
 
@@ -4180,7 +4180,7 @@ Omit.WebkitMaskBoxImageSlice
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7264
+csstype/index.d.ts:7264
 
 ___
 
@@ -4200,7 +4200,7 @@ Omit.WebkitMaskBoxImageSource
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7272
+csstype/index.d.ts:7272
 
 ___
 
@@ -4220,7 +4220,7 @@ Omit.WebkitMaskBoxImageWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7280
+csstype/index.d.ts:7280
 
 ___
 
@@ -4240,7 +4240,7 @@ Omit.WebkitMaskClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7288
+csstype/index.d.ts:7288
 
 ___
 
@@ -4260,7 +4260,7 @@ Omit.WebkitMaskComposite
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7296
+csstype/index.d.ts:7296
 
 ___
 
@@ -4280,7 +4280,7 @@ Omit.WebkitMaskImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7304
+csstype/index.d.ts:7304
 
 ___
 
@@ -4300,7 +4300,7 @@ Omit.WebkitMaskOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7312
+csstype/index.d.ts:7312
 
 ___
 
@@ -4320,7 +4320,7 @@ Omit.WebkitMaskPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7320
+csstype/index.d.ts:7320
 
 ___
 
@@ -4340,7 +4340,7 @@ Omit.WebkitMaskPositionX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7328
+csstype/index.d.ts:7328
 
 ___
 
@@ -4360,7 +4360,7 @@ Omit.WebkitMaskPositionY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7336
+csstype/index.d.ts:7336
 
 ___
 
@@ -4380,7 +4380,7 @@ Omit.WebkitMaskRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7344
+csstype/index.d.ts:7344
 
 ___
 
@@ -4400,7 +4400,7 @@ Omit.WebkitMaskRepeatX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7352
+csstype/index.d.ts:7352
 
 ___
 
@@ -4420,7 +4420,7 @@ Omit.WebkitMaskRepeatY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7360
+csstype/index.d.ts:7360
 
 ___
 
@@ -4440,7 +4440,7 @@ Omit.WebkitMaskSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7368
+csstype/index.d.ts:7368
 
 ___
 
@@ -4460,7 +4460,7 @@ Omit.WebkitMaxInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7376
+csstype/index.d.ts:7376
 
 ___
 
@@ -4480,7 +4480,7 @@ Omit.WebkitOrder
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7384
+csstype/index.d.ts:7384
 
 ___
 
@@ -4500,7 +4500,7 @@ Omit.WebkitOverflowScrolling
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7392
+csstype/index.d.ts:7392
 
 ___
 
@@ -4520,7 +4520,7 @@ Omit.WebkitPaddingEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7400
+csstype/index.d.ts:7400
 
 ___
 
@@ -4540,7 +4540,7 @@ Omit.WebkitPaddingStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7408
+csstype/index.d.ts:7408
 
 ___
 
@@ -4560,7 +4560,7 @@ Omit.WebkitPerspective
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7416
+csstype/index.d.ts:7416
 
 ___
 
@@ -4580,7 +4580,7 @@ Omit.WebkitPerspectiveOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7424
+csstype/index.d.ts:7424
 
 ___
 
@@ -4600,7 +4600,7 @@ Omit.WebkitPrintColorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7432
+csstype/index.d.ts:7432
 
 ___
 
@@ -4620,7 +4620,7 @@ Omit.WebkitRubyPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7440
+csstype/index.d.ts:7440
 
 ___
 
@@ -4642,7 +4642,7 @@ Omit.WebkitScrollSnapPointsX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8822
+csstype/index.d.ts:8822
 
 ___
 
@@ -4664,7 +4664,7 @@ Omit.WebkitScrollSnapPointsY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8832
+csstype/index.d.ts:8832
 
 ___
 
@@ -4684,7 +4684,7 @@ Omit.WebkitScrollSnapType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7448
+csstype/index.d.ts:7448
 
 ___
 
@@ -4704,7 +4704,7 @@ Omit.WebkitShapeMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7456
+csstype/index.d.ts:7456
 
 ___
 
@@ -4724,7 +4724,7 @@ Omit.WebkitTapHighlightColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7464
+csstype/index.d.ts:7464
 
 ___
 
@@ -4744,7 +4744,7 @@ Omit.WebkitTextCombine
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7472
+csstype/index.d.ts:7472
 
 ___
 
@@ -4764,7 +4764,7 @@ Omit.WebkitTextDecorationColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7480
+csstype/index.d.ts:7480
 
 ___
 
@@ -4784,7 +4784,7 @@ Omit.WebkitTextDecorationLine
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7488
+csstype/index.d.ts:7488
 
 ___
 
@@ -4804,7 +4804,7 @@ Omit.WebkitTextDecorationSkip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7496
+csstype/index.d.ts:7496
 
 ___
 
@@ -4824,7 +4824,7 @@ Omit.WebkitTextDecorationStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7504
+csstype/index.d.ts:7504
 
 ___
 
@@ -4842,7 +4842,7 @@ Omit.WebkitTextEmphasis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7803
+csstype/index.d.ts:7803
 
 ___
 
@@ -4862,7 +4862,7 @@ Omit.WebkitTextEmphasisColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7512
+csstype/index.d.ts:7512
 
 ___
 
@@ -4882,7 +4882,7 @@ Omit.WebkitTextEmphasisPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7520
+csstype/index.d.ts:7520
 
 ___
 
@@ -4902,7 +4902,7 @@ Omit.WebkitTextEmphasisStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7528
+csstype/index.d.ts:7528
 
 ___
 
@@ -4922,7 +4922,7 @@ Omit.WebkitTextFillColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7536
+csstype/index.d.ts:7536
 
 ___
 
@@ -4942,7 +4942,7 @@ Omit.WebkitTextOrientation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7544
+csstype/index.d.ts:7544
 
 ___
 
@@ -4962,7 +4962,7 @@ Omit.WebkitTextSizeAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7552
+csstype/index.d.ts:7552
 
 ___
 
@@ -4980,7 +4980,7 @@ Omit.WebkitTextStroke
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7809
+csstype/index.d.ts:7809
 
 ___
 
@@ -5000,7 +5000,7 @@ Omit.WebkitTextStrokeColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7560
+csstype/index.d.ts:7560
 
 ___
 
@@ -5020,7 +5020,7 @@ Omit.WebkitTextStrokeWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7568
+csstype/index.d.ts:7568
 
 ___
 
@@ -5040,7 +5040,7 @@ Omit.WebkitTextUnderlinePosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7576
+csstype/index.d.ts:7576
 
 ___
 
@@ -5060,7 +5060,7 @@ Omit.WebkitTouchCallout
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7584
+csstype/index.d.ts:7584
 
 ___
 
@@ -5080,7 +5080,7 @@ Omit.WebkitTransform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7592
+csstype/index.d.ts:7592
 
 ___
 
@@ -5100,7 +5100,7 @@ Omit.WebkitTransformOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7600
+csstype/index.d.ts:7600
 
 ___
 
@@ -5120,7 +5120,7 @@ Omit.WebkitTransformStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7608
+csstype/index.d.ts:7608
 
 ___
 
@@ -5138,7 +5138,7 @@ Omit.WebkitTransition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7815
+csstype/index.d.ts:7815
 
 ___
 
@@ -5158,7 +5158,7 @@ Omit.WebkitTransitionDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7616
+csstype/index.d.ts:7616
 
 ___
 
@@ -5178,7 +5178,7 @@ Omit.WebkitTransitionDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7624
+csstype/index.d.ts:7624
 
 ___
 
@@ -5198,7 +5198,7 @@ Omit.WebkitTransitionProperty
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7632
+csstype/index.d.ts:7632
 
 ___
 
@@ -5218,7 +5218,7 @@ Omit.WebkitTransitionTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7640
+csstype/index.d.ts:7640
 
 ___
 
@@ -5236,7 +5236,7 @@ Omit.WebkitUserModify
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7646
+csstype/index.d.ts:7646
 
 ___
 
@@ -5256,7 +5256,7 @@ Omit.WebkitUserSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7654
+csstype/index.d.ts:7654
 
 ___
 
@@ -5276,7 +5276,7 @@ Omit.WebkitWritingMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7662
+csstype/index.d.ts:7662
 
 ___
 
@@ -5304,7 +5304,7 @@ Omit.accentColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:25
+csstype/index.d.ts:25
 
 ___
 
@@ -5333,7 +5333,7 @@ Omit.alignContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:40
+csstype/index.d.ts:40
 
 ___
 
@@ -5362,7 +5362,7 @@ Omit.alignItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:55
+csstype/index.d.ts:55
 
 ___
 
@@ -5391,7 +5391,7 @@ Omit.alignSelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:70
+csstype/index.d.ts:70
 
 ___
 
@@ -5419,7 +5419,7 @@ Omit.alignTracks
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:84
+csstype/index.d.ts:84
 
 ___
 
@@ -5433,7 +5433,7 @@ Omit.alignmentBaseline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8836
+csstype/index.d.ts:8836
 
 ___
 
@@ -5461,7 +5461,7 @@ Omit.all
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5080
+csstype/index.d.ts:5080
 
 ___
 
@@ -5488,7 +5488,7 @@ Omit.animation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5093
+csstype/index.d.ts:5093
 
 ___
 
@@ -5516,7 +5516,7 @@ Omit.animationComposition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:98
+csstype/index.d.ts:98
 
 ___
 
@@ -5545,7 +5545,7 @@ Omit.animationDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:113
+csstype/index.d.ts:113
 
 ___
 
@@ -5574,7 +5574,7 @@ Omit.animationDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:128
+csstype/index.d.ts:128
 
 ___
 
@@ -5603,7 +5603,7 @@ Omit.animationDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:143
+csstype/index.d.ts:143
 
 ___
 
@@ -5632,7 +5632,7 @@ Omit.animationFillMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:158
+csstype/index.d.ts:158
 
 ___
 
@@ -5661,7 +5661,7 @@ Omit.animationIterationCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:173
+csstype/index.d.ts:173
 
 ___
 
@@ -5690,7 +5690,7 @@ Omit.animationName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:188
+csstype/index.d.ts:188
 
 ___
 
@@ -5719,7 +5719,7 @@ Omit.animationPlayState
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:203
+csstype/index.d.ts:203
 
 ___
 
@@ -5747,7 +5747,7 @@ Omit.animationTimeline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:217
+csstype/index.d.ts:217
 
 ___
 
@@ -5776,7 +5776,7 @@ Omit.animationTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:232
+csstype/index.d.ts:232
 
 ___
 
@@ -5805,7 +5805,7 @@ Omit.appearance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:247
+csstype/index.d.ts:247
 
 ___
 
@@ -5833,7 +5833,7 @@ Omit.aspectRatio
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:261
+csstype/index.d.ts:261
 
 ___
 
@@ -5855,7 +5855,7 @@ Omit.azimuth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7830
+csstype/index.d.ts:7830
 
 ___
 
@@ -5883,7 +5883,7 @@ Omit.backdropFilter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:275
+csstype/index.d.ts:275
 
 ___
 
@@ -5912,7 +5912,7 @@ Omit.backfaceVisibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:290
+csstype/index.d.ts:290
 
 ___
 
@@ -5938,7 +5938,7 @@ Omit.background
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5105
+csstype/index.d.ts:5105
 
 ___
 
@@ -5966,7 +5966,7 @@ Omit.backgroundAttachment
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:304
+csstype/index.d.ts:304
 
 ___
 
@@ -5994,7 +5994,7 @@ Omit.backgroundBlendMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:318
+csstype/index.d.ts:318
 
 ___
 
@@ -6023,7 +6023,7 @@ Omit.backgroundClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:333
+csstype/index.d.ts:333
 
 ___
 
@@ -6037,7 +6037,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:298](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L298)
+@yolm/boost/dist/styleTypes.d.ts:287
 
 ___
 
@@ -6065,7 +6065,7 @@ Omit.backgroundImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:361
+csstype/index.d.ts:361
 
 ___
 
@@ -6093,7 +6093,7 @@ Omit.backgroundOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:375
+csstype/index.d.ts:375
 
 ___
 
@@ -6121,7 +6121,7 @@ Omit.backgroundPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5119
+csstype/index.d.ts:5119
 
 ___
 
@@ -6149,7 +6149,7 @@ Omit.backgroundPositionX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:389
+csstype/index.d.ts:389
 
 ___
 
@@ -6177,7 +6177,7 @@ Omit.backgroundPositionY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:403
+csstype/index.d.ts:403
 
 ___
 
@@ -6205,7 +6205,7 @@ Omit.backgroundRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:417
+csstype/index.d.ts:417
 
 ___
 
@@ -6234,7 +6234,7 @@ Omit.backgroundSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:432
+csstype/index.d.ts:432
 
 ___
 
@@ -6248,7 +6248,7 @@ Omit.baselineShift
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8837
+csstype/index.d.ts:8837
 
 ___
 
@@ -6274,7 +6274,7 @@ https://developer.mozilla.org/docs/Web/CSS/background-color
 
 #### Defined in
 
-[src/styleTypes.ts:28](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L28)
+@yolm/boost/dist/styleTypes.d.ts:18
 
 ___
 
@@ -6292,7 +6292,7 @@ Omit.blockOverflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:438
+csstype/index.d.ts:438
 
 ___
 
@@ -6320,13 +6320,13 @@ Omit.blockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:452
+csstype/index.d.ts:452
 
 ___
 
 ### border
 
-• `Optional` **border**: `number` \| ``"hidden"`` \| ``"ActiveBorder"`` \| ``"solid"`` \| ``"white"`` \| ``"black"`` \| `string` & {} \| ``"inset"`` \| ``"-moz-initial"`` \| ``"inherit"`` \| ``"initial"`` \| ``"revert"`` \| ``"revert-layer"`` \| ``"unset"`` \| ``"aliceblue"`` \| ``"antiquewhite"`` \| ``"aqua"`` \| ``"aquamarine"`` \| ``"azure"`` \| ``"beige"`` \| ``"bisque"`` \| ``"blanchedalmond"`` \| ``"blue"`` \| ``"blueviolet"`` \| ``"brown"`` \| ``"burlywood"`` \| ``"cadetblue"`` \| ``"chartreuse"`` \| ``"chocolate"`` \| ``"coral"`` \| ``"cornflowerblue"`` \| ``"cornsilk"`` \| ``"crimson"`` \| ``"cyan"`` \| ``"darkblue"`` \| ``"darkcyan"`` \| ``"darkgoldenrod"`` \| ``"darkgray"`` \| ``"darkgreen"`` \| ``"darkgrey"`` \| ``"darkkhaki"`` \| ``"darkmagenta"`` \| ``"darkolivegreen"`` \| ``"darkorange"`` \| ``"darkorchid"`` \| ``"darkred"`` \| ``"darksalmon"`` \| ``"darkseagreen"`` \| ``"darkslateblue"`` \| ``"darkslategray"`` \| ``"darkslategrey"`` \| ``"darkturquoise"`` \| ``"darkviolet"`` \| ``"deeppink"`` \| ``"deepskyblue"`` \| ``"dimgray"`` \| ``"dimgrey"`` \| ``"dodgerblue"`` \| ``"firebrick"`` \| ``"floralwhite"`` \| ``"forestgreen"`` \| ``"fuchsia"`` \| ``"gainsboro"`` \| ``"ghostwhite"`` \| ``"gold"`` \| ``"goldenrod"`` \| ``"gray"`` \| ``"green"`` \| ``"greenyellow"`` \| ``"grey"`` \| ``"honeydew"`` \| ``"hotpink"`` \| ``"indianred"`` \| ``"indigo"`` \| ``"ivory"`` \| ``"khaki"`` \| ``"lavender"`` \| ``"lavenderblush"`` \| ``"lawngreen"`` \| ``"lemonchiffon"`` \| ``"lightblue"`` \| ``"lightcoral"`` \| ``"lightcyan"`` \| ``"lightgoldenrodyellow"`` \| ``"lightgray"`` \| ``"lightgreen"`` \| ``"lightgrey"`` \| ``"lightpink"`` \| ``"lightsalmon"`` \| ``"lightseagreen"`` \| ``"lightskyblue"`` \| ``"lightslategray"`` \| ``"lightslategrey"`` \| ``"lightsteelblue"`` \| ``"lightyellow"`` \| ``"lime"`` \| ``"limegreen"`` \| ``"linen"`` \| ``"magenta"`` \| ``"maroon"`` \| ``"mediumaquamarine"`` \| ``"mediumblue"`` \| ``"mediumorchid"`` \| ``"mediumpurple"`` \| ``"mediumseagreen"`` \| ``"mediumslateblue"`` \| ``"mediumspringgreen"`` \| ``"mediumturquoise"`` \| ``"mediumvioletred"`` \| ``"midnightblue"`` \| ``"mintcream"`` \| ``"mistyrose"`` \| ``"moccasin"`` \| ``"navajowhite"`` \| ``"navy"`` \| ``"oldlace"`` \| ``"olive"`` \| ``"olivedrab"`` \| ``"orange"`` \| ``"orangered"`` \| ``"orchid"`` \| ``"palegoldenrod"`` \| ``"palegreen"`` \| ``"paleturquoise"`` \| ``"palevioletred"`` \| ``"papayawhip"`` \| ``"peachpuff"`` \| ``"peru"`` \| ``"pink"`` \| ``"plum"`` \| ``"powderblue"`` \| ``"purple"`` \| ``"rebeccapurple"`` \| ``"red"`` \| ``"rosybrown"`` \| ``"royalblue"`` \| ``"saddlebrown"`` \| ``"salmon"`` \| ``"sandybrown"`` \| ``"seagreen"`` \| ``"seashell"`` \| ``"sienna"`` \| ``"silver"`` \| ``"skyblue"`` \| ``"slateblue"`` \| ``"slategray"`` \| ``"slategrey"`` \| ``"snow"`` \| ``"springgreen"`` \| ``"steelblue"`` \| ``"tan"`` \| ``"teal"`` \| ``"thistle"`` \| ``"tomato"`` \| ``"transparent"`` \| ``"turquoise"`` \| ``"violet"`` \| ``"wheat"`` \| ``"whitesmoke"`` \| ``"yellow"`` \| ``"yellowgreen"`` \| ``"ActiveCaption"`` \| ``"AppWorkspace"`` \| ``"Background"`` \| ``"ButtonFace"`` \| ``"ButtonHighlight"`` \| ``"ButtonShadow"`` \| ``"ButtonText"`` \| ``"CaptionText"`` \| ``"GrayText"`` \| ``"Highlight"`` \| ``"HighlightText"`` \| ``"InactiveBorder"`` \| ``"InactiveCaption"`` \| ``"InactiveCaptionText"`` \| ``"InfoBackground"`` \| ``"InfoText"`` \| ``"Menu"`` \| ``"MenuText"`` \| ``"Scrollbar"`` \| ``"ThreeDDarkShadow"`` \| ``"ThreeDFace"`` \| ``"ThreeDHighlight"`` \| ``"ThreeDLightShadow"`` \| ``"ThreeDShadow"`` \| ``"Window"`` \| ``"WindowFrame"`` \| ``"WindowText"`` \| ``"currentcolor"`` \| ``"none"`` \| ``"medium"`` \| ``"thick"`` \| ``"thin"`` \| ``"dashed"`` \| ``"dotted"`` \| ``"double"`` \| ``"groove"`` \| ``"outset"`` \| ``"ridge"``
+• `Optional` **border**: `number` \| ``"solid"`` \| ``"hidden"`` \| `string` & {} \| ``"inset"`` \| ``"Highlight"`` \| ``"Menu"`` \| ``"Window"`` \| ``"inherit"`` \| ``"none"`` \| ``"ActiveBorder"`` \| ``"white"`` \| ``"black"`` \| ``"-moz-initial"`` \| ``"initial"`` \| ``"revert"`` \| ``"revert-layer"`` \| ``"unset"`` \| ``"aliceblue"`` \| ``"antiquewhite"`` \| ``"aqua"`` \| ``"aquamarine"`` \| ``"azure"`` \| ``"beige"`` \| ``"bisque"`` \| ``"blanchedalmond"`` \| ``"blue"`` \| ``"blueviolet"`` \| ``"brown"`` \| ``"burlywood"`` \| ``"cadetblue"`` \| ``"chartreuse"`` \| ``"chocolate"`` \| ``"coral"`` \| ``"cornflowerblue"`` \| ``"cornsilk"`` \| ``"crimson"`` \| ``"cyan"`` \| ``"darkblue"`` \| ``"darkcyan"`` \| ``"darkgoldenrod"`` \| ``"darkgray"`` \| ``"darkgreen"`` \| ``"darkgrey"`` \| ``"darkkhaki"`` \| ``"darkmagenta"`` \| ``"darkolivegreen"`` \| ``"darkorange"`` \| ``"darkorchid"`` \| ``"darkred"`` \| ``"darksalmon"`` \| ``"darkseagreen"`` \| ``"darkslateblue"`` \| ``"darkslategray"`` \| ``"darkslategrey"`` \| ``"darkturquoise"`` \| ``"darkviolet"`` \| ``"deeppink"`` \| ``"deepskyblue"`` \| ``"dimgray"`` \| ``"dimgrey"`` \| ``"dodgerblue"`` \| ``"firebrick"`` \| ``"floralwhite"`` \| ``"forestgreen"`` \| ``"fuchsia"`` \| ``"gainsboro"`` \| ``"ghostwhite"`` \| ``"gold"`` \| ``"goldenrod"`` \| ``"gray"`` \| ``"green"`` \| ``"greenyellow"`` \| ``"grey"`` \| ``"honeydew"`` \| ``"hotpink"`` \| ``"indianred"`` \| ``"indigo"`` \| ``"ivory"`` \| ``"khaki"`` \| ``"lavender"`` \| ``"lavenderblush"`` \| ``"lawngreen"`` \| ``"lemonchiffon"`` \| ``"lightblue"`` \| ``"lightcoral"`` \| ``"lightcyan"`` \| ``"lightgoldenrodyellow"`` \| ``"lightgray"`` \| ``"lightgreen"`` \| ``"lightgrey"`` \| ``"lightpink"`` \| ``"lightsalmon"`` \| ``"lightseagreen"`` \| ``"lightskyblue"`` \| ``"lightslategray"`` \| ``"lightslategrey"`` \| ``"lightsteelblue"`` \| ``"lightyellow"`` \| ``"lime"`` \| ``"limegreen"`` \| ``"linen"`` \| ``"magenta"`` \| ``"maroon"`` \| ``"mediumaquamarine"`` \| ``"mediumblue"`` \| ``"mediumorchid"`` \| ``"mediumpurple"`` \| ``"mediumseagreen"`` \| ``"mediumslateblue"`` \| ``"mediumspringgreen"`` \| ``"mediumturquoise"`` \| ``"mediumvioletred"`` \| ``"midnightblue"`` \| ``"mintcream"`` \| ``"mistyrose"`` \| ``"moccasin"`` \| ``"navajowhite"`` \| ``"navy"`` \| ``"oldlace"`` \| ``"olive"`` \| ``"olivedrab"`` \| ``"orange"`` \| ``"orangered"`` \| ``"orchid"`` \| ``"palegoldenrod"`` \| ``"palegreen"`` \| ``"paleturquoise"`` \| ``"palevioletred"`` \| ``"papayawhip"`` \| ``"peachpuff"`` \| ``"peru"`` \| ``"pink"`` \| ``"plum"`` \| ``"powderblue"`` \| ``"purple"`` \| ``"rebeccapurple"`` \| ``"red"`` \| ``"rosybrown"`` \| ``"royalblue"`` \| ``"saddlebrown"`` \| ``"salmon"`` \| ``"sandybrown"`` \| ``"seagreen"`` \| ``"seashell"`` \| ``"sienna"`` \| ``"silver"`` \| ``"skyblue"`` \| ``"slateblue"`` \| ``"slategray"`` \| ``"slategrey"`` \| ``"snow"`` \| ``"springgreen"`` \| ``"steelblue"`` \| ``"tan"`` \| ``"teal"`` \| ``"thistle"`` \| ``"tomato"`` \| ``"transparent"`` \| ``"turquoise"`` \| ``"violet"`` \| ``"wheat"`` \| ``"whitesmoke"`` \| ``"yellow"`` \| ``"yellowgreen"`` \| ``"ActiveCaption"`` \| ``"AppWorkspace"`` \| ``"Background"`` \| ``"ButtonFace"`` \| ``"ButtonHighlight"`` \| ``"ButtonShadow"`` \| ``"ButtonText"`` \| ``"CaptionText"`` \| ``"GrayText"`` \| ``"HighlightText"`` \| ``"InactiveBorder"`` \| ``"InactiveCaption"`` \| ``"InactiveCaptionText"`` \| ``"InfoBackground"`` \| ``"InfoText"`` \| ``"MenuText"`` \| ``"Scrollbar"`` \| ``"ThreeDDarkShadow"`` \| ``"ThreeDFace"`` \| ``"ThreeDHighlight"`` \| ``"ThreeDLightShadow"`` \| ``"ThreeDShadow"`` \| ``"WindowFrame"`` \| ``"WindowText"`` \| ``"currentcolor"`` \| ``"medium"`` \| ``"thick"`` \| ``"thin"`` \| ``"dashed"`` \| ``"dotted"`` \| ``"double"`` \| ``"groove"`` \| ``"outset"`` \| ``"ridge"``
 
 The **`border`** CSS property is shorthand for the CSS properties **`border-width`**, **`border-style`**, and **`border-color`**. It sets an element's border.
 
@@ -6346,7 +6346,7 @@ https://developer.mozilla.org/docs/Web/CSS/border
 
 #### Defined in
 
-[src/styleTypes.ts:310](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L310)
+@yolm/boost/dist/styleTypes.d.ts:299
 
 ___
 
@@ -6372,7 +6372,7 @@ Omit.borderBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5143
+csstype/index.d.ts:5143
 
 ___
 
@@ -6400,7 +6400,7 @@ Omit.borderBlockColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:466
+csstype/index.d.ts:466
 
 ___
 
@@ -6426,7 +6426,7 @@ Omit.borderBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5155
+csstype/index.d.ts:5155
 
 ___
 
@@ -6454,7 +6454,7 @@ Omit.borderBlockEndColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:480
+csstype/index.d.ts:480
 
 ___
 
@@ -6482,7 +6482,7 @@ Omit.borderBlockEndStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:494
+csstype/index.d.ts:494
 
 ___
 
@@ -6510,7 +6510,7 @@ Omit.borderBlockEndWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:508
+csstype/index.d.ts:508
 
 ___
 
@@ -6536,7 +6536,7 @@ Omit.borderBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5167
+csstype/index.d.ts:5167
 
 ___
 
@@ -6564,7 +6564,7 @@ Omit.borderBlockStartColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:522
+csstype/index.d.ts:522
 
 ___
 
@@ -6592,7 +6592,7 @@ Omit.borderBlockStartStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:536
+csstype/index.d.ts:536
 
 ___
 
@@ -6620,7 +6620,7 @@ Omit.borderBlockStartWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:550
+csstype/index.d.ts:550
 
 ___
 
@@ -6648,7 +6648,7 @@ Omit.borderBlockStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:564
+csstype/index.d.ts:564
 
 ___
 
@@ -6676,7 +6676,7 @@ Omit.borderBlockWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:578
+csstype/index.d.ts:578
 
 ___
 
@@ -6702,7 +6702,7 @@ Omit.borderBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5179
+csstype/index.d.ts:5179
 
 ___
 
@@ -6730,7 +6730,7 @@ Omit.borderBottomColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:592
+csstype/index.d.ts:592
 
 ___
 
@@ -6759,7 +6759,7 @@ Omit.borderBottomLeftRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:607
+csstype/index.d.ts:607
 
 ___
 
@@ -6788,7 +6788,7 @@ Omit.borderBottomRightRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:622
+csstype/index.d.ts:622
 
 ___
 
@@ -6816,7 +6816,7 @@ Omit.borderBottomStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:636
+csstype/index.d.ts:636
 
 ___
 
@@ -6844,7 +6844,7 @@ Omit.borderBottomWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:650
+csstype/index.d.ts:650
 
 ___
 
@@ -6872,7 +6872,7 @@ Omit.borderCollapse
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:664
+csstype/index.d.ts:664
 
 ___
 
@@ -6886,7 +6886,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:297](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L297)
+@yolm/boost/dist/styleTypes.d.ts:286
 
 ___
 
@@ -6914,7 +6914,7 @@ Omit.borderEndEndRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:678
+csstype/index.d.ts:678
 
 ___
 
@@ -6942,7 +6942,7 @@ Omit.borderEndStartRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:692
+csstype/index.d.ts:692
 
 ___
 
@@ -6969,7 +6969,7 @@ Omit.borderImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5204
+csstype/index.d.ts:5204
 
 ___
 
@@ -6997,7 +6997,7 @@ Omit.borderImageOutset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:706
+csstype/index.d.ts:706
 
 ___
 
@@ -7025,7 +7025,7 @@ Omit.borderImageRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:720
+csstype/index.d.ts:720
 
 ___
 
@@ -7053,7 +7053,7 @@ Omit.borderImageSlice
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:734
+csstype/index.d.ts:734
 
 ___
 
@@ -7081,7 +7081,7 @@ Omit.borderImageSource
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:748
+csstype/index.d.ts:748
 
 ___
 
@@ -7109,7 +7109,7 @@ Omit.borderImageWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:762
+csstype/index.d.ts:762
 
 ___
 
@@ -7135,7 +7135,7 @@ Omit.borderInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5216
+csstype/index.d.ts:5216
 
 ___
 
@@ -7163,7 +7163,7 @@ Omit.borderInlineColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:776
+csstype/index.d.ts:776
 
 ___
 
@@ -7189,7 +7189,7 @@ Omit.borderInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5228
+csstype/index.d.ts:5228
 
 ___
 
@@ -7218,7 +7218,7 @@ Omit.borderInlineEndColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:791
+csstype/index.d.ts:791
 
 ___
 
@@ -7247,7 +7247,7 @@ Omit.borderInlineEndStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:806
+csstype/index.d.ts:806
 
 ___
 
@@ -7276,7 +7276,7 @@ Omit.borderInlineEndWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:821
+csstype/index.d.ts:821
 
 ___
 
@@ -7302,7 +7302,7 @@ Omit.borderInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5240
+csstype/index.d.ts:5240
 
 ___
 
@@ -7331,7 +7331,7 @@ Omit.borderInlineStartColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:836
+csstype/index.d.ts:836
 
 ___
 
@@ -7360,7 +7360,7 @@ Omit.borderInlineStartStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:851
+csstype/index.d.ts:851
 
 ___
 
@@ -7388,7 +7388,7 @@ Omit.borderInlineStartWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:865
+csstype/index.d.ts:865
 
 ___
 
@@ -7416,7 +7416,7 @@ Omit.borderInlineStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:879
+csstype/index.d.ts:879
 
 ___
 
@@ -7444,7 +7444,7 @@ Omit.borderInlineWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:893
+csstype/index.d.ts:893
 
 ___
 
@@ -7470,7 +7470,7 @@ Omit.borderLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5252
+csstype/index.d.ts:5252
 
 ___
 
@@ -7498,7 +7498,7 @@ Omit.borderLeftColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:907
+csstype/index.d.ts:907
 
 ___
 
@@ -7526,7 +7526,7 @@ Omit.borderLeftStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:921
+csstype/index.d.ts:921
 
 ___
 
@@ -7554,7 +7554,7 @@ Omit.borderLeftWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:935
+csstype/index.d.ts:935
 
 ___
 
@@ -7581,7 +7581,7 @@ Omit.borderRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5265
+csstype/index.d.ts:5265
 
 ___
 
@@ -7607,7 +7607,7 @@ Omit.borderRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5277
+csstype/index.d.ts:5277
 
 ___
 
@@ -7635,7 +7635,7 @@ Omit.borderRightColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:949
+csstype/index.d.ts:949
 
 ___
 
@@ -7663,7 +7663,7 @@ Omit.borderRightStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:963
+csstype/index.d.ts:963
 
 ___
 
@@ -7691,7 +7691,7 @@ Omit.borderRightWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:977
+csstype/index.d.ts:977
 
 ___
 
@@ -7719,7 +7719,7 @@ Omit.borderSpacing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:991
+csstype/index.d.ts:991
 
 ___
 
@@ -7747,7 +7747,7 @@ Omit.borderStartEndRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1005
+csstype/index.d.ts:1005
 
 ___
 
@@ -7775,7 +7775,7 @@ Omit.borderStartStartRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1019
+csstype/index.d.ts:1019
 
 ___
 
@@ -7801,7 +7801,7 @@ Omit.borderStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5289
+csstype/index.d.ts:5289
 
 ___
 
@@ -7827,7 +7827,7 @@ Omit.borderTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5301
+csstype/index.d.ts:5301
 
 ___
 
@@ -7855,7 +7855,7 @@ Omit.borderTopColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1033
+csstype/index.d.ts:1033
 
 ___
 
@@ -7884,7 +7884,7 @@ Omit.borderTopLeftRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1048
+csstype/index.d.ts:1048
 
 ___
 
@@ -7913,7 +7913,7 @@ Omit.borderTopRightRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1063
+csstype/index.d.ts:1063
 
 ___
 
@@ -7941,7 +7941,7 @@ Omit.borderTopStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1077
+csstype/index.d.ts:1077
 
 ___
 
@@ -7969,7 +7969,7 @@ Omit.borderTopWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1091
+csstype/index.d.ts:1091
 
 ___
 
@@ -7995,7 +7995,7 @@ Omit.borderWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5313
+csstype/index.d.ts:5313
 
 ___
 
@@ -8023,7 +8023,7 @@ Omit.bottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1105
+csstype/index.d.ts:1105
 
 ___
 
@@ -8045,7 +8045,7 @@ Omit.boxAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7840
+csstype/index.d.ts:7840
 
 ___
 
@@ -8073,7 +8073,7 @@ Omit.boxDecorationBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1119
+csstype/index.d.ts:1119
 
 ___
 
@@ -8095,7 +8095,7 @@ Omit.boxDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7850
+csstype/index.d.ts:7850
 
 ___
 
@@ -8117,7 +8117,7 @@ Omit.boxFlex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7860
+csstype/index.d.ts:7860
 
 ___
 
@@ -8139,7 +8139,7 @@ Omit.boxFlexGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7870
+csstype/index.d.ts:7870
 
 ___
 
@@ -8161,7 +8161,7 @@ Omit.boxLines
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7880
+csstype/index.d.ts:7880
 
 ___
 
@@ -8183,7 +8183,7 @@ Omit.boxOrdinalGroup
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7890
+csstype/index.d.ts:7890
 
 ___
 
@@ -8205,7 +8205,7 @@ Omit.boxOrient
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7900
+csstype/index.d.ts:7900
 
 ___
 
@@ -8227,13 +8227,13 @@ Omit.boxPack
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7910
+csstype/index.d.ts:7910
 
 ___
 
 ### boxShadow
 
-• `Optional` **boxShadow**: `BoxShadow` \| keyof `Shadow`
+• `Optional` **boxShadow**: keyof `Shadow` \| `BoxShadow`
 
 The **`box-shadow`** CSS property adds shadow effects around an element's frame. You can set multiple effects separated by commas. A box shadow is described by X and Y offsets relative to the
 element for blur and spread radii, and by its color.
@@ -8255,7 +8255,7 @@ https://developer.mozilla.org/docs/Web/CSS/box-shadow
 
 #### Defined in
 
-[src/styleTypes.ts:324](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L324)
+@yolm/boost/dist/styleTypes.d.ts:313
 
 ___
 
@@ -8284,7 +8284,7 @@ Omit.boxSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1149
+csstype/index.d.ts:1149
 
 ___
 
@@ -8312,7 +8312,7 @@ Omit.breakAfter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1163
+csstype/index.d.ts:1163
 
 ___
 
@@ -8340,7 +8340,7 @@ Omit.breakBefore
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1177
+csstype/index.d.ts:1177
 
 ___
 
@@ -8368,7 +8368,7 @@ Omit.breakInside
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1191
+csstype/index.d.ts:1191
 
 ___
 
@@ -8396,7 +8396,7 @@ Omit.captionSide
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1205
+csstype/index.d.ts:1205
 
 ___
 
@@ -8412,7 +8412,7 @@ Omit.caret
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5315
+csstype/index.d.ts:5315
 
 ___
 
@@ -8440,7 +8440,7 @@ Omit.caretColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1219
+csstype/index.d.ts:1219
 
 ___
 
@@ -8458,7 +8458,7 @@ Omit.caretShape
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1225
+csstype/index.d.ts:1225
 
 ___
 
@@ -8486,7 +8486,7 @@ Omit.clear
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1239
+csstype/index.d.ts:1239
 
 ___
 
@@ -8508,7 +8508,7 @@ Omit.clip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7920
+csstype/index.d.ts:7920
 
 ___
 
@@ -8537,7 +8537,7 @@ Omit.clipPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1254
+csstype/index.d.ts:1254
 
 ___
 
@@ -8551,7 +8551,7 @@ Omit.clipRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8840
+csstype/index.d.ts:8840
 
 ___
 
@@ -8565,7 +8565,7 @@ ___
 
 #### Defined in
 
-[src/styleTypes.ts:296](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L296)
+@yolm/boost/dist/styleTypes.d.ts:285
 
 ___
 
@@ -8594,7 +8594,7 @@ Omit.colorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1283
+csstype/index.d.ts:1283
 
 ___
 
@@ -8608,7 +8608,7 @@ Omit.colorInterpolation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8842
+csstype/index.d.ts:8842
 
 ___
 
@@ -8622,7 +8622,7 @@ Omit.colorRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8843
+csstype/index.d.ts:8843
 
 ___
 
@@ -8650,7 +8650,7 @@ Omit.colorScheme
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1297
+csstype/index.d.ts:1297
 
 ___
 
@@ -8679,7 +8679,7 @@ Omit.columnCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1312
+csstype/index.d.ts:1312
 
 ___
 
@@ -8708,7 +8708,7 @@ Omit.columnFill
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1327
+csstype/index.d.ts:1327
 
 ___
 
@@ -8736,7 +8736,7 @@ Omit.columnGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1341
+csstype/index.d.ts:1341
 
 ___
 
@@ -8763,7 +8763,7 @@ Omit.columnRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5328
+csstype/index.d.ts:5328
 
 ___
 
@@ -8792,7 +8792,7 @@ Omit.columnRuleColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1356
+csstype/index.d.ts:1356
 
 ___
 
@@ -8821,7 +8821,7 @@ Omit.columnRuleStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1371
+csstype/index.d.ts:1371
 
 ___
 
@@ -8850,7 +8850,7 @@ Omit.columnRuleWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1386
+csstype/index.d.ts:1386
 
 ___
 
@@ -8879,7 +8879,7 @@ Omit.columnSpan
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1401
+csstype/index.d.ts:1401
 
 ___
 
@@ -8908,7 +8908,7 @@ Omit.columnWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1416
+csstype/index.d.ts:1416
 
 ___
 
@@ -8935,7 +8935,7 @@ Omit.columns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5341
+csstype/index.d.ts:5341
 
 ___
 
@@ -8963,7 +8963,7 @@ Omit.contain
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1430
+csstype/index.d.ts:1430
 
 ___
 
@@ -8991,7 +8991,7 @@ Omit.containIntrinsicBlockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1444
+csstype/index.d.ts:1444
 
 ___
 
@@ -9019,7 +9019,7 @@ Omit.containIntrinsicHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1458
+csstype/index.d.ts:1458
 
 ___
 
@@ -9047,7 +9047,7 @@ Omit.containIntrinsicInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1472
+csstype/index.d.ts:1472
 
 ___
 
@@ -9073,7 +9073,7 @@ Omit.containIntrinsicSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5353
+csstype/index.d.ts:5353
 
 ___
 
@@ -9101,7 +9101,7 @@ Omit.containIntrinsicWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1486
+csstype/index.d.ts:1486
 
 ___
 
@@ -9127,7 +9127,7 @@ Omit.container
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5365
+csstype/index.d.ts:5365
 
 ___
 
@@ -9159,7 +9159,7 @@ Omit.containerName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1500
+csstype/index.d.ts:1500
 
 ___
 
@@ -9187,7 +9187,7 @@ Omit.containerType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1514
+csstype/index.d.ts:1514
 
 ___
 
@@ -9215,7 +9215,7 @@ Omit.content
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1528
+csstype/index.d.ts:1528
 
 ___
 
@@ -9243,7 +9243,7 @@ Omit.contentVisibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1542
+csstype/index.d.ts:1542
 
 ___
 
@@ -9271,7 +9271,7 @@ Omit.counterIncrement
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1556
+csstype/index.d.ts:1556
 
 ___
 
@@ -9299,7 +9299,7 @@ Omit.counterReset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1570
+csstype/index.d.ts:1570
 
 ___
 
@@ -9327,7 +9327,7 @@ Omit.counterSet
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1584
+csstype/index.d.ts:1584
 
 ___
 
@@ -9355,7 +9355,7 @@ Omit.cursor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1598
+csstype/index.d.ts:1598
 
 ___
 
@@ -9383,7 +9383,7 @@ Omit.direction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1612
+csstype/index.d.ts:1612
 
 ___
 
@@ -9411,7 +9411,7 @@ Omit.display
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1626
+csstype/index.d.ts:1626
 
 ___
 
@@ -9437,7 +9437,7 @@ https://developer.mozilla.org/docs/Web/CSS/display
 
 #### Defined in
 
-[src/styleTypes.ts:282](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L282)
+@yolm/boost/dist/styleTypes.d.ts:272
 
 ___
 
@@ -9451,7 +9451,7 @@ Omit.dominantBaseline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8847
+csstype/index.d.ts:8847
 
 ___
 
@@ -9479,7 +9479,7 @@ Omit.emptyCells
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1640
+csstype/index.d.ts:1640
 
 ___
 
@@ -9493,7 +9493,7 @@ Omit.fill
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8848
+csstype/index.d.ts:8848
 
 ___
 
@@ -9507,7 +9507,7 @@ Omit.fillOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8849
+csstype/index.d.ts:8849
 
 ___
 
@@ -9521,7 +9521,7 @@ Omit.fillRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8850
+csstype/index.d.ts:8850
 
 ___
 
@@ -9550,7 +9550,7 @@ Omit.filter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1655
+csstype/index.d.ts:1655
 
 ___
 
@@ -9577,7 +9577,7 @@ Omit.flex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5378
+csstype/index.d.ts:5378
 
 ___
 
@@ -9606,7 +9606,7 @@ Omit.flexBasis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1670
+csstype/index.d.ts:1670
 
 ___
 
@@ -9635,7 +9635,7 @@ Omit.flexDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1685
+csstype/index.d.ts:1685
 
 ___
 
@@ -9662,7 +9662,7 @@ Omit.flexFlow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5391
+csstype/index.d.ts:5391
 
 ___
 
@@ -9691,7 +9691,7 @@ Omit.flexGrow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1700
+csstype/index.d.ts:1700
 
 ___
 
@@ -9720,7 +9720,7 @@ Omit.flexShrink
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1715
+csstype/index.d.ts:1715
 
 ___
 
@@ -9749,7 +9749,7 @@ Omit.flexWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1730
+csstype/index.d.ts:1730
 
 ___
 
@@ -9777,7 +9777,7 @@ Omit.float
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1744
+csstype/index.d.ts:1744
 
 ___
 
@@ -9791,7 +9791,7 @@ Omit.floodColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8852
+csstype/index.d.ts:8852
 
 ___
 
@@ -9805,7 +9805,7 @@ Omit.floodOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8853
+csstype/index.d.ts:8853
 
 ___
 
@@ -9831,7 +9831,7 @@ Omit.font
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5403
+csstype/index.d.ts:5403
 
 ___
 
@@ -9859,7 +9859,7 @@ Omit.fontFamily
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1758
+csstype/index.d.ts:1758
 
 ___
 
@@ -9888,7 +9888,7 @@ Omit.fontFeatureSettings
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1773
+csstype/index.d.ts:1773
 
 ___
 
@@ -9917,7 +9917,7 @@ Omit.fontKerning
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1788
+csstype/index.d.ts:1788
 
 ___
 
@@ -9946,7 +9946,7 @@ Omit.fontLanguageOverride
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1803
+csstype/index.d.ts:1803
 
 ___
 
@@ -9974,7 +9974,7 @@ Omit.fontOpticalSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1817
+csstype/index.d.ts:1817
 
 ___
 
@@ -10000,7 +10000,7 @@ Omit.fontPalette
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1829
+csstype/index.d.ts:1829
 
 ___
 
@@ -10028,7 +10028,7 @@ Omit.fontSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1843
+csstype/index.d.ts:1843
 
 ___
 
@@ -10056,7 +10056,7 @@ Omit.fontSizeAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1857
+csstype/index.d.ts:1857
 
 ___
 
@@ -10084,7 +10084,7 @@ Omit.fontSmooth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1871
+csstype/index.d.ts:1871
 
 ___
 
@@ -10112,7 +10112,7 @@ Omit.fontStretch
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1885
+csstype/index.d.ts:1885
 
 ___
 
@@ -10140,7 +10140,7 @@ Omit.fontStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1899
+csstype/index.d.ts:1899
 
 ___
 
@@ -10168,7 +10168,7 @@ Omit.fontSynthesis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1913
+csstype/index.d.ts:1913
 
 ___
 
@@ -10196,7 +10196,7 @@ Omit.fontVariant
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1927
+csstype/index.d.ts:1927
 
 ___
 
@@ -10224,7 +10224,7 @@ Omit.fontVariantAlternates
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1941
+csstype/index.d.ts:1941
 
 ___
 
@@ -10252,7 +10252,7 @@ Omit.fontVariantCaps
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1955
+csstype/index.d.ts:1955
 
 ___
 
@@ -10280,7 +10280,7 @@ Omit.fontVariantEastAsian
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1969
+csstype/index.d.ts:1969
 
 ___
 
@@ -10306,7 +10306,7 @@ Omit.fontVariantEmoji
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1981
+csstype/index.d.ts:1981
 
 ___
 
@@ -10335,7 +10335,7 @@ Omit.fontVariantLigatures
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1996
+csstype/index.d.ts:1996
 
 ___
 
@@ -10363,7 +10363,7 @@ Omit.fontVariantNumeric
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2010
+csstype/index.d.ts:2010
 
 ___
 
@@ -10391,7 +10391,7 @@ Omit.fontVariantPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2024
+csstype/index.d.ts:2024
 
 ___
 
@@ -10419,13 +10419,13 @@ Omit.fontVariationSettings
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2038
+csstype/index.d.ts:2038
 
 ___
 
 ### fontWeight
 
-• `Optional` **fontWeight**: `FontWeight` \| keyof `FontWeight`
+• `Optional` **fontWeight**: keyof `FontWeight` \| `FontWeight`
 
 The **`font-weight`** CSS property specifies the weight (or boldness) of the font. The font weights available to you will depend on the `font-family` you are using. Some fonts are only
 available in `normal` and `bold`.
@@ -10446,7 +10446,7 @@ https://developer.mozilla.org/docs/Web/CSS/font-weight
 
 #### Defined in
 
-[src/styleTypes.ts:337](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L337)
+@yolm/boost/dist/styleTypes.d.ts:326
 
 ___
 
@@ -10475,7 +10475,7 @@ Omit.forcedColorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2067
+csstype/index.d.ts:2067
 
 ___
 
@@ -10501,7 +10501,7 @@ Omit.gap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5415
+csstype/index.d.ts:5415
 
 ___
 
@@ -10515,7 +10515,7 @@ Omit.glyphOrientationVertical
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8862
+csstype/index.d.ts:8862
 
 ___
 
@@ -10541,7 +10541,7 @@ Omit.grid
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5427
+csstype/index.d.ts:5427
 
 ___
 
@@ -10567,7 +10567,7 @@ Omit.gridArea
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5439
+csstype/index.d.ts:5439
 
 ___
 
@@ -10595,7 +10595,7 @@ Omit.gridAutoColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2081
+csstype/index.d.ts:2081
 
 ___
 
@@ -10623,7 +10623,7 @@ Omit.gridAutoFlow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2095
+csstype/index.d.ts:2095
 
 ___
 
@@ -10651,7 +10651,7 @@ Omit.gridAutoRows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2109
+csstype/index.d.ts:2109
 
 ___
 
@@ -10677,7 +10677,7 @@ Omit.gridColumn
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5451
+csstype/index.d.ts:5451
 
 ___
 
@@ -10705,7 +10705,7 @@ Omit.gridColumnEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2123
+csstype/index.d.ts:2123
 
 ___
 
@@ -10727,13 +10727,13 @@ Omit.gridColumnGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7930
+csstype/index.d.ts:7930
 
 ___
 
 ### gridColumnSpan
 
-• `Optional` **gridColumnSpan**: ``1`` \| ``2`` \| ``3`` \| ``4`` \| ``5`` \| ``6`` \| ``7`` \| ``8`` \| ``9`` \| ``10`` \| ``11`` \| ``12`` \| ``"full"``
+• `Optional` **gridColumnSpan**: ``2`` \| ``1`` \| ``3`` \| ``4`` \| ``5`` \| ``6`` \| ``7`` \| ``8`` \| ``9`` \| ``10`` \| ``11`` \| ``12`` \| ``"full"``
 
 Makes the element span n-columns wide. It has no effect if its parent is not a grid container.
 "full" will take the full width of the grid container.
@@ -10744,7 +10744,7 @@ Makes the element span n-columns wide. It has no effect if its parent is not a g
 
 #### Defined in
 
-[src/styleTypes.ts:287](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L287)
+@yolm/boost/dist/styleTypes.d.ts:277
 
 ___
 
@@ -10772,7 +10772,7 @@ Omit.gridColumnStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2137
+csstype/index.d.ts:2137
 
 ___
 
@@ -10792,7 +10792,7 @@ Omit.gridGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7938
+csstype/index.d.ts:7938
 
 ___
 
@@ -10818,7 +10818,7 @@ Omit.gridRow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5463
+csstype/index.d.ts:5463
 
 ___
 
@@ -10846,7 +10846,7 @@ Omit.gridRowEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2151
+csstype/index.d.ts:2151
 
 ___
 
@@ -10868,7 +10868,7 @@ Omit.gridRowGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7948
+csstype/index.d.ts:7948
 
 ___
 
@@ -10885,7 +10885,7 @@ Makes the element span n-rows high. It has no effect if its parent is not a grid
 
 #### Defined in
 
-[src/styleTypes.ts:292](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L292)
+@yolm/boost/dist/styleTypes.d.ts:282
 
 ___
 
@@ -10913,7 +10913,7 @@ Omit.gridRowStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2165
+csstype/index.d.ts:2165
 
 ___
 
@@ -10939,7 +10939,7 @@ Omit.gridTemplate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5475
+csstype/index.d.ts:5475
 
 ___
 
@@ -10967,7 +10967,7 @@ Omit.gridTemplateAreas
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2179
+csstype/index.d.ts:2179
 
 ___
 
@@ -10995,7 +10995,7 @@ Omit.gridTemplateColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2193
+csstype/index.d.ts:2193
 
 ___
 
@@ -11023,7 +11023,7 @@ Omit.gridTemplateRows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2207
+csstype/index.d.ts:2207
 
 ___
 
@@ -11051,7 +11051,7 @@ Omit.hangingPunctuation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2221
+csstype/index.d.ts:2221
 
 ___
 
@@ -11079,7 +11079,7 @@ Omit.height
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2235
+csstype/index.d.ts:2235
 
 ___
 
@@ -11108,7 +11108,7 @@ Omit.hyphenateCharacter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2250
+csstype/index.d.ts:2250
 
 ___
 
@@ -11132,7 +11132,7 @@ Omit.hyphenateLimitChars
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2262
+csstype/index.d.ts:2262
 
 ___
 
@@ -11161,7 +11161,7 @@ Omit.hyphens
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2277
+csstype/index.d.ts:2277
 
 ___
 
@@ -11189,7 +11189,7 @@ Omit.imageOrientation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2291
+csstype/index.d.ts:2291
 
 ___
 
@@ -11217,7 +11217,7 @@ Omit.imageRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2305
+csstype/index.d.ts:2305
 
 ___
 
@@ -11235,7 +11235,7 @@ Omit.imageResolution
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2311
+csstype/index.d.ts:2311
 
 ___
 
@@ -11257,7 +11257,7 @@ Omit.imeMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7958
+csstype/index.d.ts:7958
 
 ___
 
@@ -11285,7 +11285,7 @@ Omit.initialLetter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2325
+csstype/index.d.ts:2325
 
 ___
 
@@ -11313,7 +11313,7 @@ Omit.inlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2339
+csstype/index.d.ts:2339
 
 ___
 
@@ -11331,7 +11331,7 @@ Omit.inputSecurity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2345
+csstype/index.d.ts:2345
 
 ___
 
@@ -11357,7 +11357,7 @@ Omit.inset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5487
+csstype/index.d.ts:5487
 
 ___
 
@@ -11383,7 +11383,7 @@ Omit.insetBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5499
+csstype/index.d.ts:5499
 
 ___
 
@@ -11411,7 +11411,7 @@ Omit.insetBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2359
+csstype/index.d.ts:2359
 
 ___
 
@@ -11439,7 +11439,7 @@ Omit.insetBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2373
+csstype/index.d.ts:2373
 
 ___
 
@@ -11465,7 +11465,7 @@ Omit.insetInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5511
+csstype/index.d.ts:5511
 
 ___
 
@@ -11493,7 +11493,7 @@ Omit.insetInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2387
+csstype/index.d.ts:2387
 
 ___
 
@@ -11521,7 +11521,7 @@ Omit.insetInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2401
+csstype/index.d.ts:2401
 
 ___
 
@@ -11549,7 +11549,7 @@ Omit.isolation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2415
+csstype/index.d.ts:2415
 
 ___
 
@@ -11578,7 +11578,7 @@ Omit.justifyContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2430
+csstype/index.d.ts:2430
 
 ___
 
@@ -11606,7 +11606,7 @@ Omit.justifyItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2444
+csstype/index.d.ts:2444
 
 ___
 
@@ -11634,7 +11634,7 @@ Omit.justifySelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2458
+csstype/index.d.ts:2458
 
 ___
 
@@ -11662,7 +11662,7 @@ Omit.justifyTracks
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2472
+csstype/index.d.ts:2472
 
 ___
 
@@ -11690,7 +11690,7 @@ Omit.left
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2486
+csstype/index.d.ts:2486
 
 ___
 
@@ -11718,7 +11718,7 @@ Omit.letterSpacing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2500
+csstype/index.d.ts:2500
 
 ___
 
@@ -11732,7 +11732,7 @@ Omit.lightingColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8865
+csstype/index.d.ts:8865
 
 ___
 
@@ -11761,7 +11761,7 @@ Omit.lineBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2515
+csstype/index.d.ts:2515
 
 ___
 
@@ -11779,7 +11779,7 @@ Omit.lineClamp
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5517
+csstype/index.d.ts:5517
 
 ___
 
@@ -11807,7 +11807,7 @@ Omit.lineHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2529
+csstype/index.d.ts:2529
 
 ___
 
@@ -11835,7 +11835,7 @@ Omit.lineHeightStep
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2543
+csstype/index.d.ts:2543
 
 ___
 
@@ -11861,7 +11861,7 @@ Omit.listStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5529
+csstype/index.d.ts:5529
 
 ___
 
@@ -11889,7 +11889,7 @@ Omit.listStyleImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2557
+csstype/index.d.ts:2557
 
 ___
 
@@ -11917,7 +11917,7 @@ Omit.listStylePosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2571
+csstype/index.d.ts:2571
 
 ___
 
@@ -11945,7 +11945,7 @@ Omit.listStyleType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2585
+csstype/index.d.ts:2585
 
 ___
 
@@ -11969,7 +11969,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin
 
 #### Defined in
 
-[src/styleTypes.ts:38](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L38)
+@yolm/boost/dist/styleTypes.d.ts:28
 
 ___
 
@@ -11995,7 +11995,7 @@ Omit.margin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5541
+csstype/index.d.ts:5541
 
 ___
 
@@ -12021,7 +12021,7 @@ Omit.marginBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5553
+csstype/index.d.ts:5553
 
 ___
 
@@ -12049,7 +12049,7 @@ Omit.marginBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2599
+csstype/index.d.ts:2599
 
 ___
 
@@ -12077,7 +12077,7 @@ Omit.marginBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2613
+csstype/index.d.ts:2613
 
 ___
 
@@ -12105,7 +12105,7 @@ Omit.marginBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2627
+csstype/index.d.ts:2627
 
 ___
 
@@ -12131,7 +12131,7 @@ Omit.marginInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5565
+csstype/index.d.ts:5565
 
 ___
 
@@ -12160,7 +12160,7 @@ Omit.marginInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2642
+csstype/index.d.ts:2642
 
 ___
 
@@ -12189,7 +12189,7 @@ Omit.marginInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2657
+csstype/index.d.ts:2657
 
 ___
 
@@ -12217,7 +12217,7 @@ Omit.marginLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2671
+csstype/index.d.ts:2671
 
 ___
 
@@ -12245,7 +12245,7 @@ Omit.marginRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2685
+csstype/index.d.ts:2685
 
 ___
 
@@ -12273,7 +12273,7 @@ Omit.marginTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2699
+csstype/index.d.ts:2699
 
 ___
 
@@ -12301,7 +12301,7 @@ Omit.marginTrim
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2713
+csstype/index.d.ts:2713
 
 ___
 
@@ -12329,7 +12329,7 @@ places it farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:114](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L114)
+@yolm/boost/dist/styleTypes.d.ts:104
 
 ___
 
@@ -12357,7 +12357,7 @@ it farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:142](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L142)
+@yolm/boost/dist/styleTypes.d.ts:132
 
 ___
 
@@ -12371,7 +12371,7 @@ Omit.marker
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8867
+csstype/index.d.ts:8867
 
 ___
 
@@ -12385,7 +12385,7 @@ Omit.markerEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8868
+csstype/index.d.ts:8868
 
 ___
 
@@ -12399,7 +12399,7 @@ Omit.markerMid
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8869
+csstype/index.d.ts:8869
 
 ___
 
@@ -12413,7 +12413,7 @@ Omit.markerStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8870
+csstype/index.d.ts:8870
 
 ___
 
@@ -12439,7 +12439,7 @@ Omit.mask
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5577
+csstype/index.d.ts:5577
 
 ___
 
@@ -12465,7 +12465,7 @@ Omit.maskBorder
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5589
+csstype/index.d.ts:5589
 
 ___
 
@@ -12485,7 +12485,7 @@ Omit.maskBorderMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2721
+csstype/index.d.ts:2721
 
 ___
 
@@ -12513,7 +12513,7 @@ Omit.maskBorderOutset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2735
+csstype/index.d.ts:2735
 
 ___
 
@@ -12541,7 +12541,7 @@ Omit.maskBorderRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2749
+csstype/index.d.ts:2749
 
 ___
 
@@ -12569,7 +12569,7 @@ Omit.maskBorderSlice
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2763
+csstype/index.d.ts:2763
 
 ___
 
@@ -12597,7 +12597,7 @@ Omit.maskBorderSource
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2777
+csstype/index.d.ts:2777
 
 ___
 
@@ -12625,7 +12625,7 @@ Omit.maskBorderWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2791
+csstype/index.d.ts:2791
 
 ___
 
@@ -12654,7 +12654,7 @@ Omit.maskClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2806
+csstype/index.d.ts:2806
 
 ___
 
@@ -12682,7 +12682,7 @@ Omit.maskComposite
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2820
+csstype/index.d.ts:2820
 
 ___
 
@@ -12711,7 +12711,7 @@ Omit.maskImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2835
+csstype/index.d.ts:2835
 
 ___
 
@@ -12739,7 +12739,7 @@ Omit.maskMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2849
+csstype/index.d.ts:2849
 
 ___
 
@@ -12768,7 +12768,7 @@ Omit.maskOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2864
+csstype/index.d.ts:2864
 
 ___
 
@@ -12797,7 +12797,7 @@ Omit.maskPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2879
+csstype/index.d.ts:2879
 
 ___
 
@@ -12826,7 +12826,7 @@ Omit.maskRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2894
+csstype/index.d.ts:2894
 
 ___
 
@@ -12855,7 +12855,7 @@ Omit.maskSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2909
+csstype/index.d.ts:2909
 
 ___
 
@@ -12883,7 +12883,7 @@ Omit.maskType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2923
+csstype/index.d.ts:2923
 
 ___
 
@@ -12911,7 +12911,7 @@ Omit.mathDepth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2937
+csstype/index.d.ts:2937
 
 ___
 
@@ -12939,7 +12939,7 @@ Omit.mathShift
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2951
+csstype/index.d.ts:2951
 
 ___
 
@@ -12967,7 +12967,7 @@ Omit.mathStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2965
+csstype/index.d.ts:2965
 
 ___
 
@@ -12995,7 +12995,7 @@ Omit.maxBlockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2979
+csstype/index.d.ts:2979
 
 ___
 
@@ -13023,7 +13023,7 @@ Omit.maxHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2993
+csstype/index.d.ts:2993
 
 ___
 
@@ -13052,7 +13052,7 @@ Omit.maxInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3008
+csstype/index.d.ts:3008
 
 ___
 
@@ -13070,7 +13070,7 @@ Omit.maxLines
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3014
+csstype/index.d.ts:3014
 
 ___
 
@@ -13098,7 +13098,7 @@ Omit.maxWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3028
+csstype/index.d.ts:3028
 
 ___
 
@@ -13124,7 +13124,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-bottom
 
 #### Defined in
 
-[src/styleTypes.ts:74](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L74)
+@yolm/boost/dist/styleTypes.d.ts:64
 
 ___
 
@@ -13152,7 +13152,7 @@ Omit.minBlockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3042
+csstype/index.d.ts:3042
 
 ___
 
@@ -13180,7 +13180,7 @@ Omit.minHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3056
+csstype/index.d.ts:3056
 
 ___
 
@@ -13208,7 +13208,7 @@ Omit.minInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3070
+csstype/index.d.ts:3070
 
 ___
 
@@ -13236,7 +13236,7 @@ Omit.minWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3084
+csstype/index.d.ts:3084
 
 ___
 
@@ -13264,7 +13264,7 @@ Omit.mixBlendMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3098
+csstype/index.d.ts:3098
 
 ___
 
@@ -13290,7 +13290,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-left
 
 #### Defined in
 
-[src/styleTypes.ts:86](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L86)
+@yolm/boost/dist/styleTypes.d.ts:76
 
 ___
 
@@ -13317,7 +13317,7 @@ Omit.motion
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5602
+csstype/index.d.ts:5602
 
 ___
 
@@ -13346,7 +13346,7 @@ Omit.motionDistance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3113
+csstype/index.d.ts:3113
 
 ___
 
@@ -13375,7 +13375,7 @@ Omit.motionPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3128
+csstype/index.d.ts:3128
 
 ___
 
@@ -13404,7 +13404,7 @@ Omit.motionRotation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3143
+csstype/index.d.ts:3143
 
 ___
 
@@ -13430,7 +13430,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-right
 
 #### Defined in
 
-[src/styleTypes.ts:62](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L62)
+@yolm/boost/dist/styleTypes.d.ts:52
 
 ___
 
@@ -13450,7 +13450,7 @@ Omit.msAccelerator
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6318
+csstype/index.d.ts:6318
 
 ___
 
@@ -13470,7 +13470,7 @@ Omit.msBlockProgression
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6326
+csstype/index.d.ts:6326
 
 ___
 
@@ -13490,7 +13490,7 @@ Omit.msContentZoomChaining
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6334
+csstype/index.d.ts:6334
 
 ___
 
@@ -13508,7 +13508,7 @@ Omit.msContentZoomLimit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7701
+csstype/index.d.ts:7701
 
 ___
 
@@ -13528,7 +13528,7 @@ Omit.msContentZoomLimitMax
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6342
+csstype/index.d.ts:6342
 
 ___
 
@@ -13548,7 +13548,7 @@ Omit.msContentZoomLimitMin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6350
+csstype/index.d.ts:6350
 
 ___
 
@@ -13566,7 +13566,7 @@ Omit.msContentZoomSnap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7707
+csstype/index.d.ts:7707
 
 ___
 
@@ -13586,7 +13586,7 @@ Omit.msContentZoomSnapPoints
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6358
+csstype/index.d.ts:6358
 
 ___
 
@@ -13606,7 +13606,7 @@ Omit.msContentZoomSnapType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6366
+csstype/index.d.ts:6366
 
 ___
 
@@ -13626,7 +13626,7 @@ Omit.msContentZooming
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6374
+csstype/index.d.ts:6374
 
 ___
 
@@ -13646,7 +13646,7 @@ Omit.msFilter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6382
+csstype/index.d.ts:6382
 
 ___
 
@@ -13664,7 +13664,7 @@ Omit.msFlex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7713
+csstype/index.d.ts:7713
 
 ___
 
@@ -13684,7 +13684,7 @@ Omit.msFlexDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6390
+csstype/index.d.ts:6390
 
 ___
 
@@ -13704,7 +13704,7 @@ Omit.msFlexPositive
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6398
+csstype/index.d.ts:6398
 
 ___
 
@@ -13724,7 +13724,7 @@ Omit.msFlowFrom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6406
+csstype/index.d.ts:6406
 
 ___
 
@@ -13744,7 +13744,7 @@ Omit.msFlowInto
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6414
+csstype/index.d.ts:6414
 
 ___
 
@@ -13764,7 +13764,7 @@ Omit.msGridColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6422
+csstype/index.d.ts:6422
 
 ___
 
@@ -13784,7 +13784,7 @@ Omit.msGridRows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6430
+csstype/index.d.ts:6430
 
 ___
 
@@ -13804,7 +13804,7 @@ Omit.msHighContrastAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6438
+csstype/index.d.ts:6438
 
 ___
 
@@ -13824,7 +13824,7 @@ Omit.msHyphenateLimitChars
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6446
+csstype/index.d.ts:6446
 
 ___
 
@@ -13844,7 +13844,7 @@ Omit.msHyphenateLimitLines
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6454
+csstype/index.d.ts:6454
 
 ___
 
@@ -13864,7 +13864,7 @@ Omit.msHyphenateLimitZone
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6462
+csstype/index.d.ts:6462
 
 ___
 
@@ -13884,7 +13884,7 @@ Omit.msHyphens
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6470
+csstype/index.d.ts:6470
 
 ___
 
@@ -13904,7 +13904,7 @@ Omit.msImeAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6478
+csstype/index.d.ts:6478
 
 ___
 
@@ -13926,7 +13926,7 @@ Omit.msImeMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8518
+csstype/index.d.ts:8518
 
 ___
 
@@ -13946,7 +13946,7 @@ Omit.msLineBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6486
+csstype/index.d.ts:6486
 
 ___
 
@@ -13966,7 +13966,7 @@ Omit.msOrder
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6494
+csstype/index.d.ts:6494
 
 ___
 
@@ -13986,7 +13986,7 @@ Omit.msOverflowStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6502
+csstype/index.d.ts:6502
 
 ___
 
@@ -14006,7 +14006,7 @@ Omit.msOverflowX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6510
+csstype/index.d.ts:6510
 
 ___
 
@@ -14026,7 +14026,7 @@ Omit.msOverflowY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6518
+csstype/index.d.ts:6518
 
 ___
 
@@ -14046,7 +14046,7 @@ Omit.msScrollChaining
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6526
+csstype/index.d.ts:6526
 
 ___
 
@@ -14064,7 +14064,7 @@ Omit.msScrollLimit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7719
+csstype/index.d.ts:7719
 
 ___
 
@@ -14084,7 +14084,7 @@ Omit.msScrollLimitXMax
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6534
+csstype/index.d.ts:6534
 
 ___
 
@@ -14104,7 +14104,7 @@ Omit.msScrollLimitXMin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6542
+csstype/index.d.ts:6542
 
 ___
 
@@ -14124,7 +14124,7 @@ Omit.msScrollLimitYMax
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6550
+csstype/index.d.ts:6550
 
 ___
 
@@ -14144,7 +14144,7 @@ Omit.msScrollLimitYMin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6558
+csstype/index.d.ts:6558
 
 ___
 
@@ -14164,7 +14164,7 @@ Omit.msScrollRails
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6566
+csstype/index.d.ts:6566
 
 ___
 
@@ -14184,7 +14184,7 @@ Omit.msScrollSnapPointsX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6574
+csstype/index.d.ts:6574
 
 ___
 
@@ -14204,7 +14204,7 @@ Omit.msScrollSnapPointsY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6582
+csstype/index.d.ts:6582
 
 ___
 
@@ -14224,7 +14224,7 @@ Omit.msScrollSnapType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6590
+csstype/index.d.ts:6590
 
 ___
 
@@ -14242,7 +14242,7 @@ Omit.msScrollSnapX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7725
+csstype/index.d.ts:7725
 
 ___
 
@@ -14260,7 +14260,7 @@ Omit.msScrollSnapY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7731
+csstype/index.d.ts:7731
 
 ___
 
@@ -14280,7 +14280,7 @@ Omit.msScrollTranslation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6598
+csstype/index.d.ts:6598
 
 ___
 
@@ -14300,7 +14300,7 @@ Omit.msScrollbar3dlightColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6606
+csstype/index.d.ts:6606
 
 ___
 
@@ -14320,7 +14320,7 @@ Omit.msScrollbarArrowColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6614
+csstype/index.d.ts:6614
 
 ___
 
@@ -14340,7 +14340,7 @@ Omit.msScrollbarBaseColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6622
+csstype/index.d.ts:6622
 
 ___
 
@@ -14360,7 +14360,7 @@ Omit.msScrollbarDarkshadowColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6630
+csstype/index.d.ts:6630
 
 ___
 
@@ -14380,7 +14380,7 @@ Omit.msScrollbarFaceColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6638
+csstype/index.d.ts:6638
 
 ___
 
@@ -14400,7 +14400,7 @@ Omit.msScrollbarHighlightColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6646
+csstype/index.d.ts:6646
 
 ___
 
@@ -14420,7 +14420,7 @@ Omit.msScrollbarShadowColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6654
+csstype/index.d.ts:6654
 
 ___
 
@@ -14440,7 +14440,7 @@ Omit.msScrollbarTrackColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6662
+csstype/index.d.ts:6662
 
 ___
 
@@ -14460,7 +14460,7 @@ Omit.msTextAutospace
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6670
+csstype/index.d.ts:6670
 
 ___
 
@@ -14480,7 +14480,7 @@ Omit.msTextCombineHorizontal
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6678
+csstype/index.d.ts:6678
 
 ___
 
@@ -14500,7 +14500,7 @@ Omit.msTextOverflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6686
+csstype/index.d.ts:6686
 
 ___
 
@@ -14520,7 +14520,7 @@ Omit.msTouchAction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6694
+csstype/index.d.ts:6694
 
 ___
 
@@ -14540,7 +14540,7 @@ Omit.msTouchSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6702
+csstype/index.d.ts:6702
 
 ___
 
@@ -14560,7 +14560,7 @@ Omit.msTransform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6710
+csstype/index.d.ts:6710
 
 ___
 
@@ -14580,7 +14580,7 @@ Omit.msTransformOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6718
+csstype/index.d.ts:6718
 
 ___
 
@@ -14598,7 +14598,7 @@ Omit.msTransition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7737
+csstype/index.d.ts:7737
 
 ___
 
@@ -14618,7 +14618,7 @@ Omit.msTransitionDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6726
+csstype/index.d.ts:6726
 
 ___
 
@@ -14638,7 +14638,7 @@ Omit.msTransitionDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6734
+csstype/index.d.ts:6734
 
 ___
 
@@ -14658,7 +14658,7 @@ Omit.msTransitionProperty
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6742
+csstype/index.d.ts:6742
 
 ___
 
@@ -14678,7 +14678,7 @@ Omit.msTransitionTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6750
+csstype/index.d.ts:6750
 
 ___
 
@@ -14698,7 +14698,7 @@ Omit.msUserSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6758
+csstype/index.d.ts:6758
 
 ___
 
@@ -14718,7 +14718,7 @@ Omit.msWordBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6766
+csstype/index.d.ts:6766
 
 ___
 
@@ -14738,7 +14738,7 @@ Omit.msWrapFlow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6774
+csstype/index.d.ts:6774
 
 ___
 
@@ -14758,7 +14758,7 @@ Omit.msWrapMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6782
+csstype/index.d.ts:6782
 
 ___
 
@@ -14778,7 +14778,7 @@ Omit.msWrapThrough
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6790
+csstype/index.d.ts:6790
 
 ___
 
@@ -14798,7 +14798,7 @@ Omit.msWritingMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:6798
+csstype/index.d.ts:6798
 
 ___
 
@@ -14824,7 +14824,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-top
 
 #### Defined in
 
-[src/styleTypes.ts:50](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L50)
+@yolm/boost/dist/styleTypes.d.ts:40
 
 ___
 
@@ -14852,7 +14852,7 @@ farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:100](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L100)
+@yolm/boost/dist/styleTypes.d.ts:90
 
 ___
 
@@ -14880,7 +14880,7 @@ farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:128](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L128)
+@yolm/boost/dist/styleTypes.d.ts:118
 
 ___
 
@@ -14908,7 +14908,7 @@ Omit.objectFit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3157
+csstype/index.d.ts:3157
 
 ___
 
@@ -14936,7 +14936,7 @@ Omit.objectPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3171
+csstype/index.d.ts:3171
 
 ___
 
@@ -14963,7 +14963,7 @@ Omit.offset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5615
+csstype/index.d.ts:5615
 
 ___
 
@@ -14989,7 +14989,7 @@ Omit.offsetAnchor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3183
+csstype/index.d.ts:3183
 
 ___
 
@@ -15009,7 +15009,7 @@ Omit.offsetBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7966
+csstype/index.d.ts:7966
 
 ___
 
@@ -15031,7 +15031,7 @@ Omit.offsetBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7976
+csstype/index.d.ts:7976
 
 ___
 
@@ -15053,7 +15053,7 @@ Omit.offsetBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7986
+csstype/index.d.ts:7986
 
 ___
 
@@ -15082,7 +15082,7 @@ Omit.offsetDistance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3198
+csstype/index.d.ts:3198
 
 ___
 
@@ -15102,7 +15102,7 @@ Omit.offsetInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:7994
+csstype/index.d.ts:7994
 
 ___
 
@@ -15124,7 +15124,7 @@ Omit.offsetInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8004
+csstype/index.d.ts:8004
 
 ___
 
@@ -15146,7 +15146,7 @@ Omit.offsetInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8014
+csstype/index.d.ts:8014
 
 ___
 
@@ -15175,7 +15175,7 @@ Omit.offsetPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3213
+csstype/index.d.ts:3213
 
 ___
 
@@ -15201,7 +15201,7 @@ Omit.offsetPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3225
+csstype/index.d.ts:3225
 
 ___
 
@@ -15230,7 +15230,7 @@ Omit.offsetRotate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3240
+csstype/index.d.ts:3240
 
 ___
 
@@ -15259,7 +15259,7 @@ Omit.offsetRotation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3255
+csstype/index.d.ts:3255
 
 ___
 
@@ -15287,7 +15287,7 @@ Omit.opacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3269
+csstype/index.d.ts:3269
 
 ___
 
@@ -15316,7 +15316,7 @@ Omit.order
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3284
+csstype/index.d.ts:3284
 
 ___
 
@@ -15344,7 +15344,7 @@ Omit.orphans
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3298
+csstype/index.d.ts:3298
 
 ___
 
@@ -15370,7 +15370,7 @@ Omit.outline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5627
+csstype/index.d.ts:5627
 
 ___
 
@@ -15398,7 +15398,7 @@ Omit.outlineColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3312
+csstype/index.d.ts:3312
 
 ___
 
@@ -15426,7 +15426,7 @@ Omit.outlineOffset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3326
+csstype/index.d.ts:3326
 
 ___
 
@@ -15454,7 +15454,7 @@ Omit.outlineStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3340
+csstype/index.d.ts:3340
 
 ___
 
@@ -15482,7 +15482,7 @@ Omit.outlineWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3354
+csstype/index.d.ts:3354
 
 ___
 
@@ -15510,7 +15510,7 @@ Omit.overflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5641
+csstype/index.d.ts:5641
 
 ___
 
@@ -15536,7 +15536,7 @@ Omit.overflowAnchor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3366
+csstype/index.d.ts:3366
 
 ___
 
@@ -15562,7 +15562,7 @@ Omit.overflowBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3378
+csstype/index.d.ts:3378
 
 ___
 
@@ -15590,7 +15590,7 @@ Omit.overflowClipBox
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3392
+csstype/index.d.ts:3392
 
 ___
 
@@ -15616,7 +15616,7 @@ Omit.overflowClipMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3404
+csstype/index.d.ts:3404
 
 ___
 
@@ -15642,7 +15642,7 @@ Omit.overflowInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3416
+csstype/index.d.ts:3416
 
 ___
 
@@ -15671,7 +15671,7 @@ Omit.overflowWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3431
+csstype/index.d.ts:3431
 
 ___
 
@@ -15699,7 +15699,7 @@ Omit.overflowX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3445
+csstype/index.d.ts:3445
 
 ___
 
@@ -15727,7 +15727,7 @@ Omit.overflowY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3459
+csstype/index.d.ts:3459
 
 ___
 
@@ -15755,7 +15755,7 @@ Omit.overscrollBehavior
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5655
+csstype/index.d.ts:5655
 
 ___
 
@@ -15783,7 +15783,7 @@ Omit.overscrollBehaviorBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3473
+csstype/index.d.ts:3473
 
 ___
 
@@ -15811,7 +15811,7 @@ Omit.overscrollBehaviorInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3487
+csstype/index.d.ts:3487
 
 ___
 
@@ -15839,7 +15839,7 @@ Omit.overscrollBehaviorX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3501
+csstype/index.d.ts:3501
 
 ___
 
@@ -15867,7 +15867,7 @@ Omit.overscrollBehaviorY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3515
+csstype/index.d.ts:3515
 
 ___
 
@@ -15891,7 +15891,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding
 
 #### Defined in
 
-[src/styleTypes.ts:152](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L152)
+@yolm/boost/dist/styleTypes.d.ts:142
 
 ___
 
@@ -15917,7 +15917,7 @@ Omit.padding
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5667
+csstype/index.d.ts:5667
 
 ___
 
@@ -15943,7 +15943,7 @@ Omit.paddingBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5679
+csstype/index.d.ts:5679
 
 ___
 
@@ -15971,7 +15971,7 @@ Omit.paddingBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3529
+csstype/index.d.ts:3529
 
 ___
 
@@ -15999,7 +15999,7 @@ Omit.paddingBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3543
+csstype/index.d.ts:3543
 
 ___
 
@@ -16027,7 +16027,7 @@ Omit.paddingBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3557
+csstype/index.d.ts:3557
 
 ___
 
@@ -16053,7 +16053,7 @@ Omit.paddingInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5691
+csstype/index.d.ts:5691
 
 ___
 
@@ -16082,7 +16082,7 @@ Omit.paddingInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3572
+csstype/index.d.ts:3572
 
 ___
 
@@ -16111,7 +16111,7 @@ Omit.paddingInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3587
+csstype/index.d.ts:3587
 
 ___
 
@@ -16139,7 +16139,7 @@ Omit.paddingLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3601
+csstype/index.d.ts:3601
 
 ___
 
@@ -16167,7 +16167,7 @@ Omit.paddingRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3615
+csstype/index.d.ts:3615
 
 ___
 
@@ -16195,7 +16195,7 @@ Omit.paddingTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3629
+csstype/index.d.ts:3629
 
 ___
 
@@ -16222,7 +16222,7 @@ The **`paddingX`** property is shorthand for the CSS properties **`padding-left`
 
 #### Defined in
 
-[src/styleTypes.ts:226](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L226)
+@yolm/boost/dist/styleTypes.d.ts:216
 
 ___
 
@@ -16249,7 +16249,7 @@ The **`paddingY`** property is shorthand for the CSS properties **`padding-top`*
 
 #### Defined in
 
-[src/styleTypes.ts:252](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L252)
+@yolm/boost/dist/styleTypes.d.ts:242
 
 ___
 
@@ -16277,7 +16277,7 @@ Omit.page
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3643
+csstype/index.d.ts:3643
 
 ___
 
@@ -16305,7 +16305,7 @@ Omit.pageBreakAfter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3657
+csstype/index.d.ts:3657
 
 ___
 
@@ -16333,7 +16333,7 @@ Omit.pageBreakBefore
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3671
+csstype/index.d.ts:3671
 
 ___
 
@@ -16361,7 +16361,7 @@ Omit.pageBreakInside
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3685
+csstype/index.d.ts:3685
 
 ___
 
@@ -16389,7 +16389,7 @@ Omit.paintOrder
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3699
+csstype/index.d.ts:3699
 
 ___
 
@@ -16415,7 +16415,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-bottom
 
 #### Defined in
 
-[src/styleTypes.ts:188](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L188)
+@yolm/boost/dist/styleTypes.d.ts:178
 
 ___
 
@@ -16444,7 +16444,7 @@ Omit.perspective
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3714
+csstype/index.d.ts:3714
 
 ___
 
@@ -16473,7 +16473,7 @@ Omit.perspectiveOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3729
+csstype/index.d.ts:3729
 
 ___
 
@@ -16499,7 +16499,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-left
 
 #### Defined in
 
-[src/styleTypes.ts:200](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L200)
+@yolm/boost/dist/styleTypes.d.ts:190
 
 ___
 
@@ -16525,7 +16525,7 @@ Omit.placeContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5703
+csstype/index.d.ts:5703
 
 ___
 
@@ -16551,7 +16551,7 @@ Omit.placeItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5715
+csstype/index.d.ts:5715
 
 ___
 
@@ -16577,7 +16577,7 @@ Omit.placeSelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5727
+csstype/index.d.ts:5727
 
 ___
 
@@ -16605,7 +16605,7 @@ Omit.pointerEvents
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3743
+csstype/index.d.ts:3743
 
 ___
 
@@ -16633,7 +16633,7 @@ Omit.position
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3757
+csstype/index.d.ts:3757
 
 ___
 
@@ -16659,7 +16659,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-right
 
 #### Defined in
 
-[src/styleTypes.ts:176](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L176)
+@yolm/boost/dist/styleTypes.d.ts:166
 
 ___
 
@@ -16688,7 +16688,7 @@ Omit.printColorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3772
+csstype/index.d.ts:3772
 
 ___
 
@@ -16714,7 +16714,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-top
 
 #### Defined in
 
-[src/styleTypes.ts:164](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L164)
+@yolm/boost/dist/styleTypes.d.ts:154
 
 ___
 
@@ -16741,7 +16741,7 @@ The **`px`** property is shorthand for the CSS properties **`padding-left`** and
 
 #### Defined in
 
-[src/styleTypes.ts:213](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L213)
+@yolm/boost/dist/styleTypes.d.ts:203
 
 ___
 
@@ -16768,7 +16768,7 @@ The **`py`** property is shorthand for the CSS properties **`padding-top`** and 
 
 #### Defined in
 
-[src/styleTypes.ts:239](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L239)
+@yolm/boost/dist/styleTypes.d.ts:229
 
 ___
 
@@ -16796,7 +16796,7 @@ Omit.quotes
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3786
+csstype/index.d.ts:3786
 
 ___
 
@@ -16824,7 +16824,7 @@ Omit.resize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3800
+csstype/index.d.ts:3800
 
 ___
 
@@ -16852,7 +16852,7 @@ Omit.right
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3814
+csstype/index.d.ts:3814
 
 ___
 
@@ -16880,7 +16880,7 @@ Omit.rotate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3828
+csstype/index.d.ts:3828
 
 ___
 
@@ -16908,7 +16908,7 @@ Omit.rowGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3842
+csstype/index.d.ts:3842
 
 ___
 
@@ -16936,7 +16936,7 @@ Omit.rubyAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3856
+csstype/index.d.ts:3856
 
 ___
 
@@ -16954,7 +16954,7 @@ Omit.rubyMerge
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3862
+csstype/index.d.ts:3862
 
 ___
 
@@ -16983,7 +16983,7 @@ Omit.rubyPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3877
+csstype/index.d.ts:3877
 
 ___
 
@@ -17011,7 +17011,7 @@ Omit.scale
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3891
+csstype/index.d.ts:3891
 
 ___
 
@@ -17039,7 +17039,7 @@ Omit.scrollBehavior
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3905
+csstype/index.d.ts:3905
 
 ___
 
@@ -17066,7 +17066,7 @@ Omit.scrollMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5740
+csstype/index.d.ts:5740
 
 ___
 
@@ -17092,7 +17092,7 @@ Omit.scrollMarginBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5752
+csstype/index.d.ts:5752
 
 ___
 
@@ -17120,7 +17120,7 @@ Omit.scrollMarginBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3919
+csstype/index.d.ts:3919
 
 ___
 
@@ -17148,7 +17148,7 @@ Omit.scrollMarginBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3933
+csstype/index.d.ts:3933
 
 ___
 
@@ -17177,7 +17177,7 @@ Omit.scrollMarginBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3948
+csstype/index.d.ts:3948
 
 ___
 
@@ -17203,7 +17203,7 @@ Omit.scrollMarginInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5764
+csstype/index.d.ts:5764
 
 ___
 
@@ -17231,7 +17231,7 @@ Omit.scrollMarginInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3962
+csstype/index.d.ts:3962
 
 ___
 
@@ -17259,7 +17259,7 @@ Omit.scrollMarginInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3976
+csstype/index.d.ts:3976
 
 ___
 
@@ -17288,7 +17288,7 @@ Omit.scrollMarginLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3991
+csstype/index.d.ts:3991
 
 ___
 
@@ -17317,7 +17317,7 @@ Omit.scrollMarginRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4006
+csstype/index.d.ts:4006
 
 ___
 
@@ -17346,7 +17346,7 @@ Omit.scrollMarginTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4021
+csstype/index.d.ts:4021
 
 ___
 
@@ -17372,7 +17372,7 @@ Omit.scrollPadding
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5776
+csstype/index.d.ts:5776
 
 ___
 
@@ -17398,7 +17398,7 @@ Omit.scrollPaddingBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5788
+csstype/index.d.ts:5788
 
 ___
 
@@ -17426,7 +17426,7 @@ Omit.scrollPaddingBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4035
+csstype/index.d.ts:4035
 
 ___
 
@@ -17454,7 +17454,7 @@ Omit.scrollPaddingBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4049
+csstype/index.d.ts:4049
 
 ___
 
@@ -17482,7 +17482,7 @@ Omit.scrollPaddingBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4063
+csstype/index.d.ts:4063
 
 ___
 
@@ -17508,7 +17508,7 @@ Omit.scrollPaddingInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5800
+csstype/index.d.ts:5800
 
 ___
 
@@ -17536,7 +17536,7 @@ Omit.scrollPaddingInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4077
+csstype/index.d.ts:4077
 
 ___
 
@@ -17564,7 +17564,7 @@ Omit.scrollPaddingInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4091
+csstype/index.d.ts:4091
 
 ___
 
@@ -17592,7 +17592,7 @@ Omit.scrollPaddingLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4105
+csstype/index.d.ts:4105
 
 ___
 
@@ -17620,7 +17620,7 @@ Omit.scrollPaddingRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4119
+csstype/index.d.ts:4119
 
 ___
 
@@ -17648,7 +17648,7 @@ Omit.scrollPaddingTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4133
+csstype/index.d.ts:4133
 
 ___
 
@@ -17676,7 +17676,7 @@ Omit.scrollSnapAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4147
+csstype/index.d.ts:4147
 
 ___
 
@@ -17698,7 +17698,7 @@ Omit.scrollSnapCoordinate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8024
+csstype/index.d.ts:8024
 
 ___
 
@@ -17720,7 +17720,7 @@ Omit.scrollSnapDestination
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8034
+csstype/index.d.ts:8034
 
 ___
 
@@ -17747,7 +17747,7 @@ Omit.scrollSnapMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5813
+csstype/index.d.ts:5813
 
 ___
 
@@ -17776,7 +17776,7 @@ Omit.scrollSnapMarginBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4162
+csstype/index.d.ts:4162
 
 ___
 
@@ -17805,7 +17805,7 @@ Omit.scrollSnapMarginLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4177
+csstype/index.d.ts:4177
 
 ___
 
@@ -17834,7 +17834,7 @@ Omit.scrollSnapMarginRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4192
+csstype/index.d.ts:4192
 
 ___
 
@@ -17863,7 +17863,7 @@ Omit.scrollSnapMarginTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4207
+csstype/index.d.ts:4207
 
 ___
 
@@ -17885,7 +17885,7 @@ Omit.scrollSnapPointsX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8044
+csstype/index.d.ts:8044
 
 ___
 
@@ -17907,7 +17907,7 @@ Omit.scrollSnapPointsY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8054
+csstype/index.d.ts:8054
 
 ___
 
@@ -17935,7 +17935,7 @@ Omit.scrollSnapStop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4221
+csstype/index.d.ts:4221
 
 ___
 
@@ -17964,7 +17964,7 @@ Omit.scrollSnapType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4236
+csstype/index.d.ts:4236
 
 ___
 
@@ -17986,7 +17986,7 @@ Omit.scrollSnapTypeX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8064
+csstype/index.d.ts:8064
 
 ___
 
@@ -18008,7 +18008,7 @@ Omit.scrollSnapTypeY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8074
+csstype/index.d.ts:8074
 
 ___
 
@@ -18034,7 +18034,7 @@ Omit.scrollTimeline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5825
+csstype/index.d.ts:5825
 
 ___
 
@@ -18062,7 +18062,7 @@ Omit.scrollTimelineAxis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4250
+csstype/index.d.ts:4250
 
 ___
 
@@ -18090,7 +18090,7 @@ Omit.scrollTimelineName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4264
+csstype/index.d.ts:4264
 
 ___
 
@@ -18118,7 +18118,7 @@ Omit.scrollbarColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4278
+csstype/index.d.ts:4278
 
 ___
 
@@ -18146,7 +18146,7 @@ Omit.scrollbarGutter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4292
+csstype/index.d.ts:4292
 
 ___
 
@@ -18174,7 +18174,7 @@ Omit.scrollbarWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4306
+csstype/index.d.ts:4306
 
 ___
 
@@ -18202,7 +18202,7 @@ Omit.shapeImageThreshold
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4320
+csstype/index.d.ts:4320
 
 ___
 
@@ -18230,7 +18230,7 @@ Omit.shapeMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4334
+csstype/index.d.ts:4334
 
 ___
 
@@ -18258,7 +18258,7 @@ Omit.shapeOutside
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4348
+csstype/index.d.ts:4348
 
 ___
 
@@ -18272,7 +18272,7 @@ Omit.shapeRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8876
+csstype/index.d.ts:8876
 
 ___
 
@@ -18286,7 +18286,7 @@ Omit.stopColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8877
+csstype/index.d.ts:8877
 
 ___
 
@@ -18300,7 +18300,7 @@ Omit.stopOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8878
+csstype/index.d.ts:8878
 
 ___
 
@@ -18314,7 +18314,7 @@ Omit.stroke
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8879
+csstype/index.d.ts:8879
 
 ___
 
@@ -18328,7 +18328,7 @@ Omit.strokeDasharray
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8880
+csstype/index.d.ts:8880
 
 ___
 
@@ -18342,7 +18342,7 @@ Omit.strokeDashoffset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8881
+csstype/index.d.ts:8881
 
 ___
 
@@ -18356,7 +18356,7 @@ Omit.strokeLinecap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8882
+csstype/index.d.ts:8882
 
 ___
 
@@ -18370,7 +18370,7 @@ Omit.strokeLinejoin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8883
+csstype/index.d.ts:8883
 
 ___
 
@@ -18384,7 +18384,7 @@ Omit.strokeMiterlimit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8884
+csstype/index.d.ts:8884
 
 ___
 
@@ -18398,7 +18398,7 @@ Omit.strokeOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8885
+csstype/index.d.ts:8885
 
 ___
 
@@ -18412,7 +18412,7 @@ Omit.strokeWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8886
+csstype/index.d.ts:8886
 
 ___
 
@@ -18441,7 +18441,7 @@ Omit.tabSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4363
+csstype/index.d.ts:4363
 
 ___
 
@@ -18469,7 +18469,7 @@ Omit.tableLayout
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4377
+csstype/index.d.ts:4377
 
 ___
 
@@ -18497,7 +18497,7 @@ Omit.textAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4391
+csstype/index.d.ts:4391
 
 ___
 
@@ -18525,7 +18525,7 @@ Omit.textAlignLast
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4405
+csstype/index.d.ts:4405
 
 ___
 
@@ -18539,7 +18539,7 @@ Omit.textAnchor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8887
+csstype/index.d.ts:8887
 
 ___
 
@@ -18568,7 +18568,7 @@ Omit.textCombineUpright
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4420
+csstype/index.d.ts:4420
 
 ___
 
@@ -18594,7 +18594,7 @@ Omit.textDecoration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5837
+csstype/index.d.ts:5837
 
 ___
 
@@ -18623,7 +18623,7 @@ Omit.textDecorationColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4435
+csstype/index.d.ts:4435
 
 ___
 
@@ -18652,7 +18652,7 @@ Omit.textDecorationLine
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4450
+csstype/index.d.ts:4450
 
 ___
 
@@ -18681,7 +18681,7 @@ Omit.textDecorationSkip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4465
+csstype/index.d.ts:4465
 
 ___
 
@@ -18709,7 +18709,7 @@ Omit.textDecorationSkipInk
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4479
+csstype/index.d.ts:4479
 
 ___
 
@@ -18738,7 +18738,7 @@ Omit.textDecorationStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4494
+csstype/index.d.ts:4494
 
 ___
 
@@ -18766,7 +18766,7 @@ Omit.textDecorationThickness
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4508
+csstype/index.d.ts:4508
 
 ___
 
@@ -18793,7 +18793,7 @@ Omit.textEmphasis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5850
+csstype/index.d.ts:5850
 
 ___
 
@@ -18822,7 +18822,7 @@ Omit.textEmphasisColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4523
+csstype/index.d.ts:4523
 
 ___
 
@@ -18851,7 +18851,7 @@ Omit.textEmphasisPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4538
+csstype/index.d.ts:4538
 
 ___
 
@@ -18880,7 +18880,7 @@ Omit.textEmphasisStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4553
+csstype/index.d.ts:4553
 
 ___
 
@@ -18908,7 +18908,7 @@ Omit.textIndent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4567
+csstype/index.d.ts:4567
 
 ___
 
@@ -18936,7 +18936,7 @@ Omit.textJustify
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4581
+csstype/index.d.ts:4581
 
 ___
 
@@ -18965,7 +18965,7 @@ Omit.textOrientation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4596
+csstype/index.d.ts:4596
 
 ___
 
@@ -18993,7 +18993,7 @@ Omit.textOverflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4610
+csstype/index.d.ts:4610
 
 ___
 
@@ -19021,7 +19021,7 @@ Omit.textRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4624
+csstype/index.d.ts:4624
 
 ___
 
@@ -19049,7 +19049,7 @@ Omit.textShadow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4638
+csstype/index.d.ts:4638
 
 ___
 
@@ -19077,7 +19077,7 @@ Omit.textSizeAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4652
+csstype/index.d.ts:4652
 
 ___
 
@@ -19105,7 +19105,7 @@ Omit.textTransform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4666
+csstype/index.d.ts:4666
 
 ___
 
@@ -19133,7 +19133,7 @@ Omit.textUnderlineOffset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4680
+csstype/index.d.ts:4680
 
 ___
 
@@ -19162,7 +19162,7 @@ Omit.textUnderlinePosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4695
+csstype/index.d.ts:4695
 
 ___
 
@@ -19190,7 +19190,7 @@ Omit.top
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4709
+csstype/index.d.ts:4709
 
 ___
 
@@ -19219,7 +19219,7 @@ Omit.touchAction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4724
+csstype/index.d.ts:4724
 
 ___
 
@@ -19248,7 +19248,7 @@ Omit.transform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4739
+csstype/index.d.ts:4739
 
 ___
 
@@ -19276,7 +19276,7 @@ Omit.transformBox
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4753
+csstype/index.d.ts:4753
 
 ___
 
@@ -19305,7 +19305,7 @@ Omit.transformOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4768
+csstype/index.d.ts:4768
 
 ___
 
@@ -19334,7 +19334,7 @@ Omit.transformStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4783
+csstype/index.d.ts:4783
 
 ___
 
@@ -19361,7 +19361,7 @@ Omit.transition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5863
+csstype/index.d.ts:5863
 
 ___
 
@@ -19390,7 +19390,7 @@ Omit.transitionDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4798
+csstype/index.d.ts:4798
 
 ___
 
@@ -19419,7 +19419,7 @@ Omit.transitionDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4813
+csstype/index.d.ts:4813
 
 ___
 
@@ -19448,7 +19448,7 @@ Omit.transitionProperty
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4828
+csstype/index.d.ts:4828
 
 ___
 
@@ -19477,7 +19477,7 @@ Omit.transitionTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4843
+csstype/index.d.ts:4843
 
 ___
 
@@ -19505,7 +19505,7 @@ Omit.translate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4857
+csstype/index.d.ts:4857
 
 ___
 
@@ -19537,7 +19537,7 @@ It takes the values defined under `theme.typography` and spreads them on the ele
 
 #### Defined in
 
-[src/styleTypes.ts:270](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L270)
+@yolm/boost/dist/styleTypes.d.ts:260
 
 ___
 
@@ -19565,7 +19565,7 @@ Omit.unicodeBidi
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4871
+csstype/index.d.ts:4871
 
 ___
 
@@ -19594,7 +19594,7 @@ Omit.userSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4886
+csstype/index.d.ts:4886
 
 ___
 
@@ -19608,7 +19608,7 @@ Omit.vectorEffect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8891
+csstype/index.d.ts:8891
 
 ___
 
@@ -19636,7 +19636,7 @@ Omit.verticalAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4900
+csstype/index.d.ts:4900
 
 ___
 
@@ -19664,7 +19664,7 @@ Omit.viewTransitionName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4914
+csstype/index.d.ts:4914
 
 ___
 
@@ -19692,7 +19692,7 @@ Omit.visibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4928
+csstype/index.d.ts:4928
 
 ___
 
@@ -19720,7 +19720,7 @@ Omit.whiteSpace
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4942
+csstype/index.d.ts:4942
 
 ___
 
@@ -19748,7 +19748,7 @@ Omit.widows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4956
+csstype/index.d.ts:4956
 
 ___
 
@@ -19776,7 +19776,7 @@ Omit.width
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4970
+csstype/index.d.ts:4970
 
 ___
 
@@ -19804,7 +19804,7 @@ Omit.willChange
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4984
+csstype/index.d.ts:4984
 
 ___
 
@@ -19832,7 +19832,7 @@ Omit.wordBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4998
+csstype/index.d.ts:4998
 
 ___
 
@@ -19860,7 +19860,7 @@ Omit.wordSpacing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5012
+csstype/index.d.ts:5012
 
 ___
 
@@ -19880,7 +19880,7 @@ Omit.wordWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5020
+csstype/index.d.ts:5020
 
 ___
 
@@ -19909,7 +19909,7 @@ Omit.writingMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5035
+csstype/index.d.ts:5035
 
 ___
 
@@ -19935,7 +19935,7 @@ https://developer.mozilla.org/docs/Web/CSS/z-index
 
 #### Defined in
 
-[src/styleTypes.ts:349](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L349)
+@yolm/boost/dist/styleTypes.d.ts:338
 
 ___
 
@@ -19963,4 +19963,4 @@ Omit.zoom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5063
+csstype/index.d.ts:5063

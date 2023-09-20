@@ -25,7 +25,7 @@ Path to directory containing data.db, map.json to load
 
 #### Defined in
 
-[src/yom.ts:2360](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2360)
+@yolm/boost/dist/yom.d.ts:1293
 
 ___
 
@@ -39,4 +39,4 @@ BaseTestData.name
 
 #### Defined in
 
-[src/yom.ts:2355](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2355)
+@yolm/boost/dist/yom.d.ts:1289

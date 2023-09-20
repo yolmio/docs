@@ -34,7 +34,7 @@ https://developer.mozilla.org/docs/Web/CSS/background-color
 
 #### Defined in
 
-[src/styleTypes.ts:28](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L28)
+@yolm/boost/dist/styleTypes.d.ts:18
 
 ___
 
@@ -56,20 +56,20 @@ https://developer.mozilla.org/docs/Web/CSS/display
 
 #### Defined in
 
-[src/styleTypes.ts:282](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L282)
+@yolm/boost/dist/styleTypes.d.ts:272
 
 ___
 
 ### gridColumnSpan
 
-• `Optional` **gridColumnSpan**: ``1`` \| ``2`` \| ``3`` \| ``4`` \| ``5`` \| ``6`` \| ``7`` \| ``8`` \| ``9`` \| ``10`` \| ``11`` \| ``12`` \| ``"full"``
+• `Optional` **gridColumnSpan**: ``2`` \| ``1`` \| ``3`` \| ``4`` \| ``5`` \| ``6`` \| ``7`` \| ``8`` \| ``9`` \| ``10`` \| ``11`` \| ``12`` \| ``"full"``
 
 Makes the element span n-columns wide. It has no effect if its parent is not a grid container.
 "full" will take the full width of the grid container.
 
 #### Defined in
 
-[src/styleTypes.ts:287](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L287)
+@yolm/boost/dist/styleTypes.d.ts:277
 
 ___
 
@@ -82,7 +82,7 @@ Makes the element span n-rows high. It has no effect if its parent is not a grid
 
 #### Defined in
 
-[src/styleTypes.ts:292](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L292)
+@yolm/boost/dist/styleTypes.d.ts:282
 
 ___
 
@@ -102,7 +102,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin
 
 #### Defined in
 
-[src/styleTypes.ts:38](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L38)
+@yolm/boost/dist/styleTypes.d.ts:28
 
 ___
 
@@ -126,7 +126,7 @@ places it farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:114](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L114)
+@yolm/boost/dist/styleTypes.d.ts:104
 
 ___
 
@@ -150,7 +150,7 @@ it farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:142](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L142)
+@yolm/boost/dist/styleTypes.d.ts:132
 
 ___
 
@@ -172,7 +172,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-bottom
 
 #### Defined in
 
-[src/styleTypes.ts:74](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L74)
+@yolm/boost/dist/styleTypes.d.ts:64
 
 ___
 
@@ -194,7 +194,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-left
 
 #### Defined in
 
-[src/styleTypes.ts:86](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L86)
+@yolm/boost/dist/styleTypes.d.ts:76
 
 ___
 
@@ -216,7 +216,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-right
 
 #### Defined in
 
-[src/styleTypes.ts:62](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L62)
+@yolm/boost/dist/styleTypes.d.ts:52
 
 ___
 
@@ -238,7 +238,7 @@ https://developer.mozilla.org/docs/Web/CSS/margin-top
 
 #### Defined in
 
-[src/styleTypes.ts:50](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L50)
+@yolm/boost/dist/styleTypes.d.ts:40
 
 ___
 
@@ -262,7 +262,7 @@ farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:100](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L100)
+@yolm/boost/dist/styleTypes.d.ts:90
 
 ___
 
@@ -286,7 +286,7 @@ farther from its neighbors, while a negative value places it closer.
 
 #### Defined in
 
-[src/styleTypes.ts:128](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L128)
+@yolm/boost/dist/styleTypes.d.ts:118
 
 ___
 
@@ -306,7 +306,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding
 
 #### Defined in
 
-[src/styleTypes.ts:152](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L152)
+@yolm/boost/dist/styleTypes.d.ts:142
 
 ___
 
@@ -329,7 +329,7 @@ The **`paddingX`** property is shorthand for the CSS properties **`padding-left`
 
 #### Defined in
 
-[src/styleTypes.ts:226](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L226)
+@yolm/boost/dist/styleTypes.d.ts:216
 
 ___
 
@@ -352,7 +352,7 @@ The **`paddingY`** property is shorthand for the CSS properties **`padding-top`*
 
 #### Defined in
 
-[src/styleTypes.ts:252](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L252)
+@yolm/boost/dist/styleTypes.d.ts:242
 
 ___
 
@@ -374,7 +374,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-bottom
 
 #### Defined in
 
-[src/styleTypes.ts:188](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L188)
+@yolm/boost/dist/styleTypes.d.ts:178
 
 ___
 
@@ -396,7 +396,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-left
 
 #### Defined in
 
-[src/styleTypes.ts:200](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L200)
+@yolm/boost/dist/styleTypes.d.ts:190
 
 ___
 
@@ -418,7 +418,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-right
 
 #### Defined in
 
-[src/styleTypes.ts:176](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L176)
+@yolm/boost/dist/styleTypes.d.ts:166
 
 ___
 
@@ -440,7 +440,7 @@ https://developer.mozilla.org/docs/Web/CSS/padding-top
 
 #### Defined in
 
-[src/styleTypes.ts:164](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L164)
+@yolm/boost/dist/styleTypes.d.ts:154
 
 ___
 
@@ -463,7 +463,7 @@ The **`px`** property is shorthand for the CSS properties **`padding-left`** and
 
 #### Defined in
 
-[src/styleTypes.ts:213](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L213)
+@yolm/boost/dist/styleTypes.d.ts:203
 
 ___
 
@@ -486,7 +486,7 @@ The **`py`** property is shorthand for the CSS properties **`padding-top`** and 
 
 #### Defined in
 
-[src/styleTypes.ts:239](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L239)
+@yolm/boost/dist/styleTypes.d.ts:229
 
 ___
 
@@ -514,4 +514,4 @@ It takes the values defined under `theme.typography` and spreads them on the ele
 
 #### Defined in
 
-[src/styleTypes.ts:270](https://github.com/yolmio/boost/blob/5cada48/src/styleTypes.ts#L270)
+@yolm/boost/dist/styleTypes.d.ts:260

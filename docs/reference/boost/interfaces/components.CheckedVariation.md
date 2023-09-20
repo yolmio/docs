@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/components/checkbox.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/components/checkbox.ts#L14)
+@yolm/boost/dist/components/checkbox.d.ts:6
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[src/components/checkbox.ts:13](https://github.com/yolmio/boost/blob/5cada48/src/components/checkbox.ts#L13)
+@yolm/boost/dist/components/checkbox.d.ts:5

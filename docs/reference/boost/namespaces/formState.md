@@ -52,13 +52,13 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:968](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L968)
+@yolm/boost/dist/formState.d.ts:152
 
 ___
 
 ### defaultValidate
 
-▸ **defaultValidate**(`field`, `«destructured»`, `statements`): `undefined` \| [`DomStatements`](../classes/statements.DomStatements.md)
+▸ **defaultValidate**(`field`, `«destructured»`, `statements`): [`DomStatements`](../classes/statements.DomStatements.md) \| `undefined`
 
 #### Parameters
 
@@ -70,11 +70,11 @@ ___
 
 #### Returns
 
-`undefined` \| [`DomStatements`](../classes/statements.DomStatements.md)
+[`DomStatements`](../classes/statements.DomStatements.md) \| `undefined`
 
 #### Defined in
 
-[src/formState.ts:1007](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L1007)
+@yolm/boost/dist/formState.d.ts:153
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:465](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L465)
+@yolm/boost/dist/formState.d.ts:75
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:430](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L430)
+@yolm/boost/dist/formState.d.ts:74
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:422](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L422)
+@yolm/boost/dist/formState.d.ts:73
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:960](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L960)
+@yolm/boost/dist/formState.d.ts:151
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:704](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L704)
+@yolm/boost/dist/formState.d.ts:130
 
 ___
 
@@ -195,4 +195,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:1359](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L1359)
+@yolm/boost/dist/formState.d.ts:172

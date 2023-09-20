@@ -44,7 +44,7 @@ CSS.StandardProperties.accentColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:25
+csstype/index.d.ts:25
 
 ___
 
@@ -73,7 +73,7 @@ CSS.StandardProperties.alignContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:40
+csstype/index.d.ts:40
 
 ___
 
@@ -102,7 +102,7 @@ CSS.StandardProperties.alignItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:55
+csstype/index.d.ts:55
 
 ___
 
@@ -131,7 +131,7 @@ CSS.StandardProperties.alignSelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:70
+csstype/index.d.ts:70
 
 ___
 
@@ -159,7 +159,7 @@ CSS.StandardProperties.alignTracks
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:84
+csstype/index.d.ts:84
 
 ___
 
@@ -173,7 +173,7 @@ CSS.SvgProperties.alignmentBaseline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8836
+csstype/index.d.ts:8836
 
 ___
 
@@ -201,7 +201,7 @@ CSS.StandardProperties.all
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5080
+csstype/index.d.ts:5080
 
 ___
 
@@ -228,7 +228,7 @@ CSS.StandardProperties.animation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5093
+csstype/index.d.ts:5093
 
 ___
 
@@ -256,7 +256,7 @@ CSS.StandardProperties.animationComposition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:98
+csstype/index.d.ts:98
 
 ___
 
@@ -285,7 +285,7 @@ CSS.StandardProperties.animationDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:113
+csstype/index.d.ts:113
 
 ___
 
@@ -314,7 +314,7 @@ CSS.StandardProperties.animationDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:128
+csstype/index.d.ts:128
 
 ___
 
@@ -343,7 +343,7 @@ CSS.StandardProperties.animationDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:143
+csstype/index.d.ts:143
 
 ___
 
@@ -372,7 +372,7 @@ CSS.StandardProperties.animationFillMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:158
+csstype/index.d.ts:158
 
 ___
 
@@ -401,7 +401,7 @@ CSS.StandardProperties.animationIterationCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:173
+csstype/index.d.ts:173
 
 ___
 
@@ -430,7 +430,7 @@ CSS.StandardProperties.animationName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:188
+csstype/index.d.ts:188
 
 ___
 
@@ -459,7 +459,7 @@ CSS.StandardProperties.animationPlayState
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:203
+csstype/index.d.ts:203
 
 ___
 
@@ -487,7 +487,7 @@ CSS.StandardProperties.animationTimeline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:217
+csstype/index.d.ts:217
 
 ___
 
@@ -516,7 +516,7 @@ CSS.StandardProperties.animationTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:232
+csstype/index.d.ts:232
 
 ___
 
@@ -545,7 +545,7 @@ CSS.StandardProperties.appearance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:247
+csstype/index.d.ts:247
 
 ___
 
@@ -573,7 +573,7 @@ CSS.StandardProperties.aspectRatio
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:261
+csstype/index.d.ts:261
 
 ___
 
@@ -601,7 +601,7 @@ CSS.StandardProperties.backdropFilter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:275
+csstype/index.d.ts:275
 
 ___
 
@@ -630,7 +630,7 @@ CSS.StandardProperties.backfaceVisibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:290
+csstype/index.d.ts:290
 
 ___
 
@@ -656,7 +656,7 @@ CSS.StandardProperties.background
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5105
+csstype/index.d.ts:5105
 
 ___
 
@@ -684,7 +684,7 @@ CSS.StandardProperties.backgroundAttachment
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:304
+csstype/index.d.ts:304
 
 ___
 
@@ -712,7 +712,7 @@ CSS.StandardProperties.backgroundBlendMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:318
+csstype/index.d.ts:318
 
 ___
 
@@ -741,7 +741,7 @@ CSS.StandardProperties.backgroundClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:333
+csstype/index.d.ts:333
 
 ___
 
@@ -769,7 +769,7 @@ CSS.StandardProperties.backgroundColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:347
+csstype/index.d.ts:347
 
 ___
 
@@ -797,7 +797,7 @@ CSS.StandardProperties.backgroundImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:361
+csstype/index.d.ts:361
 
 ___
 
@@ -825,7 +825,7 @@ CSS.StandardProperties.backgroundOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:375
+csstype/index.d.ts:375
 
 ___
 
@@ -853,7 +853,7 @@ CSS.StandardProperties.backgroundPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5119
+csstype/index.d.ts:5119
 
 ___
 
@@ -881,7 +881,7 @@ CSS.StandardProperties.backgroundPositionX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:389
+csstype/index.d.ts:389
 
 ___
 
@@ -909,7 +909,7 @@ CSS.StandardProperties.backgroundPositionY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:403
+csstype/index.d.ts:403
 
 ___
 
@@ -937,7 +937,7 @@ CSS.StandardProperties.backgroundRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:417
+csstype/index.d.ts:417
 
 ___
 
@@ -966,7 +966,7 @@ CSS.StandardProperties.backgroundSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:432
+csstype/index.d.ts:432
 
 ___
 
@@ -980,7 +980,7 @@ CSS.SvgProperties.baselineShift
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8837
+csstype/index.d.ts:8837
 
 ___
 
@@ -998,7 +998,7 @@ CSS.StandardProperties.blockOverflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:438
+csstype/index.d.ts:438
 
 ___
 
@@ -1026,7 +1026,7 @@ CSS.StandardProperties.blockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:452
+csstype/index.d.ts:452
 
 ___
 
@@ -1052,7 +1052,7 @@ CSS.StandardProperties.border
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5131
+csstype/index.d.ts:5131
 
 ___
 
@@ -1078,7 +1078,7 @@ CSS.StandardProperties.borderBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5143
+csstype/index.d.ts:5143
 
 ___
 
@@ -1106,7 +1106,7 @@ CSS.StandardProperties.borderBlockColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:466
+csstype/index.d.ts:466
 
 ___
 
@@ -1132,7 +1132,7 @@ CSS.StandardProperties.borderBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5155
+csstype/index.d.ts:5155
 
 ___
 
@@ -1160,7 +1160,7 @@ CSS.StandardProperties.borderBlockEndColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:480
+csstype/index.d.ts:480
 
 ___
 
@@ -1188,7 +1188,7 @@ CSS.StandardProperties.borderBlockEndStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:494
+csstype/index.d.ts:494
 
 ___
 
@@ -1216,7 +1216,7 @@ CSS.StandardProperties.borderBlockEndWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:508
+csstype/index.d.ts:508
 
 ___
 
@@ -1242,7 +1242,7 @@ CSS.StandardProperties.borderBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5167
+csstype/index.d.ts:5167
 
 ___
 
@@ -1270,7 +1270,7 @@ CSS.StandardProperties.borderBlockStartColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:522
+csstype/index.d.ts:522
 
 ___
 
@@ -1298,7 +1298,7 @@ CSS.StandardProperties.borderBlockStartStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:536
+csstype/index.d.ts:536
 
 ___
 
@@ -1326,7 +1326,7 @@ CSS.StandardProperties.borderBlockStartWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:550
+csstype/index.d.ts:550
 
 ___
 
@@ -1354,7 +1354,7 @@ CSS.StandardProperties.borderBlockStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:564
+csstype/index.d.ts:564
 
 ___
 
@@ -1382,7 +1382,7 @@ CSS.StandardProperties.borderBlockWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:578
+csstype/index.d.ts:578
 
 ___
 
@@ -1408,7 +1408,7 @@ CSS.StandardProperties.borderBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5179
+csstype/index.d.ts:5179
 
 ___
 
@@ -1436,7 +1436,7 @@ CSS.StandardProperties.borderBottomColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:592
+csstype/index.d.ts:592
 
 ___
 
@@ -1465,7 +1465,7 @@ CSS.StandardProperties.borderBottomLeftRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:607
+csstype/index.d.ts:607
 
 ___
 
@@ -1494,7 +1494,7 @@ CSS.StandardProperties.borderBottomRightRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:622
+csstype/index.d.ts:622
 
 ___
 
@@ -1522,7 +1522,7 @@ CSS.StandardProperties.borderBottomStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:636
+csstype/index.d.ts:636
 
 ___
 
@@ -1550,7 +1550,7 @@ CSS.StandardProperties.borderBottomWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:650
+csstype/index.d.ts:650
 
 ___
 
@@ -1578,7 +1578,7 @@ CSS.StandardProperties.borderCollapse
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:664
+csstype/index.d.ts:664
 
 ___
 
@@ -1604,7 +1604,7 @@ CSS.StandardProperties.borderColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5191
+csstype/index.d.ts:5191
 
 ___
 
@@ -1632,7 +1632,7 @@ CSS.StandardProperties.borderEndEndRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:678
+csstype/index.d.ts:678
 
 ___
 
@@ -1660,7 +1660,7 @@ CSS.StandardProperties.borderEndStartRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:692
+csstype/index.d.ts:692
 
 ___
 
@@ -1687,7 +1687,7 @@ CSS.StandardProperties.borderImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5204
+csstype/index.d.ts:5204
 
 ___
 
@@ -1715,7 +1715,7 @@ CSS.StandardProperties.borderImageOutset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:706
+csstype/index.d.ts:706
 
 ___
 
@@ -1743,7 +1743,7 @@ CSS.StandardProperties.borderImageRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:720
+csstype/index.d.ts:720
 
 ___
 
@@ -1771,7 +1771,7 @@ CSS.StandardProperties.borderImageSlice
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:734
+csstype/index.d.ts:734
 
 ___
 
@@ -1799,7 +1799,7 @@ CSS.StandardProperties.borderImageSource
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:748
+csstype/index.d.ts:748
 
 ___
 
@@ -1827,7 +1827,7 @@ CSS.StandardProperties.borderImageWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:762
+csstype/index.d.ts:762
 
 ___
 
@@ -1853,7 +1853,7 @@ CSS.StandardProperties.borderInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5216
+csstype/index.d.ts:5216
 
 ___
 
@@ -1881,7 +1881,7 @@ CSS.StandardProperties.borderInlineColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:776
+csstype/index.d.ts:776
 
 ___
 
@@ -1907,7 +1907,7 @@ CSS.StandardProperties.borderInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5228
+csstype/index.d.ts:5228
 
 ___
 
@@ -1936,7 +1936,7 @@ CSS.StandardProperties.borderInlineEndColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:791
+csstype/index.d.ts:791
 
 ___
 
@@ -1965,7 +1965,7 @@ CSS.StandardProperties.borderInlineEndStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:806
+csstype/index.d.ts:806
 
 ___
 
@@ -1994,7 +1994,7 @@ CSS.StandardProperties.borderInlineEndWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:821
+csstype/index.d.ts:821
 
 ___
 
@@ -2020,7 +2020,7 @@ CSS.StandardProperties.borderInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5240
+csstype/index.d.ts:5240
 
 ___
 
@@ -2049,7 +2049,7 @@ CSS.StandardProperties.borderInlineStartColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:836
+csstype/index.d.ts:836
 
 ___
 
@@ -2078,7 +2078,7 @@ CSS.StandardProperties.borderInlineStartStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:851
+csstype/index.d.ts:851
 
 ___
 
@@ -2106,7 +2106,7 @@ CSS.StandardProperties.borderInlineStartWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:865
+csstype/index.d.ts:865
 
 ___
 
@@ -2134,7 +2134,7 @@ CSS.StandardProperties.borderInlineStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:879
+csstype/index.d.ts:879
 
 ___
 
@@ -2162,7 +2162,7 @@ CSS.StandardProperties.borderInlineWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:893
+csstype/index.d.ts:893
 
 ___
 
@@ -2188,7 +2188,7 @@ CSS.StandardProperties.borderLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5252
+csstype/index.d.ts:5252
 
 ___
 
@@ -2216,7 +2216,7 @@ CSS.StandardProperties.borderLeftColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:907
+csstype/index.d.ts:907
 
 ___
 
@@ -2244,7 +2244,7 @@ CSS.StandardProperties.borderLeftStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:921
+csstype/index.d.ts:921
 
 ___
 
@@ -2272,7 +2272,7 @@ CSS.StandardProperties.borderLeftWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:935
+csstype/index.d.ts:935
 
 ___
 
@@ -2299,7 +2299,7 @@ CSS.StandardProperties.borderRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5265
+csstype/index.d.ts:5265
 
 ___
 
@@ -2325,7 +2325,7 @@ CSS.StandardProperties.borderRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5277
+csstype/index.d.ts:5277
 
 ___
 
@@ -2353,7 +2353,7 @@ CSS.StandardProperties.borderRightColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:949
+csstype/index.d.ts:949
 
 ___
 
@@ -2381,7 +2381,7 @@ CSS.StandardProperties.borderRightStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:963
+csstype/index.d.ts:963
 
 ___
 
@@ -2409,7 +2409,7 @@ CSS.StandardProperties.borderRightWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:977
+csstype/index.d.ts:977
 
 ___
 
@@ -2437,7 +2437,7 @@ CSS.StandardProperties.borderSpacing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:991
+csstype/index.d.ts:991
 
 ___
 
@@ -2465,7 +2465,7 @@ CSS.StandardProperties.borderStartEndRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1005
+csstype/index.d.ts:1005
 
 ___
 
@@ -2493,7 +2493,7 @@ CSS.StandardProperties.borderStartStartRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1019
+csstype/index.d.ts:1019
 
 ___
 
@@ -2519,7 +2519,7 @@ CSS.StandardProperties.borderStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5289
+csstype/index.d.ts:5289
 
 ___
 
@@ -2545,7 +2545,7 @@ CSS.StandardProperties.borderTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5301
+csstype/index.d.ts:5301
 
 ___
 
@@ -2573,7 +2573,7 @@ CSS.StandardProperties.borderTopColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1033
+csstype/index.d.ts:1033
 
 ___
 
@@ -2602,7 +2602,7 @@ CSS.StandardProperties.borderTopLeftRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1048
+csstype/index.d.ts:1048
 
 ___
 
@@ -2631,7 +2631,7 @@ CSS.StandardProperties.borderTopRightRadius
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1063
+csstype/index.d.ts:1063
 
 ___
 
@@ -2659,7 +2659,7 @@ CSS.StandardProperties.borderTopStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1077
+csstype/index.d.ts:1077
 
 ___
 
@@ -2687,7 +2687,7 @@ CSS.StandardProperties.borderTopWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1091
+csstype/index.d.ts:1091
 
 ___
 
@@ -2713,7 +2713,7 @@ CSS.StandardProperties.borderWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5313
+csstype/index.d.ts:5313
 
 ___
 
@@ -2741,7 +2741,7 @@ CSS.StandardProperties.bottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1105
+csstype/index.d.ts:1105
 
 ___
 
@@ -2769,7 +2769,7 @@ CSS.StandardProperties.boxDecorationBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1119
+csstype/index.d.ts:1119
 
 ___
 
@@ -2798,7 +2798,7 @@ CSS.StandardProperties.boxShadow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1134
+csstype/index.d.ts:1134
 
 ___
 
@@ -2827,7 +2827,7 @@ CSS.StandardProperties.boxSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1149
+csstype/index.d.ts:1149
 
 ___
 
@@ -2855,7 +2855,7 @@ CSS.StandardProperties.breakAfter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1163
+csstype/index.d.ts:1163
 
 ___
 
@@ -2883,7 +2883,7 @@ CSS.StandardProperties.breakBefore
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1177
+csstype/index.d.ts:1177
 
 ___
 
@@ -2911,7 +2911,7 @@ CSS.StandardProperties.breakInside
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1191
+csstype/index.d.ts:1191
 
 ___
 
@@ -2939,7 +2939,7 @@ CSS.StandardProperties.captionSide
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1205
+csstype/index.d.ts:1205
 
 ___
 
@@ -2955,7 +2955,7 @@ CSS.StandardProperties.caret
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5315
+csstype/index.d.ts:5315
 
 ___
 
@@ -2983,7 +2983,7 @@ CSS.StandardProperties.caretColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1219
+csstype/index.d.ts:1219
 
 ___
 
@@ -3001,7 +3001,7 @@ CSS.StandardProperties.caretShape
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1225
+csstype/index.d.ts:1225
 
 ___
 
@@ -3029,7 +3029,7 @@ CSS.StandardProperties.clear
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1239
+csstype/index.d.ts:1239
 
 ___
 
@@ -3043,7 +3043,7 @@ CSS.SvgProperties.clip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8838
+csstype/index.d.ts:8838
 
 ___
 
@@ -3072,7 +3072,7 @@ CSS.StandardProperties.clipPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1254
+csstype/index.d.ts:1254
 
 ___
 
@@ -3086,7 +3086,7 @@ CSS.SvgProperties.clipRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8840
+csstype/index.d.ts:8840
 
 ___
 
@@ -3114,7 +3114,7 @@ CSS.StandardProperties.color
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1268
+csstype/index.d.ts:1268
 
 ___
 
@@ -3143,7 +3143,7 @@ CSS.StandardProperties.colorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1283
+csstype/index.d.ts:1283
 
 ___
 
@@ -3157,7 +3157,7 @@ CSS.SvgProperties.colorInterpolation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8842
+csstype/index.d.ts:8842
 
 ___
 
@@ -3171,7 +3171,7 @@ CSS.SvgProperties.colorRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8843
+csstype/index.d.ts:8843
 
 ___
 
@@ -3199,7 +3199,7 @@ CSS.StandardProperties.colorScheme
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1297
+csstype/index.d.ts:1297
 
 ___
 
@@ -3228,7 +3228,7 @@ CSS.StandardProperties.columnCount
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1312
+csstype/index.d.ts:1312
 
 ___
 
@@ -3257,7 +3257,7 @@ CSS.StandardProperties.columnFill
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1327
+csstype/index.d.ts:1327
 
 ___
 
@@ -3285,7 +3285,7 @@ CSS.StandardProperties.columnGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1341
+csstype/index.d.ts:1341
 
 ___
 
@@ -3312,7 +3312,7 @@ CSS.StandardProperties.columnRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5328
+csstype/index.d.ts:5328
 
 ___
 
@@ -3341,7 +3341,7 @@ CSS.StandardProperties.columnRuleColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1356
+csstype/index.d.ts:1356
 
 ___
 
@@ -3370,7 +3370,7 @@ CSS.StandardProperties.columnRuleStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1371
+csstype/index.d.ts:1371
 
 ___
 
@@ -3399,7 +3399,7 @@ CSS.StandardProperties.columnRuleWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1386
+csstype/index.d.ts:1386
 
 ___
 
@@ -3428,7 +3428,7 @@ CSS.StandardProperties.columnSpan
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1401
+csstype/index.d.ts:1401
 
 ___
 
@@ -3457,7 +3457,7 @@ CSS.StandardProperties.columnWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1416
+csstype/index.d.ts:1416
 
 ___
 
@@ -3484,7 +3484,7 @@ CSS.StandardProperties.columns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5341
+csstype/index.d.ts:5341
 
 ___
 
@@ -3512,7 +3512,7 @@ CSS.StandardProperties.contain
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1430
+csstype/index.d.ts:1430
 
 ___
 
@@ -3540,7 +3540,7 @@ CSS.StandardProperties.containIntrinsicBlockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1444
+csstype/index.d.ts:1444
 
 ___
 
@@ -3568,7 +3568,7 @@ CSS.StandardProperties.containIntrinsicHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1458
+csstype/index.d.ts:1458
 
 ___
 
@@ -3596,7 +3596,7 @@ CSS.StandardProperties.containIntrinsicInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1472
+csstype/index.d.ts:1472
 
 ___
 
@@ -3622,7 +3622,7 @@ CSS.StandardProperties.containIntrinsicSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5353
+csstype/index.d.ts:5353
 
 ___
 
@@ -3650,7 +3650,7 @@ CSS.StandardProperties.containIntrinsicWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1486
+csstype/index.d.ts:1486
 
 ___
 
@@ -3676,7 +3676,7 @@ CSS.StandardProperties.container
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5365
+csstype/index.d.ts:5365
 
 ___
 
@@ -3708,7 +3708,7 @@ CSS.StandardProperties.containerName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1500
+csstype/index.d.ts:1500
 
 ___
 
@@ -3736,7 +3736,7 @@ CSS.StandardProperties.containerType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1514
+csstype/index.d.ts:1514
 
 ___
 
@@ -3764,7 +3764,7 @@ CSS.StandardProperties.content
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1528
+csstype/index.d.ts:1528
 
 ___
 
@@ -3792,7 +3792,7 @@ CSS.StandardProperties.contentVisibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1542
+csstype/index.d.ts:1542
 
 ___
 
@@ -3820,7 +3820,7 @@ CSS.StandardProperties.counterIncrement
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1556
+csstype/index.d.ts:1556
 
 ___
 
@@ -3848,7 +3848,7 @@ CSS.StandardProperties.counterReset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1570
+csstype/index.d.ts:1570
 
 ___
 
@@ -3876,7 +3876,7 @@ CSS.StandardProperties.counterSet
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1584
+csstype/index.d.ts:1584
 
 ___
 
@@ -3904,7 +3904,7 @@ CSS.StandardProperties.cursor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1598
+csstype/index.d.ts:1598
 
 ___
 
@@ -3932,7 +3932,7 @@ CSS.StandardProperties.direction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1612
+csstype/index.d.ts:1612
 
 ___
 
@@ -3960,7 +3960,7 @@ CSS.StandardProperties.display
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1626
+csstype/index.d.ts:1626
 
 ___
 
@@ -3974,7 +3974,7 @@ CSS.SvgProperties.dominantBaseline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8847
+csstype/index.d.ts:8847
 
 ___
 
@@ -4002,7 +4002,7 @@ CSS.StandardProperties.emptyCells
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1640
+csstype/index.d.ts:1640
 
 ___
 
@@ -4016,7 +4016,7 @@ CSS.SvgProperties.fill
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8848
+csstype/index.d.ts:8848
 
 ___
 
@@ -4030,7 +4030,7 @@ CSS.SvgProperties.fillOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8849
+csstype/index.d.ts:8849
 
 ___
 
@@ -4044,7 +4044,7 @@ CSS.SvgProperties.fillRule
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8850
+csstype/index.d.ts:8850
 
 ___
 
@@ -4073,7 +4073,7 @@ CSS.StandardProperties.filter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1655
+csstype/index.d.ts:1655
 
 ___
 
@@ -4100,7 +4100,7 @@ CSS.StandardProperties.flex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5378
+csstype/index.d.ts:5378
 
 ___
 
@@ -4129,7 +4129,7 @@ CSS.StandardProperties.flexBasis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1670
+csstype/index.d.ts:1670
 
 ___
 
@@ -4158,7 +4158,7 @@ CSS.StandardProperties.flexDirection
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1685
+csstype/index.d.ts:1685
 
 ___
 
@@ -4185,7 +4185,7 @@ CSS.StandardProperties.flexFlow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5391
+csstype/index.d.ts:5391
 
 ___
 
@@ -4214,7 +4214,7 @@ CSS.StandardProperties.flexGrow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1700
+csstype/index.d.ts:1700
 
 ___
 
@@ -4243,7 +4243,7 @@ CSS.StandardProperties.flexShrink
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1715
+csstype/index.d.ts:1715
 
 ___
 
@@ -4272,7 +4272,7 @@ CSS.StandardProperties.flexWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1730
+csstype/index.d.ts:1730
 
 ___
 
@@ -4300,7 +4300,7 @@ CSS.StandardProperties.float
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1744
+csstype/index.d.ts:1744
 
 ___
 
@@ -4314,7 +4314,7 @@ CSS.SvgProperties.floodColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8852
+csstype/index.d.ts:8852
 
 ___
 
@@ -4328,7 +4328,7 @@ CSS.SvgProperties.floodOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8853
+csstype/index.d.ts:8853
 
 ___
 
@@ -4354,7 +4354,7 @@ CSS.StandardProperties.font
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5403
+csstype/index.d.ts:5403
 
 ___
 
@@ -4382,7 +4382,7 @@ CSS.StandardProperties.fontFamily
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1758
+csstype/index.d.ts:1758
 
 ___
 
@@ -4411,7 +4411,7 @@ CSS.StandardProperties.fontFeatureSettings
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1773
+csstype/index.d.ts:1773
 
 ___
 
@@ -4440,7 +4440,7 @@ CSS.StandardProperties.fontKerning
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1788
+csstype/index.d.ts:1788
 
 ___
 
@@ -4469,7 +4469,7 @@ CSS.StandardProperties.fontLanguageOverride
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1803
+csstype/index.d.ts:1803
 
 ___
 
@@ -4497,7 +4497,7 @@ CSS.StandardProperties.fontOpticalSizing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1817
+csstype/index.d.ts:1817
 
 ___
 
@@ -4523,7 +4523,7 @@ CSS.StandardProperties.fontPalette
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1829
+csstype/index.d.ts:1829
 
 ___
 
@@ -4551,7 +4551,7 @@ CSS.StandardProperties.fontSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1843
+csstype/index.d.ts:1843
 
 ___
 
@@ -4579,7 +4579,7 @@ CSS.StandardProperties.fontSizeAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1857
+csstype/index.d.ts:1857
 
 ___
 
@@ -4607,7 +4607,7 @@ CSS.StandardProperties.fontSmooth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1871
+csstype/index.d.ts:1871
 
 ___
 
@@ -4635,7 +4635,7 @@ CSS.StandardProperties.fontStretch
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1885
+csstype/index.d.ts:1885
 
 ___
 
@@ -4663,7 +4663,7 @@ CSS.StandardProperties.fontStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1899
+csstype/index.d.ts:1899
 
 ___
 
@@ -4691,7 +4691,7 @@ CSS.StandardProperties.fontSynthesis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1913
+csstype/index.d.ts:1913
 
 ___
 
@@ -4719,7 +4719,7 @@ CSS.StandardProperties.fontVariant
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1927
+csstype/index.d.ts:1927
 
 ___
 
@@ -4747,7 +4747,7 @@ CSS.StandardProperties.fontVariantAlternates
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1941
+csstype/index.d.ts:1941
 
 ___
 
@@ -4775,7 +4775,7 @@ CSS.StandardProperties.fontVariantCaps
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1955
+csstype/index.d.ts:1955
 
 ___
 
@@ -4803,7 +4803,7 @@ CSS.StandardProperties.fontVariantEastAsian
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1969
+csstype/index.d.ts:1969
 
 ___
 
@@ -4829,7 +4829,7 @@ CSS.StandardProperties.fontVariantEmoji
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1981
+csstype/index.d.ts:1981
 
 ___
 
@@ -4858,7 +4858,7 @@ CSS.StandardProperties.fontVariantLigatures
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:1996
+csstype/index.d.ts:1996
 
 ___
 
@@ -4886,7 +4886,7 @@ CSS.StandardProperties.fontVariantNumeric
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2010
+csstype/index.d.ts:2010
 
 ___
 
@@ -4914,7 +4914,7 @@ CSS.StandardProperties.fontVariantPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2024
+csstype/index.d.ts:2024
 
 ___
 
@@ -4942,7 +4942,7 @@ CSS.StandardProperties.fontVariationSettings
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2038
+csstype/index.d.ts:2038
 
 ___
 
@@ -4970,7 +4970,7 @@ CSS.StandardProperties.fontWeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2052
+csstype/index.d.ts:2052
 
 ___
 
@@ -4999,7 +4999,7 @@ CSS.StandardProperties.forcedColorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2067
+csstype/index.d.ts:2067
 
 ___
 
@@ -5025,7 +5025,7 @@ CSS.StandardProperties.gap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5415
+csstype/index.d.ts:5415
 
 ___
 
@@ -5039,7 +5039,7 @@ CSS.SvgProperties.glyphOrientationVertical
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8862
+csstype/index.d.ts:8862
 
 ___
 
@@ -5065,7 +5065,7 @@ CSS.StandardProperties.grid
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5427
+csstype/index.d.ts:5427
 
 ___
 
@@ -5091,7 +5091,7 @@ CSS.StandardProperties.gridArea
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5439
+csstype/index.d.ts:5439
 
 ___
 
@@ -5119,7 +5119,7 @@ CSS.StandardProperties.gridAutoColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2081
+csstype/index.d.ts:2081
 
 ___
 
@@ -5147,7 +5147,7 @@ CSS.StandardProperties.gridAutoFlow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2095
+csstype/index.d.ts:2095
 
 ___
 
@@ -5175,7 +5175,7 @@ CSS.StandardProperties.gridAutoRows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2109
+csstype/index.d.ts:2109
 
 ___
 
@@ -5201,7 +5201,7 @@ CSS.StandardProperties.gridColumn
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5451
+csstype/index.d.ts:5451
 
 ___
 
@@ -5229,7 +5229,7 @@ CSS.StandardProperties.gridColumnEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2123
+csstype/index.d.ts:2123
 
 ___
 
@@ -5257,7 +5257,7 @@ CSS.StandardProperties.gridColumnStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2137
+csstype/index.d.ts:2137
 
 ___
 
@@ -5283,7 +5283,7 @@ CSS.StandardProperties.gridRow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5463
+csstype/index.d.ts:5463
 
 ___
 
@@ -5311,7 +5311,7 @@ CSS.StandardProperties.gridRowEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2151
+csstype/index.d.ts:2151
 
 ___
 
@@ -5339,7 +5339,7 @@ CSS.StandardProperties.gridRowStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2165
+csstype/index.d.ts:2165
 
 ___
 
@@ -5365,7 +5365,7 @@ CSS.StandardProperties.gridTemplate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5475
+csstype/index.d.ts:5475
 
 ___
 
@@ -5393,7 +5393,7 @@ CSS.StandardProperties.gridTemplateAreas
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2179
+csstype/index.d.ts:2179
 
 ___
 
@@ -5421,7 +5421,7 @@ CSS.StandardProperties.gridTemplateColumns
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2193
+csstype/index.d.ts:2193
 
 ___
 
@@ -5449,7 +5449,7 @@ CSS.StandardProperties.gridTemplateRows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2207
+csstype/index.d.ts:2207
 
 ___
 
@@ -5477,7 +5477,7 @@ CSS.StandardProperties.hangingPunctuation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2221
+csstype/index.d.ts:2221
 
 ___
 
@@ -5505,7 +5505,7 @@ CSS.StandardProperties.height
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2235
+csstype/index.d.ts:2235
 
 ___
 
@@ -5534,7 +5534,7 @@ CSS.StandardProperties.hyphenateCharacter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2250
+csstype/index.d.ts:2250
 
 ___
 
@@ -5558,7 +5558,7 @@ CSS.StandardProperties.hyphenateLimitChars
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2262
+csstype/index.d.ts:2262
 
 ___
 
@@ -5587,7 +5587,7 @@ CSS.StandardProperties.hyphens
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2277
+csstype/index.d.ts:2277
 
 ___
 
@@ -5615,7 +5615,7 @@ CSS.StandardProperties.imageOrientation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2291
+csstype/index.d.ts:2291
 
 ___
 
@@ -5643,7 +5643,7 @@ CSS.StandardProperties.imageRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2305
+csstype/index.d.ts:2305
 
 ___
 
@@ -5661,7 +5661,7 @@ CSS.StandardProperties.imageResolution
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2311
+csstype/index.d.ts:2311
 
 ___
 
@@ -5689,7 +5689,7 @@ CSS.StandardProperties.initialLetter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2325
+csstype/index.d.ts:2325
 
 ___
 
@@ -5717,7 +5717,7 @@ CSS.StandardProperties.inlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2339
+csstype/index.d.ts:2339
 
 ___
 
@@ -5735,7 +5735,7 @@ CSS.StandardProperties.inputSecurity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2345
+csstype/index.d.ts:2345
 
 ___
 
@@ -5761,7 +5761,7 @@ CSS.StandardProperties.inset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5487
+csstype/index.d.ts:5487
 
 ___
 
@@ -5787,7 +5787,7 @@ CSS.StandardProperties.insetBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5499
+csstype/index.d.ts:5499
 
 ___
 
@@ -5815,7 +5815,7 @@ CSS.StandardProperties.insetBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2359
+csstype/index.d.ts:2359
 
 ___
 
@@ -5843,7 +5843,7 @@ CSS.StandardProperties.insetBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2373
+csstype/index.d.ts:2373
 
 ___
 
@@ -5869,7 +5869,7 @@ CSS.StandardProperties.insetInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5511
+csstype/index.d.ts:5511
 
 ___
 
@@ -5897,7 +5897,7 @@ CSS.StandardProperties.insetInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2387
+csstype/index.d.ts:2387
 
 ___
 
@@ -5925,7 +5925,7 @@ CSS.StandardProperties.insetInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2401
+csstype/index.d.ts:2401
 
 ___
 
@@ -5953,7 +5953,7 @@ CSS.StandardProperties.isolation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2415
+csstype/index.d.ts:2415
 
 ___
 
@@ -5982,7 +5982,7 @@ CSS.StandardProperties.justifyContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2430
+csstype/index.d.ts:2430
 
 ___
 
@@ -6010,7 +6010,7 @@ CSS.StandardProperties.justifyItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2444
+csstype/index.d.ts:2444
 
 ___
 
@@ -6038,7 +6038,7 @@ CSS.StandardProperties.justifySelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2458
+csstype/index.d.ts:2458
 
 ___
 
@@ -6066,7 +6066,7 @@ CSS.StandardProperties.justifyTracks
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2472
+csstype/index.d.ts:2472
 
 ___
 
@@ -6094,7 +6094,7 @@ CSS.StandardProperties.left
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2486
+csstype/index.d.ts:2486
 
 ___
 
@@ -6122,7 +6122,7 @@ CSS.StandardProperties.letterSpacing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2500
+csstype/index.d.ts:2500
 
 ___
 
@@ -6136,7 +6136,7 @@ CSS.SvgProperties.lightingColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8865
+csstype/index.d.ts:8865
 
 ___
 
@@ -6165,7 +6165,7 @@ CSS.StandardProperties.lineBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2515
+csstype/index.d.ts:2515
 
 ___
 
@@ -6183,7 +6183,7 @@ CSS.StandardProperties.lineClamp
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5517
+csstype/index.d.ts:5517
 
 ___
 
@@ -6211,7 +6211,7 @@ CSS.StandardProperties.lineHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2529
+csstype/index.d.ts:2529
 
 ___
 
@@ -6239,7 +6239,7 @@ CSS.StandardProperties.lineHeightStep
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2543
+csstype/index.d.ts:2543
 
 ___
 
@@ -6265,7 +6265,7 @@ CSS.StandardProperties.listStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5529
+csstype/index.d.ts:5529
 
 ___
 
@@ -6293,7 +6293,7 @@ CSS.StandardProperties.listStyleImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2557
+csstype/index.d.ts:2557
 
 ___
 
@@ -6321,7 +6321,7 @@ CSS.StandardProperties.listStylePosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2571
+csstype/index.d.ts:2571
 
 ___
 
@@ -6349,7 +6349,7 @@ CSS.StandardProperties.listStyleType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2585
+csstype/index.d.ts:2585
 
 ___
 
@@ -6375,7 +6375,7 @@ CSS.StandardProperties.margin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5541
+csstype/index.d.ts:5541
 
 ___
 
@@ -6401,7 +6401,7 @@ CSS.StandardProperties.marginBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5553
+csstype/index.d.ts:5553
 
 ___
 
@@ -6429,7 +6429,7 @@ CSS.StandardProperties.marginBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2599
+csstype/index.d.ts:2599
 
 ___
 
@@ -6457,7 +6457,7 @@ CSS.StandardProperties.marginBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2613
+csstype/index.d.ts:2613
 
 ___
 
@@ -6485,7 +6485,7 @@ CSS.StandardProperties.marginBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2627
+csstype/index.d.ts:2627
 
 ___
 
@@ -6511,7 +6511,7 @@ CSS.StandardProperties.marginInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5565
+csstype/index.d.ts:5565
 
 ___
 
@@ -6540,7 +6540,7 @@ CSS.StandardProperties.marginInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2642
+csstype/index.d.ts:2642
 
 ___
 
@@ -6569,7 +6569,7 @@ CSS.StandardProperties.marginInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2657
+csstype/index.d.ts:2657
 
 ___
 
@@ -6597,7 +6597,7 @@ CSS.StandardProperties.marginLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2671
+csstype/index.d.ts:2671
 
 ___
 
@@ -6625,7 +6625,7 @@ CSS.StandardProperties.marginRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2685
+csstype/index.d.ts:2685
 
 ___
 
@@ -6653,7 +6653,7 @@ CSS.StandardProperties.marginTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2699
+csstype/index.d.ts:2699
 
 ___
 
@@ -6681,7 +6681,7 @@ CSS.StandardProperties.marginTrim
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2713
+csstype/index.d.ts:2713
 
 ___
 
@@ -6695,7 +6695,7 @@ CSS.SvgProperties.marker
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8867
+csstype/index.d.ts:8867
 
 ___
 
@@ -6709,7 +6709,7 @@ CSS.SvgProperties.markerEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8868
+csstype/index.d.ts:8868
 
 ___
 
@@ -6723,7 +6723,7 @@ CSS.SvgProperties.markerMid
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8869
+csstype/index.d.ts:8869
 
 ___
 
@@ -6737,7 +6737,7 @@ CSS.SvgProperties.markerStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8870
+csstype/index.d.ts:8870
 
 ___
 
@@ -6763,7 +6763,7 @@ CSS.StandardProperties.mask
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5577
+csstype/index.d.ts:5577
 
 ___
 
@@ -6789,7 +6789,7 @@ CSS.StandardProperties.maskBorder
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5589
+csstype/index.d.ts:5589
 
 ___
 
@@ -6809,7 +6809,7 @@ CSS.StandardProperties.maskBorderMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2721
+csstype/index.d.ts:2721
 
 ___
 
@@ -6837,7 +6837,7 @@ CSS.StandardProperties.maskBorderOutset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2735
+csstype/index.d.ts:2735
 
 ___
 
@@ -6865,7 +6865,7 @@ CSS.StandardProperties.maskBorderRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2749
+csstype/index.d.ts:2749
 
 ___
 
@@ -6893,7 +6893,7 @@ CSS.StandardProperties.maskBorderSlice
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2763
+csstype/index.d.ts:2763
 
 ___
 
@@ -6921,7 +6921,7 @@ CSS.StandardProperties.maskBorderSource
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2777
+csstype/index.d.ts:2777
 
 ___
 
@@ -6949,7 +6949,7 @@ CSS.StandardProperties.maskBorderWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2791
+csstype/index.d.ts:2791
 
 ___
 
@@ -6978,7 +6978,7 @@ CSS.StandardProperties.maskClip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2806
+csstype/index.d.ts:2806
 
 ___
 
@@ -7006,7 +7006,7 @@ CSS.StandardProperties.maskComposite
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2820
+csstype/index.d.ts:2820
 
 ___
 
@@ -7035,7 +7035,7 @@ CSS.StandardProperties.maskImage
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2835
+csstype/index.d.ts:2835
 
 ___
 
@@ -7063,7 +7063,7 @@ CSS.StandardProperties.maskMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2849
+csstype/index.d.ts:2849
 
 ___
 
@@ -7092,7 +7092,7 @@ CSS.StandardProperties.maskOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2864
+csstype/index.d.ts:2864
 
 ___
 
@@ -7121,7 +7121,7 @@ CSS.StandardProperties.maskPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2879
+csstype/index.d.ts:2879
 
 ___
 
@@ -7150,7 +7150,7 @@ CSS.StandardProperties.maskRepeat
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2894
+csstype/index.d.ts:2894
 
 ___
 
@@ -7179,7 +7179,7 @@ CSS.StandardProperties.maskSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2909
+csstype/index.d.ts:2909
 
 ___
 
@@ -7207,7 +7207,7 @@ CSS.StandardProperties.maskType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2923
+csstype/index.d.ts:2923
 
 ___
 
@@ -7235,7 +7235,7 @@ CSS.StandardProperties.mathDepth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2937
+csstype/index.d.ts:2937
 
 ___
 
@@ -7263,7 +7263,7 @@ CSS.StandardProperties.mathShift
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2951
+csstype/index.d.ts:2951
 
 ___
 
@@ -7291,7 +7291,7 @@ CSS.StandardProperties.mathStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2965
+csstype/index.d.ts:2965
 
 ___
 
@@ -7319,7 +7319,7 @@ CSS.StandardProperties.maxBlockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2979
+csstype/index.d.ts:2979
 
 ___
 
@@ -7347,7 +7347,7 @@ CSS.StandardProperties.maxHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:2993
+csstype/index.d.ts:2993
 
 ___
 
@@ -7376,7 +7376,7 @@ CSS.StandardProperties.maxInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3008
+csstype/index.d.ts:3008
 
 ___
 
@@ -7394,7 +7394,7 @@ CSS.StandardProperties.maxLines
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3014
+csstype/index.d.ts:3014
 
 ___
 
@@ -7422,7 +7422,7 @@ CSS.StandardProperties.maxWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3028
+csstype/index.d.ts:3028
 
 ___
 
@@ -7450,7 +7450,7 @@ CSS.StandardProperties.minBlockSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3042
+csstype/index.d.ts:3042
 
 ___
 
@@ -7478,7 +7478,7 @@ CSS.StandardProperties.minHeight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3056
+csstype/index.d.ts:3056
 
 ___
 
@@ -7506,7 +7506,7 @@ CSS.StandardProperties.minInlineSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3070
+csstype/index.d.ts:3070
 
 ___
 
@@ -7534,7 +7534,7 @@ CSS.StandardProperties.minWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3084
+csstype/index.d.ts:3084
 
 ___
 
@@ -7562,7 +7562,7 @@ CSS.StandardProperties.mixBlendMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3098
+csstype/index.d.ts:3098
 
 ___
 
@@ -7589,7 +7589,7 @@ CSS.StandardProperties.motion
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5602
+csstype/index.d.ts:5602
 
 ___
 
@@ -7618,7 +7618,7 @@ CSS.StandardProperties.motionDistance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3113
+csstype/index.d.ts:3113
 
 ___
 
@@ -7647,7 +7647,7 @@ CSS.StandardProperties.motionPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3128
+csstype/index.d.ts:3128
 
 ___
 
@@ -7676,7 +7676,7 @@ CSS.StandardProperties.motionRotation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3143
+csstype/index.d.ts:3143
 
 ___
 
@@ -7704,7 +7704,7 @@ CSS.StandardProperties.objectFit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3157
+csstype/index.d.ts:3157
 
 ___
 
@@ -7732,7 +7732,7 @@ CSS.StandardProperties.objectPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3171
+csstype/index.d.ts:3171
 
 ___
 
@@ -7759,7 +7759,7 @@ CSS.StandardProperties.offset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5615
+csstype/index.d.ts:5615
 
 ___
 
@@ -7785,7 +7785,7 @@ CSS.StandardProperties.offsetAnchor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3183
+csstype/index.d.ts:3183
 
 ___
 
@@ -7814,7 +7814,7 @@ CSS.StandardProperties.offsetDistance
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3198
+csstype/index.d.ts:3198
 
 ___
 
@@ -7843,7 +7843,7 @@ CSS.StandardProperties.offsetPath
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3213
+csstype/index.d.ts:3213
 
 ___
 
@@ -7869,7 +7869,7 @@ CSS.StandardProperties.offsetPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3225
+csstype/index.d.ts:3225
 
 ___
 
@@ -7898,7 +7898,7 @@ CSS.StandardProperties.offsetRotate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3240
+csstype/index.d.ts:3240
 
 ___
 
@@ -7927,7 +7927,7 @@ CSS.StandardProperties.offsetRotation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3255
+csstype/index.d.ts:3255
 
 ___
 
@@ -7955,7 +7955,7 @@ CSS.StandardProperties.opacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3269
+csstype/index.d.ts:3269
 
 ___
 
@@ -7984,7 +7984,7 @@ CSS.StandardProperties.order
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3284
+csstype/index.d.ts:3284
 
 ___
 
@@ -8012,7 +8012,7 @@ CSS.StandardProperties.orphans
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3298
+csstype/index.d.ts:3298
 
 ___
 
@@ -8038,7 +8038,7 @@ CSS.StandardProperties.outline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5627
+csstype/index.d.ts:5627
 
 ___
 
@@ -8066,7 +8066,7 @@ CSS.StandardProperties.outlineColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3312
+csstype/index.d.ts:3312
 
 ___
 
@@ -8094,7 +8094,7 @@ CSS.StandardProperties.outlineOffset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3326
+csstype/index.d.ts:3326
 
 ___
 
@@ -8122,7 +8122,7 @@ CSS.StandardProperties.outlineStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3340
+csstype/index.d.ts:3340
 
 ___
 
@@ -8150,7 +8150,7 @@ CSS.StandardProperties.outlineWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3354
+csstype/index.d.ts:3354
 
 ___
 
@@ -8178,7 +8178,7 @@ CSS.StandardProperties.overflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5641
+csstype/index.d.ts:5641
 
 ___
 
@@ -8204,7 +8204,7 @@ CSS.StandardProperties.overflowAnchor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3366
+csstype/index.d.ts:3366
 
 ___
 
@@ -8230,7 +8230,7 @@ CSS.StandardProperties.overflowBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3378
+csstype/index.d.ts:3378
 
 ___
 
@@ -8258,7 +8258,7 @@ CSS.StandardProperties.overflowClipBox
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3392
+csstype/index.d.ts:3392
 
 ___
 
@@ -8284,7 +8284,7 @@ CSS.StandardProperties.overflowClipMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3404
+csstype/index.d.ts:3404
 
 ___
 
@@ -8310,7 +8310,7 @@ CSS.StandardProperties.overflowInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3416
+csstype/index.d.ts:3416
 
 ___
 
@@ -8339,7 +8339,7 @@ CSS.StandardProperties.overflowWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3431
+csstype/index.d.ts:3431
 
 ___
 
@@ -8367,7 +8367,7 @@ CSS.StandardProperties.overflowX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3445
+csstype/index.d.ts:3445
 
 ___
 
@@ -8395,7 +8395,7 @@ CSS.StandardProperties.overflowY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3459
+csstype/index.d.ts:3459
 
 ___
 
@@ -8423,7 +8423,7 @@ CSS.StandardProperties.overscrollBehavior
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5655
+csstype/index.d.ts:5655
 
 ___
 
@@ -8451,7 +8451,7 @@ CSS.StandardProperties.overscrollBehaviorBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3473
+csstype/index.d.ts:3473
 
 ___
 
@@ -8479,7 +8479,7 @@ CSS.StandardProperties.overscrollBehaviorInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3487
+csstype/index.d.ts:3487
 
 ___
 
@@ -8507,7 +8507,7 @@ CSS.StandardProperties.overscrollBehaviorX
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3501
+csstype/index.d.ts:3501
 
 ___
 
@@ -8535,7 +8535,7 @@ CSS.StandardProperties.overscrollBehaviorY
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3515
+csstype/index.d.ts:3515
 
 ___
 
@@ -8561,7 +8561,7 @@ CSS.StandardProperties.padding
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5667
+csstype/index.d.ts:5667
 
 ___
 
@@ -8587,7 +8587,7 @@ CSS.StandardProperties.paddingBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5679
+csstype/index.d.ts:5679
 
 ___
 
@@ -8615,7 +8615,7 @@ CSS.StandardProperties.paddingBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3529
+csstype/index.d.ts:3529
 
 ___
 
@@ -8643,7 +8643,7 @@ CSS.StandardProperties.paddingBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3543
+csstype/index.d.ts:3543
 
 ___
 
@@ -8671,7 +8671,7 @@ CSS.StandardProperties.paddingBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3557
+csstype/index.d.ts:3557
 
 ___
 
@@ -8697,7 +8697,7 @@ CSS.StandardProperties.paddingInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5691
+csstype/index.d.ts:5691
 
 ___
 
@@ -8726,7 +8726,7 @@ CSS.StandardProperties.paddingInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3572
+csstype/index.d.ts:3572
 
 ___
 
@@ -8755,7 +8755,7 @@ CSS.StandardProperties.paddingInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3587
+csstype/index.d.ts:3587
 
 ___
 
@@ -8783,7 +8783,7 @@ CSS.StandardProperties.paddingLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3601
+csstype/index.d.ts:3601
 
 ___
 
@@ -8811,7 +8811,7 @@ CSS.StandardProperties.paddingRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3615
+csstype/index.d.ts:3615
 
 ___
 
@@ -8839,7 +8839,7 @@ CSS.StandardProperties.paddingTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3629
+csstype/index.d.ts:3629
 
 ___
 
@@ -8867,7 +8867,7 @@ CSS.StandardProperties.page
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3643
+csstype/index.d.ts:3643
 
 ___
 
@@ -8895,7 +8895,7 @@ CSS.StandardProperties.pageBreakAfter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3657
+csstype/index.d.ts:3657
 
 ___
 
@@ -8923,7 +8923,7 @@ CSS.StandardProperties.pageBreakBefore
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3671
+csstype/index.d.ts:3671
 
 ___
 
@@ -8951,7 +8951,7 @@ CSS.StandardProperties.pageBreakInside
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3685
+csstype/index.d.ts:3685
 
 ___
 
@@ -8979,7 +8979,7 @@ CSS.StandardProperties.paintOrder
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3699
+csstype/index.d.ts:3699
 
 ___
 
@@ -9008,7 +9008,7 @@ CSS.StandardProperties.perspective
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3714
+csstype/index.d.ts:3714
 
 ___
 
@@ -9037,7 +9037,7 @@ CSS.StandardProperties.perspectiveOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3729
+csstype/index.d.ts:3729
 
 ___
 
@@ -9063,7 +9063,7 @@ CSS.StandardProperties.placeContent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5703
+csstype/index.d.ts:5703
 
 ___
 
@@ -9089,7 +9089,7 @@ CSS.StandardProperties.placeItems
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5715
+csstype/index.d.ts:5715
 
 ___
 
@@ -9115,7 +9115,7 @@ CSS.StandardProperties.placeSelf
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5727
+csstype/index.d.ts:5727
 
 ___
 
@@ -9143,7 +9143,7 @@ CSS.StandardProperties.pointerEvents
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3743
+csstype/index.d.ts:3743
 
 ___
 
@@ -9171,7 +9171,7 @@ CSS.StandardProperties.position
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3757
+csstype/index.d.ts:3757
 
 ___
 
@@ -9200,7 +9200,7 @@ CSS.StandardProperties.printColorAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3772
+csstype/index.d.ts:3772
 
 ___
 
@@ -9228,7 +9228,7 @@ CSS.StandardProperties.quotes
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3786
+csstype/index.d.ts:3786
 
 ___
 
@@ -9256,7 +9256,7 @@ CSS.StandardProperties.resize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3800
+csstype/index.d.ts:3800
 
 ___
 
@@ -9284,7 +9284,7 @@ CSS.StandardProperties.right
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3814
+csstype/index.d.ts:3814
 
 ___
 
@@ -9312,7 +9312,7 @@ CSS.StandardProperties.rotate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3828
+csstype/index.d.ts:3828
 
 ___
 
@@ -9340,7 +9340,7 @@ CSS.StandardProperties.rowGap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3842
+csstype/index.d.ts:3842
 
 ___
 
@@ -9368,7 +9368,7 @@ CSS.StandardProperties.rubyAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3856
+csstype/index.d.ts:3856
 
 ___
 
@@ -9386,7 +9386,7 @@ CSS.StandardProperties.rubyMerge
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3862
+csstype/index.d.ts:3862
 
 ___
 
@@ -9415,7 +9415,7 @@ CSS.StandardProperties.rubyPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3877
+csstype/index.d.ts:3877
 
 ___
 
@@ -9443,7 +9443,7 @@ CSS.StandardProperties.scale
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3891
+csstype/index.d.ts:3891
 
 ___
 
@@ -9471,7 +9471,7 @@ CSS.StandardProperties.scrollBehavior
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3905
+csstype/index.d.ts:3905
 
 ___
 
@@ -9498,7 +9498,7 @@ CSS.StandardProperties.scrollMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5740
+csstype/index.d.ts:5740
 
 ___
 
@@ -9524,7 +9524,7 @@ CSS.StandardProperties.scrollMarginBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5752
+csstype/index.d.ts:5752
 
 ___
 
@@ -9552,7 +9552,7 @@ CSS.StandardProperties.scrollMarginBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3919
+csstype/index.d.ts:3919
 
 ___
 
@@ -9580,7 +9580,7 @@ CSS.StandardProperties.scrollMarginBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3933
+csstype/index.d.ts:3933
 
 ___
 
@@ -9609,7 +9609,7 @@ CSS.StandardProperties.scrollMarginBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3948
+csstype/index.d.ts:3948
 
 ___
 
@@ -9635,7 +9635,7 @@ CSS.StandardProperties.scrollMarginInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5764
+csstype/index.d.ts:5764
 
 ___
 
@@ -9663,7 +9663,7 @@ CSS.StandardProperties.scrollMarginInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3962
+csstype/index.d.ts:3962
 
 ___
 
@@ -9691,7 +9691,7 @@ CSS.StandardProperties.scrollMarginInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3976
+csstype/index.d.ts:3976
 
 ___
 
@@ -9720,7 +9720,7 @@ CSS.StandardProperties.scrollMarginLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:3991
+csstype/index.d.ts:3991
 
 ___
 
@@ -9749,7 +9749,7 @@ CSS.StandardProperties.scrollMarginRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4006
+csstype/index.d.ts:4006
 
 ___
 
@@ -9778,7 +9778,7 @@ CSS.StandardProperties.scrollMarginTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4021
+csstype/index.d.ts:4021
 
 ___
 
@@ -9804,7 +9804,7 @@ CSS.StandardProperties.scrollPadding
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5776
+csstype/index.d.ts:5776
 
 ___
 
@@ -9830,7 +9830,7 @@ CSS.StandardProperties.scrollPaddingBlock
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5788
+csstype/index.d.ts:5788
 
 ___
 
@@ -9858,7 +9858,7 @@ CSS.StandardProperties.scrollPaddingBlockEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4035
+csstype/index.d.ts:4035
 
 ___
 
@@ -9886,7 +9886,7 @@ CSS.StandardProperties.scrollPaddingBlockStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4049
+csstype/index.d.ts:4049
 
 ___
 
@@ -9914,7 +9914,7 @@ CSS.StandardProperties.scrollPaddingBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4063
+csstype/index.d.ts:4063
 
 ___
 
@@ -9940,7 +9940,7 @@ CSS.StandardProperties.scrollPaddingInline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5800
+csstype/index.d.ts:5800
 
 ___
 
@@ -9968,7 +9968,7 @@ CSS.StandardProperties.scrollPaddingInlineEnd
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4077
+csstype/index.d.ts:4077
 
 ___
 
@@ -9996,7 +9996,7 @@ CSS.StandardProperties.scrollPaddingInlineStart
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4091
+csstype/index.d.ts:4091
 
 ___
 
@@ -10024,7 +10024,7 @@ CSS.StandardProperties.scrollPaddingLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4105
+csstype/index.d.ts:4105
 
 ___
 
@@ -10052,7 +10052,7 @@ CSS.StandardProperties.scrollPaddingRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4119
+csstype/index.d.ts:4119
 
 ___
 
@@ -10080,7 +10080,7 @@ CSS.StandardProperties.scrollPaddingTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4133
+csstype/index.d.ts:4133
 
 ___
 
@@ -10108,7 +10108,7 @@ CSS.StandardProperties.scrollSnapAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4147
+csstype/index.d.ts:4147
 
 ___
 
@@ -10135,7 +10135,7 @@ CSS.StandardProperties.scrollSnapMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5813
+csstype/index.d.ts:5813
 
 ___
 
@@ -10164,7 +10164,7 @@ CSS.StandardProperties.scrollSnapMarginBottom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4162
+csstype/index.d.ts:4162
 
 ___
 
@@ -10193,7 +10193,7 @@ CSS.StandardProperties.scrollSnapMarginLeft
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4177
+csstype/index.d.ts:4177
 
 ___
 
@@ -10222,7 +10222,7 @@ CSS.StandardProperties.scrollSnapMarginRight
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4192
+csstype/index.d.ts:4192
 
 ___
 
@@ -10251,7 +10251,7 @@ CSS.StandardProperties.scrollSnapMarginTop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4207
+csstype/index.d.ts:4207
 
 ___
 
@@ -10279,7 +10279,7 @@ CSS.StandardProperties.scrollSnapStop
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4221
+csstype/index.d.ts:4221
 
 ___
 
@@ -10308,7 +10308,7 @@ CSS.StandardProperties.scrollSnapType
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4236
+csstype/index.d.ts:4236
 
 ___
 
@@ -10334,7 +10334,7 @@ CSS.StandardProperties.scrollTimeline
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5825
+csstype/index.d.ts:5825
 
 ___
 
@@ -10362,7 +10362,7 @@ CSS.StandardProperties.scrollTimelineAxis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4250
+csstype/index.d.ts:4250
 
 ___
 
@@ -10390,7 +10390,7 @@ CSS.StandardProperties.scrollTimelineName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4264
+csstype/index.d.ts:4264
 
 ___
 
@@ -10418,7 +10418,7 @@ CSS.StandardProperties.scrollbarColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4278
+csstype/index.d.ts:4278
 
 ___
 
@@ -10446,7 +10446,7 @@ CSS.StandardProperties.scrollbarGutter
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4292
+csstype/index.d.ts:4292
 
 ___
 
@@ -10474,7 +10474,7 @@ CSS.StandardProperties.scrollbarWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4306
+csstype/index.d.ts:4306
 
 ___
 
@@ -10502,7 +10502,7 @@ CSS.StandardProperties.shapeImageThreshold
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4320
+csstype/index.d.ts:4320
 
 ___
 
@@ -10530,7 +10530,7 @@ CSS.StandardProperties.shapeMargin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4334
+csstype/index.d.ts:4334
 
 ___
 
@@ -10558,7 +10558,7 @@ CSS.StandardProperties.shapeOutside
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4348
+csstype/index.d.ts:4348
 
 ___
 
@@ -10572,7 +10572,7 @@ CSS.SvgProperties.shapeRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8876
+csstype/index.d.ts:8876
 
 ___
 
@@ -10586,7 +10586,7 @@ CSS.SvgProperties.stopColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8877
+csstype/index.d.ts:8877
 
 ___
 
@@ -10600,7 +10600,7 @@ CSS.SvgProperties.stopOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8878
+csstype/index.d.ts:8878
 
 ___
 
@@ -10614,7 +10614,7 @@ CSS.SvgProperties.stroke
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8879
+csstype/index.d.ts:8879
 
 ___
 
@@ -10628,7 +10628,7 @@ CSS.SvgProperties.strokeDasharray
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8880
+csstype/index.d.ts:8880
 
 ___
 
@@ -10642,7 +10642,7 @@ CSS.SvgProperties.strokeDashoffset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8881
+csstype/index.d.ts:8881
 
 ___
 
@@ -10656,7 +10656,7 @@ CSS.SvgProperties.strokeLinecap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8882
+csstype/index.d.ts:8882
 
 ___
 
@@ -10670,7 +10670,7 @@ CSS.SvgProperties.strokeLinejoin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8883
+csstype/index.d.ts:8883
 
 ___
 
@@ -10684,7 +10684,7 @@ CSS.SvgProperties.strokeMiterlimit
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8884
+csstype/index.d.ts:8884
 
 ___
 
@@ -10698,7 +10698,7 @@ CSS.SvgProperties.strokeOpacity
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8885
+csstype/index.d.ts:8885
 
 ___
 
@@ -10712,7 +10712,7 @@ CSS.SvgProperties.strokeWidth
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8886
+csstype/index.d.ts:8886
 
 ___
 
@@ -10741,7 +10741,7 @@ CSS.StandardProperties.tabSize
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4363
+csstype/index.d.ts:4363
 
 ___
 
@@ -10769,7 +10769,7 @@ CSS.StandardProperties.tableLayout
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4377
+csstype/index.d.ts:4377
 
 ___
 
@@ -10797,7 +10797,7 @@ CSS.StandardProperties.textAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4391
+csstype/index.d.ts:4391
 
 ___
 
@@ -10825,7 +10825,7 @@ CSS.StandardProperties.textAlignLast
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4405
+csstype/index.d.ts:4405
 
 ___
 
@@ -10839,7 +10839,7 @@ CSS.SvgProperties.textAnchor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8887
+csstype/index.d.ts:8887
 
 ___
 
@@ -10868,7 +10868,7 @@ CSS.StandardProperties.textCombineUpright
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4420
+csstype/index.d.ts:4420
 
 ___
 
@@ -10894,7 +10894,7 @@ CSS.StandardProperties.textDecoration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5837
+csstype/index.d.ts:5837
 
 ___
 
@@ -10923,7 +10923,7 @@ CSS.StandardProperties.textDecorationColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4435
+csstype/index.d.ts:4435
 
 ___
 
@@ -10952,7 +10952,7 @@ CSS.StandardProperties.textDecorationLine
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4450
+csstype/index.d.ts:4450
 
 ___
 
@@ -10981,7 +10981,7 @@ CSS.StandardProperties.textDecorationSkip
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4465
+csstype/index.d.ts:4465
 
 ___
 
@@ -11009,7 +11009,7 @@ CSS.StandardProperties.textDecorationSkipInk
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4479
+csstype/index.d.ts:4479
 
 ___
 
@@ -11038,7 +11038,7 @@ CSS.StandardProperties.textDecorationStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4494
+csstype/index.d.ts:4494
 
 ___
 
@@ -11066,7 +11066,7 @@ CSS.StandardProperties.textDecorationThickness
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4508
+csstype/index.d.ts:4508
 
 ___
 
@@ -11093,7 +11093,7 @@ CSS.StandardProperties.textEmphasis
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5850
+csstype/index.d.ts:5850
 
 ___
 
@@ -11122,7 +11122,7 @@ CSS.StandardProperties.textEmphasisColor
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4523
+csstype/index.d.ts:4523
 
 ___
 
@@ -11151,7 +11151,7 @@ CSS.StandardProperties.textEmphasisPosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4538
+csstype/index.d.ts:4538
 
 ___
 
@@ -11180,7 +11180,7 @@ CSS.StandardProperties.textEmphasisStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4553
+csstype/index.d.ts:4553
 
 ___
 
@@ -11208,7 +11208,7 @@ CSS.StandardProperties.textIndent
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4567
+csstype/index.d.ts:4567
 
 ___
 
@@ -11236,7 +11236,7 @@ CSS.StandardProperties.textJustify
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4581
+csstype/index.d.ts:4581
 
 ___
 
@@ -11265,7 +11265,7 @@ CSS.StandardProperties.textOrientation
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4596
+csstype/index.d.ts:4596
 
 ___
 
@@ -11293,7 +11293,7 @@ CSS.StandardProperties.textOverflow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4610
+csstype/index.d.ts:4610
 
 ___
 
@@ -11321,7 +11321,7 @@ CSS.StandardProperties.textRendering
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4624
+csstype/index.d.ts:4624
 
 ___
 
@@ -11349,7 +11349,7 @@ CSS.StandardProperties.textShadow
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4638
+csstype/index.d.ts:4638
 
 ___
 
@@ -11377,7 +11377,7 @@ CSS.StandardProperties.textSizeAdjust
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4652
+csstype/index.d.ts:4652
 
 ___
 
@@ -11405,7 +11405,7 @@ CSS.StandardProperties.textTransform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4666
+csstype/index.d.ts:4666
 
 ___
 
@@ -11433,7 +11433,7 @@ CSS.StandardProperties.textUnderlineOffset
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4680
+csstype/index.d.ts:4680
 
 ___
 
@@ -11462,7 +11462,7 @@ CSS.StandardProperties.textUnderlinePosition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4695
+csstype/index.d.ts:4695
 
 ___
 
@@ -11490,7 +11490,7 @@ CSS.StandardProperties.top
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4709
+csstype/index.d.ts:4709
 
 ___
 
@@ -11519,7 +11519,7 @@ CSS.StandardProperties.touchAction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4724
+csstype/index.d.ts:4724
 
 ___
 
@@ -11548,7 +11548,7 @@ CSS.StandardProperties.transform
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4739
+csstype/index.d.ts:4739
 
 ___
 
@@ -11576,7 +11576,7 @@ CSS.StandardProperties.transformBox
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4753
+csstype/index.d.ts:4753
 
 ___
 
@@ -11605,7 +11605,7 @@ CSS.StandardProperties.transformOrigin
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4768
+csstype/index.d.ts:4768
 
 ___
 
@@ -11634,7 +11634,7 @@ CSS.StandardProperties.transformStyle
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4783
+csstype/index.d.ts:4783
 
 ___
 
@@ -11661,7 +11661,7 @@ CSS.StandardProperties.transition
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5863
+csstype/index.d.ts:5863
 
 ___
 
@@ -11690,7 +11690,7 @@ CSS.StandardProperties.transitionDelay
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4798
+csstype/index.d.ts:4798
 
 ___
 
@@ -11719,7 +11719,7 @@ CSS.StandardProperties.transitionDuration
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4813
+csstype/index.d.ts:4813
 
 ___
 
@@ -11748,7 +11748,7 @@ CSS.StandardProperties.transitionProperty
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4828
+csstype/index.d.ts:4828
 
 ___
 
@@ -11777,7 +11777,7 @@ CSS.StandardProperties.transitionTimingFunction
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4843
+csstype/index.d.ts:4843
 
 ___
 
@@ -11805,7 +11805,7 @@ CSS.StandardProperties.translate
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4857
+csstype/index.d.ts:4857
 
 ___
 
@@ -11833,7 +11833,7 @@ CSS.StandardProperties.unicodeBidi
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4871
+csstype/index.d.ts:4871
 
 ___
 
@@ -11862,7 +11862,7 @@ CSS.StandardProperties.userSelect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4886
+csstype/index.d.ts:4886
 
 ___
 
@@ -11876,7 +11876,7 @@ CSS.SvgProperties.vectorEffect
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:8891
+csstype/index.d.ts:8891
 
 ___
 
@@ -11904,7 +11904,7 @@ CSS.StandardProperties.verticalAlign
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4900
+csstype/index.d.ts:4900
 
 ___
 
@@ -11932,7 +11932,7 @@ CSS.StandardProperties.viewTransitionName
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4914
+csstype/index.d.ts:4914
 
 ___
 
@@ -11960,7 +11960,7 @@ CSS.StandardProperties.visibility
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4928
+csstype/index.d.ts:4928
 
 ___
 
@@ -11988,7 +11988,7 @@ CSS.StandardProperties.whiteSpace
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4942
+csstype/index.d.ts:4942
 
 ___
 
@@ -12016,7 +12016,7 @@ CSS.StandardProperties.widows
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4956
+csstype/index.d.ts:4956
 
 ___
 
@@ -12044,7 +12044,7 @@ CSS.StandardProperties.width
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4970
+csstype/index.d.ts:4970
 
 ___
 
@@ -12072,7 +12072,7 @@ CSS.StandardProperties.willChange
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4984
+csstype/index.d.ts:4984
 
 ___
 
@@ -12100,7 +12100,7 @@ CSS.StandardProperties.wordBreak
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:4998
+csstype/index.d.ts:4998
 
 ___
 
@@ -12128,7 +12128,7 @@ CSS.StandardProperties.wordSpacing
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5012
+csstype/index.d.ts:5012
 
 ___
 
@@ -12148,7 +12148,7 @@ CSS.StandardProperties.wordWrap
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5020
+csstype/index.d.ts:5020
 
 ___
 
@@ -12177,7 +12177,7 @@ CSS.StandardProperties.writingMode
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5035
+csstype/index.d.ts:5035
 
 ___
 
@@ -12205,7 +12205,7 @@ CSS.StandardProperties.zIndex
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5049
+csstype/index.d.ts:5049
 
 ___
 
@@ -12233,4 +12233,4 @@ CSS.StandardProperties.zoom
 
 #### Defined in
 
-node_modules/csstype/index.d.ts:5063
+csstype/index.d.ts:5063

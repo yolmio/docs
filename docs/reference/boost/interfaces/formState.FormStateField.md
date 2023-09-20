@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/formState.ts:15](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L15)
+@yolm/boost/dist/formState.d.ts:7
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L14)
+@yolm/boost/dist/formState.d.ts:6
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[src/formState.ts:16](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L16)
+@yolm/boost/dist/formState.d.ts:8
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[src/formState.ts:17](https://github.com/yolmio/boost/blob/5cada48/src/formState.ts#L17)
+@yolm/boost/dist/formState.d.ts:9

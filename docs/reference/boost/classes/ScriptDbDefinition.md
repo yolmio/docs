@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:409](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L409)
+@yolm/boost/dist/app.d.ts:168
 
 ## Properties
 
@@ -32,17 +32,17 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:409](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L409)
+@yolm/boost/dist/app.d.ts:166
 
 ___
 
 ### tables
 
-• **tables**: `Record`<`string`, [`Table`](Table.md)\> = `{}`
+• **tables**: `Record`<`string`, [`Table`](Table.md)\>
 
 #### Defined in
 
-[src/app.ts:407](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L407)
+@yolm/boost/dist/app.d.ts:167
 
 ## Methods
 
@@ -63,4 +63,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:411](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L411)
+@yolm/boost/dist/app.d.ts:169

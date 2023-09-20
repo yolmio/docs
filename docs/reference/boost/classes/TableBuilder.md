@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:830](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L830)
+@yolm/boost/dist/app.d.ts:417
 
 ## Accessors
 
@@ -40,7 +40,7 @@ These also have the added benefit of integrating with other parts of the app, su
 
 #### Defined in
 
-[src/app.ts:839](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L839)
+@yolm/boost/dist/app.d.ts:423
 
 ## Methods
 
@@ -60,7 +60,7 @@ These also have the added benefit of integrating with other parts of the app, su
 
 #### Defined in
 
-[src/app.ts:1069](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1069)
+@yolm/boost/dist/app.d.ts:467
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:889](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L889)
+@yolm/boost/dist/app.d.ts:435
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:905](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L905)
+@yolm/boost/dist/app.d.ts:439
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:853](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L853)
+@yolm/boost/dist/app.d.ts:426
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1090](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1090)
+@yolm/boost/dist/app.d.ts:469
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1095](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1095)
+@yolm/boost/dist/app.d.ts:470
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:861](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L861)
+@yolm/boost/dist/app.d.ts:428
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:981](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L981)
+@yolm/boost/dist/app.d.ts:453
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1100](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1100)
+@yolm/boost/dist/app.d.ts:471
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:843](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L843)
+@yolm/boost/dist/app.d.ts:424
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:913](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L913)
+@yolm/boost/dist/app.d.ts:441
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1042](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1042)
+@yolm/boost/dist/app.d.ts:462
 
 ___
 
@@ -299,7 +299,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1054](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1054)
+@yolm/boost/dist/app.d.ts:465
 
 ___
 
@@ -320,7 +320,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1074](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1074)
+@yolm/boost/dist/app.d.ts:468
 
 ___
 
@@ -334,7 +334,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1156](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1156)
+@yolm/boost/dist/app.d.ts:478
 
 ___
 
@@ -355,7 +355,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1050](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1050)
+@yolm/boost/dist/app.d.ts:464
 
 ___
 
@@ -376,7 +376,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1038](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1038)
+@yolm/boost/dist/app.d.ts:461
 
 ___
 
@@ -396,7 +396,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:885](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L885)
+@yolm/boost/dist/app.d.ts:434
 
 ___
 
@@ -416,7 +416,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1140](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1140)
+@yolm/boost/dist/app.d.ts:476
 
 ___
 
@@ -437,7 +437,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1033](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1033)
+@yolm/boost/dist/app.d.ts:460
 
 ___
 
@@ -458,7 +458,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:921](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L921)
+@yolm/boost/dist/app.d.ts:443
 
 ___
 
@@ -478,7 +478,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:857](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L857)
+@yolm/boost/dist/app.d.ts:427
 
 ___
 
@@ -502,7 +502,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:963](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L963)
+@yolm/boost/dist/app.d.ts:448
 
 ___
 
@@ -522,7 +522,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1046](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1046)
+@yolm/boost/dist/app.d.ts:463
 
 ___
 
@@ -542,7 +542,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1123](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1123)
+@yolm/boost/dist/app.d.ts:474
 
 ___
 
@@ -562,7 +562,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:909](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L909)
+@yolm/boost/dist/app.d.ts:440
 
 ___
 
@@ -583,7 +583,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1110](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1110)
+@yolm/boost/dist/app.d.ts:473
 
 ___
 
@@ -603,7 +603,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1105](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1105)
+@yolm/boost/dist/app.d.ts:472
 
 ___
 
@@ -623,7 +623,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:848](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L848)
+@yolm/boost/dist/app.d.ts:425
 
 ___
 
@@ -643,7 +643,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1128](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1128)
+@yolm/boost/dist/app.d.ts:475
 
 ___
 
@@ -664,7 +664,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1029](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1029)
+@yolm/boost/dist/app.d.ts:459
 
 ___
 
@@ -676,7 +676,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `type` | ``"Select"`` \| ``"Combobox"`` \| [`CustomTableControl`](../modules.md#customtablecontrol) |
+| `type` | [`CustomTableControl`](../modules.md#customtablecontrol) \| ``"Select"`` \| ``"Combobox"`` |
 
 #### Returns
 
@@ -684,7 +684,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1147](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1147)
+@yolm/boost/dist/app.d.ts:477
 
 ___
 
@@ -704,7 +704,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:881](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L881)
+@yolm/boost/dist/app.d.ts:433
 
 ___
 
@@ -724,7 +724,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:897](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L897)
+@yolm/boost/dist/app.d.ts:437
 
 ___
 
@@ -745,7 +745,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:999](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L999)
+@yolm/boost/dist/app.d.ts:458
 
 ___
 
@@ -765,7 +765,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:865](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L865)
+@yolm/boost/dist/app.d.ts:429
 
 ___
 
@@ -785,7 +785,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:869](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L869)
+@yolm/boost/dist/app.d.ts:430
 
 ___
 
@@ -805,7 +805,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:877](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L877)
+@yolm/boost/dist/app.d.ts:432
 
 ___
 
@@ -825,7 +825,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:893](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L893)
+@yolm/boost/dist/app.d.ts:436
 
 ___
 
@@ -845,7 +845,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:873](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L873)
+@yolm/boost/dist/app.d.ts:431
 
 ___
 
@@ -865,7 +865,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:901](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L901)
+@yolm/boost/dist/app.d.ts:438
 
 ___
 
@@ -885,7 +885,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1058](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1058)
+@yolm/boost/dist/app.d.ts:466
 
 ___
 
@@ -905,4 +905,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:917](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L917)
+@yolm/boost/dist/app.d.ts:442

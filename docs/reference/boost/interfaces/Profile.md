@@ -16,7 +16,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/profile.ts:2](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L2)
+@yolm/boost/dist/profile.d.ts:2
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 #### Defined in
 
-[src/profile.ts:4](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L4)
+@yolm/boost/dist/profile.d.ts:4
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 #### Defined in
 
-[src/profile.ts:3](https://github.com/yolmio/boost/blob/5cada48/src/profile.ts#L3)
+@yolm/boost/dist/profile.d.ts:3

@@ -19,7 +19,7 @@ Sets a scalar to a value.
 
 #### Defined in
 
-[src/yom.ts:135](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L135)
+@yolm/boost/dist/yom.d.ts:114
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:134](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L134)
+@yolm/boost/dist/yom.d.ts:113
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:133](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L133)
+@yolm/boost/dist/yom.d.ts:112

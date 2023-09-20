@@ -19,7 +19,7 @@ The complete model of a SPA which can be compiled and run.
 
 #### Defined in
 
-[src/yom.ts:25](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L25)
+@yolm/boost/dist/yom.d.ts:25
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L10)
+@yolm/boost/dist/yom.d.ts:10
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L12)
+@yolm/boost/dist/yom.d.ts:12
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L11)
+@yolm/boost/dist/yom.d.ts:11
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:15](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L15)
+@yolm/boost/dist/yom.d.ts:15
 
 ___
 
@@ -71,7 +71,7 @@ Where and how queries and transactions run against the database
 
 #### Defined in
 
-[src/yom.ts:9](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L9)
+@yolm/boost/dist/yom.d.ts:9
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:7](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L7)
+@yolm/boost/dist/yom.d.ts:7
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:17](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L17)
+@yolm/boost/dist/yom.d.ts:17
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:5](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L5)
+@yolm/boost/dist/yom.d.ts:5
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:6](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L6)
+@yolm/boost/dist/yom.d.ts:6
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:18](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L18)
+@yolm/boost/dist/yom.d.ts:18
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:19](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L19)
+@yolm/boost/dist/yom.d.ts:19
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:20](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L20)
+@yolm/boost/dist/yom.d.ts:20
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:23](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L23)
+@yolm/boost/dist/yom.d.ts:23
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:22](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L22)
+@yolm/boost/dist/yom.d.ts:22
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:21](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L21)
+@yolm/boost/dist/yom.d.ts:21
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:24](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L24)
+@yolm/boost/dist/yom.d.ts:24
 
 ___
 
@@ -193,7 +193,7 @@ Specifies how to format different types when using the cast function, e.g. cast(
 
 #### Defined in
 
-[src/yom.ts:14](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L14)
+@yolm/boost/dist/yom.d.ts:14
 
 ___
 
@@ -203,4 +203,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:16](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L16)
+@yolm/boost/dist/yom.d.ts:16

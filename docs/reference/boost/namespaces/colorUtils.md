@@ -36,7 +36,7 @@ A CSS color string. Hex input values are returned as rgb
 
 #### Defined in
 
-[src/colorManipulator.ts:236](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L236)
+@yolm/boost/dist/colorManipulator.d.ts:68
 
 ___
 
@@ -60,7 +60,7 @@ Returns a channel created from the input color.
 
 #### Defined in
 
-[src/colorManipulator.ts:106](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L106)
+@yolm/boost/dist/colorManipulator.d.ts:25
 
 ___
 
@@ -85,7 +85,7 @@ A CSS color string. Hex input values are returned as rgb
 
 #### Defined in
 
-[src/colorManipulator.ts:258](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L258)
+@yolm/boost/dist/colorManipulator.d.ts:75
 
 ___
 
@@ -109,7 +109,7 @@ Note: Does not support rgb % values.
 
 #### Defined in
 
-[src/colorManipulator.ts:55](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L55)
+@yolm/boost/dist/colorManipulator.d.ts:18
 
 ___
 
@@ -122,10 +122,10 @@ Light colors are darkened, dark colors are lightened.
 
 #### Parameters
 
-| Name | Type | Default value | Description |
-| :------ | :------ | :------ | :------ |
-| `color` | `string` | `undefined` | CSS color, i.e. one of: #nnn, #nnnnnn, rgb(), rgba(), hsl(), hsla(), color() |
-| `coefficient` | `number` | `0.15` | - |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `color` | `string` | CSS color, i.e. one of: #nnn, #nnnnnn, rgb(), rgba(), hsl(), hsla(), color() |
+| `coefficient?` | `number` | - |
 
 #### Returns
 
@@ -135,7 +135,7 @@ A CSS color string. Hex input values are returned as rgb
 
 #### Defined in
 
-[src/colorManipulator.ts:307](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L307)
+@yolm/boost/dist/colorManipulator.d.ts:90
 
 ___
 
@@ -162,7 +162,7 @@ A contrast ratio value in the range 0 - 21.
 
 #### Defined in
 
-[src/colorManipulator.ts:223](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L223)
+@yolm/boost/dist/colorManipulator.d.ts:60
 
 ___
 
@@ -189,7 +189,7 @@ The relative brightness of the color in the range 0 - 1
 
 #### Defined in
 
-[src/colorManipulator.ts:195](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L195)
+@yolm/boost/dist/colorManipulator.d.ts:51
 
 ___
 
@@ -213,7 +213,7 @@ A CSS rgb color string
 
 #### Defined in
 
-[src/colorManipulator.ts:17](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L17)
+@yolm/boost/dist/colorManipulator.d.ts:6
 
 ___
 
@@ -237,7 +237,7 @@ rgb color values
 
 #### Defined in
 
-[src/colorManipulator.ts:162](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L162)
+@yolm/boost/dist/colorManipulator.d.ts:42
 
 ___
 
@@ -262,7 +262,7 @@ A CSS color string. Hex input values are returned as rgb
 
 #### Defined in
 
-[src/colorManipulator.ts:281](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L281)
+@yolm/boost/dist/colorManipulator.d.ts:82
 
 ___
 
@@ -284,7 +284,7 @@ Converts a color object with type and values to a string.
 
 #### Defined in
 
-[src/colorManipulator.ts:120](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L120)
+@yolm/boost/dist/colorManipulator.d.ts:30
 
 ___
 
@@ -308,4 +308,4 @@ A CSS rgb color string, i.e. #nnnnnn
 
 #### Defined in
 
-[src/colorManipulator.ts:145](https://github.com/yolmio/boost/blob/5cada48/src/colorManipulator.ts#L145)
+@yolm/boost/dist/colorManipulator.d.ts:36

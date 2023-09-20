@@ -22,7 +22,7 @@ The default divisor is 1.
 
 #### Defined in
 
-[src/yom.ts:1797](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1797)
+@yolm/boost/dist/yom.d.ts:865
 
 ___
 
@@ -34,7 +34,7 @@ double, Valid for fixed, auto axes
 
 #### Defined in
 
-[src/yom.ts:1768](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1768)
+@yolm/boost/dist/yom.d.ts:836
 
 ___
 
@@ -48,7 +48,7 @@ The expression is introduced two scalars into scope `label` (a string) and `inde
 
 #### Defined in
 
-[src/yom.ts:1760](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1760)
+@yolm/boost/dist/yom.d.ts:828
 
 ___
 
@@ -60,7 +60,7 @@ double, Allows you to correct label positioning on this axis by positive or nega
 
 #### Defined in
 
-[src/yom.ts:1746](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1746)
+@yolm/boost/dist/yom.d.ts:814
 
 ___
 
@@ -72,7 +72,7 @@ double, Allows you to correct label positioning on this axis by positive or nega
 
 #### Defined in
 
-[src/yom.ts:1750](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1750)
+@yolm/boost/dist/yom.d.ts:818
 
 ___
 
@@ -84,7 +84,7 @@ double, Valid for fixed, auto axes
 
 #### Defined in
 
-[src/yom.ts:1770](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1770)
+@yolm/boost/dist/yom.d.ts:838
 
 ___
 
@@ -96,7 +96,7 @@ double, The offset of the labels to the chart area
 
 #### Defined in
 
-[src/yom.ts:1738](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1738)
+@yolm/boost/dist/yom.d.ts:806
 
 ___
 
@@ -110,7 +110,7 @@ Can be set to true or false. If set to true, the scale will be generated with wh
 
 #### Defined in
 
-[src/yom.ts:1783](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1783)
+@yolm/boost/dist/yom.d.ts:851
 
 ___
 
@@ -122,7 +122,7 @@ Position where labels are placed. Can be set to `start` or `end` where `start` i
 
 #### Defined in
 
-[src/yom.ts:1742](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1742)
+@yolm/boost/dist/yom.d.ts:810
 
 ___
 
@@ -137,7 +137,7 @@ This is especially useful on bipolar charts where the bipolar center always need
 
 #### Defined in
 
-[src/yom.ts:1790](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1790)
+@yolm/boost/dist/yom.d.ts:858
 
 ___
 
@@ -152,7 +152,7 @@ The amount of ticks on the scale will be determined so that as many ticks as pos
 
 #### Defined in
 
-[src/yom.ts:1777](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1777)
+@yolm/boost/dist/yom.d.ts:845
 
 ___
 
@@ -164,7 +164,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1754](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1754)
+@yolm/boost/dist/yom.d.ts:822
 
 ___
 
@@ -176,7 +176,7 @@ boolean
 
 #### Defined in
 
-[src/yom.ts:1752](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1752)
+@yolm/boost/dist/yom.d.ts:820
 
 ___
 
@@ -190,7 +190,7 @@ If set to true the full width will be used to distribute the values where the la
 
 #### Defined in
 
-[src/yom.ts:1813](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1813)
+@yolm/boost/dist/yom.d.ts:881
 
 ___
 
@@ -208,7 +208,7 @@ Ticks to be used to distribute across the axis length. As this axis type relies 
 
 #### Defined in
 
-[src/yom.ts:1807](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1807)
+@yolm/boost/dist/yom.d.ts:875
 
 ___
 
@@ -222,4 +222,4 @@ If not defined, 'step' will be used for the X-Axis, where the ticks option will 
 
 #### Defined in
 
-[src/yom.ts:1766](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1766)
+@yolm/boost/dist/yom.d.ts:834

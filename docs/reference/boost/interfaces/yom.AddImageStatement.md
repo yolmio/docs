@@ -17,7 +17,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/yom.ts:1356](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1356)
+@yolm/boost/dist/yom.d.ts:542
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1357](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1357)
+@yolm/boost/dist/yom.d.ts:543
 
 ___
 
@@ -39,7 +39,7 @@ integer between 0 and 100
 
 #### Defined in
 
-[src/yom.ts:1359](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1359)
+@yolm/boost/dist/yom.d.ts:545
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1360](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1360)
+@yolm/boost/dist/yom.d.ts:546
 
 ___
 
@@ -59,4 +59,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1355](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1355)
+@yolm/boost/dist/yom.d.ts:541

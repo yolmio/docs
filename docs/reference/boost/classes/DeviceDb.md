@@ -18,21 +18,21 @@ pagination_next: null
 
 ### defaultUniqueDistinctNulls
 
-• **defaultUniqueDistinctNulls**: `boolean` = `true`
+• **defaultUniqueDistinctNulls**: `boolean`
 
 #### Defined in
 
-[src/app.ts:419](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L419)
+@yolm/boost/dist/app.d.ts:172
 
 ___
 
 ### tables
 
-• **tables**: `Record`<`string`, [`Table`](Table.md)\> = `{}`
+• **tables**: `Record`<`string`, [`Table`](Table.md)\>
 
 #### Defined in
 
-[src/app.ts:420](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L420)
+@yolm/boost/dist/app.d.ts:173
 
 ## Methods
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/app.ts:422](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L422)
+@yolm/boost/dist/app.d.ts:174

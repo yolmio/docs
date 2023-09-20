@@ -22,7 +22,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/app.ts:1279](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1279)
+@yolm/boost/dist/app.d.ts:482
 
 ## Methods
 
@@ -38,7 +38,7 @@ Integrates with addressCard and addressesCards.
 
 | Name | Type |
 | :------ | :------ |
-| `opts` | [`AddressFieldGroupOpts`](../interfaces/AddressFieldGroupOpts.md) |
+| `opts?` | [`AddressFieldGroupOpts`](../interfaces/AddressFieldGroupOpts.md) |
 
 #### Returns
 
@@ -46,7 +46,7 @@ Integrates with addressCard and addressesCards.
 
 #### Defined in
 
-[src/app.ts:1298](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1298)
+@yolm/boost/dist/app.d.ts:493
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:1367](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1367)
+@yolm/boost/dist/app.d.ts:494
 
 ___
 
@@ -83,7 +83,7 @@ system.
 
 #### Defined in
 
-[src/app.ts:1287](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1287)
+@yolm/boost/dist/app.d.ts:487
 
 ___
 
@@ -99,9 +99,9 @@ image_thumb: uuid
 
 #### Parameters
 
-| Name | Type | Default value |
-| :------ | :------ | :------ |
-| `groupName` | `string` | `"image"` |
+| Name | Type |
+| :------ | :------ |
+| `groupName?` | `string` |
 
 #### Returns
 
@@ -109,4 +109,4 @@ image_thumb: uuid
 
 #### Defined in
 
-[src/app.ts:1386](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L1386)
+@yolm/boost/dist/app.d.ts:502

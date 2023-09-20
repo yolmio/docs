@@ -26,7 +26,7 @@ ComponentOpts.color
 
 #### Defined in
 
-[src/components/types.ts:10](https://github.com/yolmio/boost/blob/5cada48/src/components/types.ts#L10)
+@yolm/boost/dist/components/types.d.ts:7
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:448](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L448)
+@yolm/boost/dist/app.d.ts:196
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:450](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L450)
+@yolm/boost/dist/app.d.ts:198
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:444](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L444)
+@yolm/boost/dist/app.d.ts:192
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:445](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L445)
+@yolm/boost/dist/app.d.ts:193
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:449](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L449)
+@yolm/boost/dist/app.d.ts:197
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:451](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L451)
+@yolm/boost/dist/app.d.ts:199
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:447](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L447)
+@yolm/boost/dist/app.d.ts:195
 
 ___
 
@@ -139,7 +139,7 @@ ComponentOpts.size
 
 #### Defined in
 
-[src/components/types.ts:11](https://github.com/yolmio/boost/blob/5cada48/src/components/types.ts#L11)
+@yolm/boost/dist/components/types.d.ts:8
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:443](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L443)
+@yolm/boost/dist/app.d.ts:191
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[src/app.ts:446](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L446)
+@yolm/boost/dist/app.d.ts:194
 
 ___
 
@@ -173,4 +173,4 @@ ComponentOpts.variant
 
 #### Defined in
 
-[src/components/types.ts:12](https://github.com/yolmio/boost/blob/5cada48/src/components/types.ts#L12)
+@yolm/boost/dist/components/types.d.ts:9

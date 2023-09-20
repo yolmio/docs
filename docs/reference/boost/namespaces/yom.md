@@ -169,7 +169,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/yom.ts:645](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L645)
+@yolm/boost/dist/yom.d.ts:437
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1019](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1019)
+@yolm/boost/dist/yom.d.ts:439
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2178](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2178)
+@yolm/boost/dist/yom.d.ts:1184
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2380](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2380)
+@yolm/boost/dist/yom.d.ts:1309
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:562](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L562)
+@yolm/boost/dist/yom.d.ts:435
 
 ___
 
@@ -219,7 +219,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:366](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L366)
+@yolm/boost/dist/yom.d.ts:261
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:200](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L200)
+@yolm/boost/dist/yom.d.ts:167
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:278](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L278)
+@yolm/boost/dist/yom.d.ts:212
 
 ___
 
@@ -249,7 +249,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:364](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L364)
+@yolm/boost/dist/yom.d.ts:260
 
 ___
 
@@ -265,7 +265,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:269](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L269)
+@yolm/boost/dist/yom.d.ts:211
 
 ___
 
@@ -275,7 +275,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:54](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L54)
+@yolm/boost/dist/yom.d.ts:48
 
 ___
 
@@ -285,7 +285,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1363](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1363)
+@yolm/boost/dist/yom.d.ts:548
 
 ___
 
@@ -295,7 +295,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1282](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1282)
+@yolm/boost/dist/yom.d.ts:491
 
 ___
 
@@ -305,7 +305,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1982](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1982)
+@yolm/boost/dist/yom.d.ts:1028
 
 ___
 
@@ -315,7 +315,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1979](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1979)
+@yolm/boost/dist/yom.d.ts:1027
 
 ___
 
@@ -325,7 +325,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2154](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2154)
+@yolm/boost/dist/yom.d.ts:1164
 
 ___
 
@@ -335,7 +335,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1977](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1977)
+@yolm/boost/dist/yom.d.ts:1026
 
 ___
 
@@ -345,7 +345,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1196](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1196)
+@yolm/boost/dist/yom.d.ts:440
 
 ___
 
@@ -355,7 +355,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:308](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L308)
+@yolm/boost/dist/yom.d.ts:226
 
 ___
 
@@ -365,7 +365,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:299](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L299)
+@yolm/boost/dist/yom.d.ts:219
 
 ___
 
@@ -375,7 +375,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:612](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L612)
+@yolm/boost/dist/yom.d.ts:436
 
 ___
 
@@ -385,7 +385,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:30](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L30)
+@yolm/boost/dist/yom.d.ts:29
 
 ___
 
@@ -395,7 +395,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1484](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1484)
+@yolm/boost/dist/yom.d.ts:606
 
 ___
 
@@ -405,7 +405,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:362](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L362)
+@yolm/boost/dist/yom.d.ts:259
 
 ___
 
@@ -415,7 +415,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:412](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L412)
+@yolm/boost/dist/yom.d.ts:299
 
 ___
 
@@ -425,7 +425,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:524](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L524)
+@yolm/boost/dist/yom.d.ts:400
 
 ___
 
@@ -435,7 +435,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:542](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L542)
+@yolm/boost/dist/yom.d.ts:418
 
 ___
 
@@ -445,7 +445,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2146](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2146)
+@yolm/boost/dist/yom.d.ts:1157
 
 ___
 
@@ -455,7 +455,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:353](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L353)
+@yolm/boost/dist/yom.d.ts:251
 
 ___
 
@@ -465,7 +465,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:355](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L355)
+@yolm/boost/dist/yom.d.ts:252
 
 ___
 
@@ -475,7 +475,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2330](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2330)
+@yolm/boost/dist/yom.d.ts:1287
 
 ___
 
@@ -485,7 +485,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:537](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L537)
+@yolm/boost/dist/yom.d.ts:410
 
 ___
 
@@ -495,7 +495,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2142](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2142)
+@yolm/boost/dist/yom.d.ts:1150
 
 ___
 
@@ -505,7 +505,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1427](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1427)
+@yolm/boost/dist/yom.d.ts:575
 
 ___
 
@@ -515,7 +515,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:343](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L343)
+@yolm/boost/dist/yom.d.ts:250
 
 ___
 
@@ -527,7 +527,7 @@ This indicates the string is to be treated as a SQL expression
 
 #### Defined in
 
-[src/yom.ts:33](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L33)
+@yolm/boost/dist/yom.d.ts:31
 
 ___
 
@@ -539,7 +539,7 @@ This indicates the string is to be treated as a SQL query
 
 #### Defined in
 
-[src/yom.ts:35](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L35)
+@yolm/boost/dist/yom.d.ts:33
 
 ___
 
@@ -549,7 +549,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2055](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2055)
+@yolm/boost/dist/yom.d.ts:1078
 
 ___
 
@@ -559,7 +559,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1550](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1550)
+@yolm/boost/dist/yom.d.ts:646
 
 ___
 
@@ -569,7 +569,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:757](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L757)
+@yolm/boost/dist/yom.d.ts:438
 
 ___
 
@@ -579,7 +579,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:455](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L455)
+@yolm/boost/dist/yom.d.ts:335
 
 ___
 
@@ -589,7 +589,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:2369](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L2369)
+@yolm/boost/dist/yom.d.ts:1300
 
 ___
 
@@ -601,7 +601,7 @@ Filters the tokens before adding them to the index or for searching.
 
 #### Defined in
 
-[src/yom.ts:483](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L483)
+@yolm/boost/dist/yom.d.ts:350
 
 ___
 
@@ -613,7 +613,7 @@ How to split the text into tokens.
 
 #### Defined in
 
-[src/yom.ts:491](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L491)
+@yolm/boost/dist/yom.d.ts:361
 
 ___
 
@@ -623,7 +623,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:386](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L386)
+@yolm/boost/dist/yom.d.ts:278
 
 ___
 
@@ -633,7 +633,7 @@ ___
 
 #### Defined in
 
-[src/yom.ts:1295](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L1295)
+@yolm/boost/dist/yom.d.ts:498
 
 ___
 
@@ -643,4 +643,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:560](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L560)
+@yolm/boost/dist/yom.d.ts:434

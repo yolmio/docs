@@ -53,7 +53,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/statements.ts:13](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L13)
+@yolm/boost/dist/statements.d.ts:6
 
 ## Methods
 
@@ -67,7 +67,7 @@ pagination_next: null
 
 #### Defined in
 
-[src/statements.ts:359](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L359)
+@yolm/boost/dist/statements.d.ts:42
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:148](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L148)
+@yolm/boost/dist/statements.d.ts:25
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:127](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L127)
+@yolm/boost/dist/statements.d.ts:22
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:351](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L351)
+@yolm/boost/dist/statements.d.ts:41
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:22](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L22)
+@yolm/boost/dist/statements.d.ts:8
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:193](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L193)
+@yolm/boost/dist/statements.d.ts:28
 
 ___
 
@@ -176,7 +176,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:27](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L27)
+@yolm/boost/dist/statements.d.ts:9
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:118](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L118)
+@yolm/boost/dist/statements.d.ts:21
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:102](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L102)
+@yolm/boost/dist/statements.d.ts:19
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:110](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L110)
+@yolm/boost/dist/statements.d.ts:20
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:259](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L259)
+@yolm/boost/dist/statements.d.ts:34
 
 ▸ **forEachCursor**(`opts`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -274,7 +274,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:260](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L260)
+@yolm/boost/dist/statements.d.ts:35
 
 ___
 
@@ -296,7 +296,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:311](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L311)
+@yolm/boost/dist/statements.d.ts:38
 
 ▸ **forEachQuery**(`opts`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -312,7 +312,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:316](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L316)
+@yolm/boost/dist/statements.d.ts:39
 
 ___
 
@@ -334,7 +334,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:282](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L282)
+@yolm/boost/dist/statements.d.ts:36
 
 ▸ **forEachTable**(`opts`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -350,7 +350,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:287](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L287)
+@yolm/boost/dist/statements.d.ts:37
 
 ___
 
@@ -371,7 +371,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:207](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L207)
+@yolm/boost/dist/statements.d.ts:30
 
 ▸ **if**(`opts`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -387,7 +387,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:208](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L208)
+@yolm/boost/dist/statements.d.ts:31
 
 ___
 
@@ -414,7 +414,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:200](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L200)
+@yolm/boost/dist/statements.d.ts:29
 
 ___
 
@@ -434,7 +434,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:17](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L17)
+@yolm/boost/dist/statements.d.ts:7
 
 ___
 
@@ -454,7 +454,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:165](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L165)
+@yolm/boost/dist/statements.d.ts:26
 
 ___
 
@@ -468,7 +468,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:143](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L143)
+@yolm/boost/dist/statements.d.ts:24
 
 ___
 
@@ -488,7 +488,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:135](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L135)
+@yolm/boost/dist/statements.d.ts:23
 
 ___
 
@@ -508,7 +508,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:9](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L9)
+@yolm/boost/dist/statements.d.ts:5
 
 ___
 
@@ -529,7 +529,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:71](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L71)
+@yolm/boost/dist/statements.d.ts:15
 
 ___
 
@@ -549,7 +549,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:41](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L41)
+@yolm/boost/dist/statements.d.ts:11
 
 ___
 
@@ -571,7 +571,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:81](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L81)
+@yolm/boost/dist/statements.d.ts:16
 
 ▸ **scalar**(`name`, `expr`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -588,7 +588,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:82](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L82)
+@yolm/boost/dist/statements.d.ts:17
 
 ___
 
@@ -609,7 +609,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:97](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L97)
+@yolm/boost/dist/statements.d.ts:18
 
 ___
 
@@ -629,7 +629,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:184](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L184)
+@yolm/boost/dist/statements.d.ts:27
 
 ___
 
@@ -650,7 +650,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:49](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L49)
+@yolm/boost/dist/statements.d.ts:12
 
 ▸ **table**(`name`, `fields`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -667,7 +667,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:50](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L50)
+@yolm/boost/dist/statements.d.ts:13
 
 ▸ **table**(`name`, `fields`, `query`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -685,7 +685,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:51](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L51)
+@yolm/boost/dist/statements.d.ts:14
 
 ___
 
@@ -706,7 +706,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:32](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L32)
+@yolm/boost/dist/statements.d.ts:10
 
 ___
 
@@ -726,7 +726,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:340](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L340)
+@yolm/boost/dist/statements.d.ts:40
 
 ___
 
@@ -747,7 +747,7 @@ ___
 
 #### Defined in
 
-[src/statements.ts:236](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L236)
+@yolm/boost/dist/statements.d.ts:32
 
 ▸ **while**(`opts`): [`StatementsBase`](statements.StatementsBase.md)<`Statement`\>
 
@@ -763,4 +763,4 @@ ___
 
 #### Defined in
 
-[src/statements.ts:237](https://github.com/yolmio/boost/blob/5cada48/src/statements.ts#L237)
+@yolm/boost/dist/statements.d.ts:33

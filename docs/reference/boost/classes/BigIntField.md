@@ -33,13 +33,13 @@ IntegerFieldBase.constructor
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
+@yolm/boost/dist/app.d.ts:278
 
 ## Properties
 
 ### checks
 
-• **checks**: [`FieldCheck`](../interfaces/FieldCheck.md)[] = `[]`
+• **checks**: [`FieldCheck`](../interfaces/FieldCheck.md)[]
 
 #### Inherited from
 
@@ -47,7 +47,7 @@ IntegerFieldBase.checks
 
 #### Defined in
 
-[src/app.ts:564](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L564)
+@yolm/boost/dist/app.d.ts:271
 
 ___
 
@@ -61,7 +61,7 @@ IntegerFieldBase.default
 
 #### Defined in
 
-[src/app.ts:567](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L567)
+@yolm/boost/dist/app.d.ts:274
 
 ___
 
@@ -75,7 +75,7 @@ IntegerFieldBase.description
 
 #### Defined in
 
-[src/app.ts:566](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L566)
+@yolm/boost/dist/app.d.ts:273
 
 ___
 
@@ -89,13 +89,13 @@ IntegerFieldBase.displayName
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
+@yolm/boost/dist/app.d.ts:268
 
 ___
 
 ### ext
 
-• **ext**: `Record`<`string`, `any`\> = `{}`
+• **ext**: `Record`<`string`, `any`\>
 
 #### Inherited from
 
@@ -103,7 +103,7 @@ IntegerFieldBase.ext
 
 #### Defined in
 
-[src/app.ts:570](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L570)
+@yolm/boost/dist/app.d.ts:277
 
 ___
 
@@ -117,13 +117,13 @@ IntegerFieldBase.group
 
 #### Defined in
 
-[src/app.ts:568](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L568)
+@yolm/boost/dist/app.d.ts:275
 
 ___
 
 ### indexed
 
-• **indexed**: `boolean` = `false`
+• **indexed**: `boolean`
 
 #### Inherited from
 
@@ -131,7 +131,7 @@ IntegerFieldBase.indexed
 
 #### Defined in
 
-[src/app.ts:569](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L569)
+@yolm/boost/dist/app.d.ts:276
 
 ___
 
@@ -145,7 +145,7 @@ IntegerFieldBase.max
 
 #### Defined in
 
-[src/app.ts:608](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L608)
+@yolm/boost/dist/app.d.ts:303
 
 ___
 
@@ -159,7 +159,7 @@ IntegerFieldBase.min
 
 #### Defined in
 
-[src/app.ts:607](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L607)
+@yolm/boost/dist/app.d.ts:302
 
 ___
 
@@ -173,13 +173,13 @@ IntegerFieldBase.name
 
 #### Defined in
 
-[src/app.ts:572](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L572)
+@yolm/boost/dist/app.d.ts:267
 
 ___
 
 ### notNull
 
-• **notNull**: `boolean` = `false`
+• **notNull**: `boolean`
 
 #### Inherited from
 
@@ -187,7 +187,7 @@ IntegerFieldBase.notNull
 
 #### Defined in
 
-[src/app.ts:563](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L563)
+@yolm/boost/dist/app.d.ts:270
 
 ___
 
@@ -201,7 +201,7 @@ IntegerFieldBase.renameFrom
 
 #### Defined in
 
-[src/app.ts:562](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L562)
+@yolm/boost/dist/app.d.ts:269
 
 ___
 
@@ -211,13 +211,13 @@ ___
 
 #### Defined in
 
-[src/app.ts:661](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L661)
+@yolm/boost/dist/app.d.ts:343
 
 ___
 
 ### unique
 
-• **unique**: `boolean` = `false`
+• **unique**: `boolean`
 
 #### Inherited from
 
@@ -225,7 +225,7 @@ IntegerFieldBase.unique
 
 #### Defined in
 
-[src/app.ts:565](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L565)
+@yolm/boost/dist/app.d.ts:272
 
 ___
 
@@ -239,7 +239,7 @@ IntegerFieldBase.usage
 
 #### Defined in
 
-[src/app.ts:632](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L632)
+@yolm/boost/dist/app.d.ts:318
 
 ## Accessors
 
@@ -259,7 +259,7 @@ IntegerFieldBase.identName
 
 #### Defined in
 
-[src/app.ts:575](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L575)
+@yolm/boost/dist/app.d.ts:280
 
 ## Methods
 
@@ -277,7 +277,7 @@ IntegerFieldBase.isInteger
 
 #### Defined in
 
-[src/app.ts:634](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L634)
+@yolm/boost/dist/app.d.ts:319
 
 ___
 
@@ -295,7 +295,7 @@ IntegerFieldBase.isNumeric
 
 #### Defined in
 
-[src/app.ts:610](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L610)
+@yolm/boost/dist/app.d.ts:304
 
 ___
 
@@ -313,4 +313,4 @@ IntegerFieldBase.isVariablePrecision
 
 #### Defined in
 
-[src/app.ts:585](https://github.com/yolmio/boost/blob/5cada48/src/app.ts#L585)
+@yolm/boost/dist/app.d.ts:283

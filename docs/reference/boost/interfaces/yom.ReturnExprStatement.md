@@ -21,7 +21,7 @@ This can also be used as an exit point from the procedure if the procedure doesn
 
 #### Defined in
 
-[src/yom.ts:145](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L145)
+@yolm/boost/dist/yom.d.ts:123
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 #### Defined in
 
-[src/yom.ts:144](https://github.com/yolmio/boost/blob/5cada48/src/yom.ts#L144)
+@yolm/boost/dist/yom.d.ts:122
