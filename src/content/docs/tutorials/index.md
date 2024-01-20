@@ -1,12 +1,12 @@
 ---
-title: "Tutoral 1"
+title: "Tutorial - Simple Web App"
 sidebar:
   order: 1
 ---
 
-# Create a simple application
+# Create a simple web app
 
-Let's build an actually useful application with yolm in less than 5 minutes.
+Let's build an actually useful web app with yolm in less than 5 minutes.
 
 ## What you'll need
 
