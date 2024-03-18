@@ -4,7 +4,7 @@ sidebar:
   order: 8
 ---
 
-Yolm comes with a simple scripting language (YolmScript) that you can use in various application areas, such as UI event handlers, general scripts, data generation scripts and more.
+Yolm comes with a simple scripting language that you can use in various application areas, such as UI event handlers, general scripts, data generation scripts and more.
 
 A procedure consists of one or more statements. All procedure types share some common statement types. Some statement types are specific to the type of script, e.g. preventDefault is limited to a UI event handler procedure.
 

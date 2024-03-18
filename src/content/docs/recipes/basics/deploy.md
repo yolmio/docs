@@ -6,25 +6,8 @@ sidebar:
 
 ## Basics
 
-To deploy your application you run `npm run deploy`.
+To deploy your system you run `bun run deploy`.
 
-An application needs to have at least one active user defined. You create a user through a script like this in the file 'script.ts':
+When you deploy your system, it will start with an empty database, but you can run a script to populate it.
 
-```ts
-addScript({
-  name: "init-db",
-  procedure: [
-    addUsers(
-      `select * from (values(next_record_id(db.user), 'none', 'v@yolm.io')) as user(db_id, notification_type, email)`
-    ),
-    modify(
-      `insert into db.user (global_id, disabled, email, name) values
-      ((select global_id from added_user), false, 'v.yolm.io', 'John Doe')`
-    ),
-    modify(`insert into db.user_role (user, role) values (0, 'sys_admin')`),
-    setDb({ allowOverwrite: true }),
-  ],
-});
-```
-
-When you deploy an application for the first time, Yolm will first deploy the application and then automatically run this script. Once done, the user(s) you specified in your script can log in to the application.
+`bun run deploy` will run the script named `init-db` if this is the first deploy and it exists after deploying the system, this lets you both deploy and initialize the database, add users in one command.

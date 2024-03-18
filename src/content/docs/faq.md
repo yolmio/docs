@@ -30,7 +30,7 @@ It is a binary code format for executable programs. All major browsers support i
 
 Yolm is a for profit company. The application runtime and developer CLI (yolm) is closed source and is patent pending. The BOOST library written in Typescript is available at https://github.com/yolm/boost with a MIT open source license. You can use BOOST as is, modify it or write your own components, themes or generators.
 
-**What operating systems can I develop Yolm applications on?**
+## What operating systems can I develop Yolm applications on?
 
 Windows 10 or higher, Mac OS and Linux.
 
@@ -40,7 +40,7 @@ Yolm supports modern and up to date browsers only, i.e. Chrome, Brave, Edge, Saf
 
 ## Can I have a custom domain for my application?
 
-You can have a custom domain you manage that redirects to yolm.app. To keep things simple, secure and fast all Yolm applications
+You can have a custom domain you manage that redirects to yolm.app.
 
 ## How do I integrate Yolm with other applications?
 
@@ -61,17 +61,13 @@ Yes.
 - We use only HTTPS
 - We only use one time passwords (OTP) and therefore are not subject to any permanent password related security issues
 - We have a full audit log of who changed what when in the database
-- We provide flexible authorization system to indicate who can access what. We ship with role based authorization, but since our authorization system is SQL based, you can implement any type of authorization scheme, e.g. only allow access to a salary column in the employee table if you are a user in the HR department or top executive.
+- We provide flexible authorization system to indicate who can access what. With procedures, SQL and access to the current user you can have any logic to authorize access or make custom videos.
 
 ## Why don't you use visual designers?
 
 Code is flexible, composable, reusable and it is easy to version control. Visual designers don't scale, code does. Also, our focus was to the foundation right first, i.e. removing unnecessary friction such the object relational impedance mismatch.
 
-## Do you support transactions?
-
-Yes. We always use transactions, but depending on where the transaction executes you either get eventual or strong consistency. You have fine grained control over it. Regardless of what option you choose, referential integrity, uniqueness and other constraints and permissions will always be enforced.
-
 ## When is it not a good idea to to run the database in the browser?
 
-- When the database is too large, at most 1 GB, which is about 5 million records across all tables.
-- When for regulatory or security reasons the database may not be on the browser, even when encrypted
+- When the database is too large, at most 400 MB.
+- When for regulatory or security reasons the database may not be on the browser

@@ -6,12 +6,10 @@ sidebar:
 
 Yolm takes a completely new and simple approach to full stack web applications.
 
-You define your application typically in a single file in Typsecript: app.ts
+You define your system typically in a single file in Typsecript: system.ts
 
-In it you specify the database, the UI and their interactions.
+In it you specify the database, any apps, an external api and their interactions.
 
-You test your application locally with Yolm's development tools, which are as easy as `npm start`;
+You test your application locally with Yolm's development tools, which are as easy as `bun start`;
 
-When you are ready you deploy your application with `npm run deploy`.
-
-Next we'll look at how to define the database.
+When you are ready you deploy your application with `bun run deploy`.
