@@ -11,39 +11,20 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Get Started",
-          items: [
-            { label: "What is Yolm?", link: "/" },
-            { label: "Installation", link: "/installation" },
-          ],
+          label: "Introduction",
+          items: [{ label: "What is Yolm?", link: "/" }],
         },
         {
           label: "Tutorials",
           autogenerate: { directory: "tutorials" },
         },
         {
-          label: "Concepts",
-          autogenerate: { directory: "concepts" },
-        },
-        {
           label: "Recipes",
-          items: [
-            { label: "Introduction", link: "recipes/introduction" },
-            { label: "Renaming", link: "recipes/rename" },
-            {
-              label: "Basics",
-              autogenerate: { directory: "recipes/basics", collapsed: true },
-            },
-            {
-              label: "Advanced",
-              autogenerate: { directory: "recipes/advanced", collapsed: true },
-            },
-          ],
+          autogenerate: { directory: "recipes", collapsed: true },
         },
         {
           label: "Reference",
           items: [
-            { label: "Database Limits", link: "reference/limits" },
             {
               label: "Data Types",
               autogenerate: { directory: "reference/data_types" },
@@ -53,6 +34,10 @@ export default defineConfig({
               autogenerate: { directory: "reference/functions" },
             },
           ],
+        },
+        {
+          label: "Concepts",
+          autogenerate: { directory: "concepts" },
         },
         { label: "FAQ", link: "faq" },
       ],

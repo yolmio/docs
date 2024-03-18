@@ -1,32 +1,24 @@
 ---
-title: "Tutorial - Simple Web App"
+title: "Tutorial - Simple System"
 sidebar:
   order: 1
 ---
 
-# Create a simple web app
+Let's build a useful web app with yolm in less than 5 minutes.
 
-Let's build an actually useful web app with yolm in less than 5 minutes.
+First make sure you have [Bun](https://bun.sh) installed.
 
-## What you'll need
-
-- [Bun](https://bun.sh)
-
-## Generate a new Yolm system
-
-Generate a new Yolm system using the **tutorial template**.
+Generate a new Yolm system using the **tutorial template** by typing the follwing command in your terminal.
 
 ```bash
-bun init @yolm/boost@latest my-app
+bun init @yolm/boost@latest my-system
 ```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
 The command also installs all necessary dependencies you need to run Yolm.
 
-Follow the prompts and select the **tutorial** template. It will take about 1-2 minutes to install all dependencies.
+Follow the prompts and select the **tutorial** template. It will take about 1 minute to install all dependencies.
 
-## Start your system
+### Start your system
 
 Run the development server:
 
@@ -35,10 +27,30 @@ cd my-system
 bun start
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Yolm app, you'll need to navigate the terminal there.
+The `bun start` command builds your app locally and serves it through a development server.
 
-The `bun start` command builds your app locally and serves it through a development server, ready for you to view at
+You can click around a little bit on the application at http://localhost:3001
 
-You can click around a little bit on the application at localhost:3001
+Now if you open `my-system` in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm app.
 
-Now if you open my-system in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm app.
+There are two important files for now `system.ts` and `scripts.ts`.
+
+`system.ts` defines everything for the system, the database, the apps, the api, etc.
+
+`scripts.ts` defines any scripts, so you can initialize the database, add users to apps, export to csv, etc.
+
+In `system.ts` add this line to the contact table:
+
+```ts
+  table.date("date_of_birth");
+```
+
+Now in the browser you will have a date of birth field in the datagrid as well as in the insert form and update form.
+
+### Deploy your system
+
+While we are still in private beta, you can't do this without contacting us.
+
+All you need to do is `bun run deploy` if you have not created an account it will ask you to create one and then will deploy your system.
+
+And voila! You now have a web app backed by a database, it runs on our platform as a service and you can rest easy that it will run!

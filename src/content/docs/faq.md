@@ -22,10 +22,6 @@ Yolm is an excellent fit from simple internal tools to complex enterprise web ap
 - consumer applications
 - collobarative editing
 
-## What is WebAssembly (WASM)?
-
-It is a binary code format for executable programs. All major browsers support it natively since 2017. The main goal of WebAssembly is to enable high-performance web applications. It can be 20x faster than JavaScript and consume a fraction of the memory because it provides low level control over memory layout. It is the core technology that helps make Yolm blazingly fast in the browser.
-
 ## Is it open source?
 
 Yolm is a for profit company. The application runtime and developer CLI (yolm) is closed source and is patent pending. The BOOST library written in Typescript is available at https://github.com/yolm/boost with a MIT open source license. You can use BOOST as is, modify it or write your own components, themes or generators.
