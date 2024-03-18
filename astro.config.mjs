@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: "Yolm Documentation",
       social: {
-        github: "https://github.com/yolmio/docs",
+        github: "https://github.com/yolmio/boost",
       },
       sidebar: [
         {
