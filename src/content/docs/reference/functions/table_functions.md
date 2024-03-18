@@ -5,17 +5,17 @@ title: "Table Functions"
 
 Table functions in SQL are unique in that they are used as sources for queries rather than within expressions. These functions allow you to generate series, perform string and regular expression operations, and more. Below is a list of our table functions in SQL:
 
-| Name                                           | Description                                                |
-|------------------------------------------------|------------------------------------------------------------|
-| [series.int()](#series_int_function)           | Generate a series of integers                              |
-| [series.bigint()](#series_bigint_function)     | Generate a series of big integers                          |
-| [series.daily()](#series_daily_function)       | Generate series of dates, incremented by an amount of days |
-| [series.ordering()](#series_ordering_function) | Generate an ordering series                                |
-| [string.split()](#string_split_function)       | Split a string into substrings                             |
-| [regex.split()](#regex_split_function)         | Split a string using a regular expression                  |
-| [regex.matches()](#regex_matches_function)     | Match a regular expression against a string                |
+| Name                                 | Description                                                |
+|--------------------------------------|------------------------------------------------------------|
+| [series.int()](#seriesint)           | Generate a series of integers                              |
+| [series.bigint()](#seriesbigint)     | Generate a series of big integers                          |
+| [series.daily()](#seriesdaily)       | Generate series of dates, incremented by an amount of days |
+| [series.ordering()](#seriesordering) | Generate an ordering series                                |
+| [string.split()](#stringsplit)       | Split a string into substrings                             |
+| [regex.split()](#regexsplit)         | Split a string using a regular expression                  |
+| [regex.matches()](#regexmatches)     | Match a regular expression against a string                |
 
-### series.int(start, end, step) {#series_int_function}
+### series.int()
 
 Generate a series of integers.
 
@@ -33,7 +33,7 @@ select value from series.int(1, 5); -- 1, 2, 3, 4, 5
 select value from series.int(1, 5, 2); -- 1, 3, 5
 ```
 
-### series.bigint(start, end, step) {#series_bigint_function}
+### series.bigint()
 
 Generate a series of big integers.
 
@@ -51,7 +51,7 @@ select value from series.bigint(1, 5); -- 1, 2, 3, 4, 5
 select value from series.bigint(1, 5, 2); -- 1, 3, 5
 ```
 
-### series.daily(start, amount, step) {#series_daily_function}
+### series.daily()
 
 Generate a series of dates or timestamps that starts at `start` and increments by `step` days `amount` times.
 
@@ -79,7 +79,7 @@ select value from series.daily(date '2023-09-20', 4, 2);
 -- 2023-09-28
 ```
 
-### series.ordering(start, n) {#series_ordering_function}
+### series.ordering()
 
 Generate a series starting at `start` and `n` following orderings where each value is greater than the `start`
 
@@ -95,7 +95,7 @@ Generate a series starting at `start` and `n` following orderings where each val
 select value from series.ordering(ordereing.new(), 5);
 ```
 
-### string.split(input, delimiter) {#string_split_function}
+### string.split()
 
 Split a string into substrings.
 
@@ -114,7 +114,7 @@ select value, ordinal from string.split('a,b,c', ',');
 -- c, 2
 ```
 
-### regex.split(input, pattern) {#regex_split_function}
+### regex.split()
 
 Split a string using a regular expression. We use the rust regex crate, so for documentation on the syntax look here: https://docs.rs/regex/latest/regex/#syntax
 
@@ -133,7 +133,7 @@ select value, ordinal from regex.split('a b c', '\s');
 -- c, 2
 ```
 
-### regex.matches(input, pattern) {#regex_matches_function}
+### regex.matches()
 
 Match a regular expression against a string.
 

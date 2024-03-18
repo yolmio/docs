@@ -4,13 +4,13 @@ title: "Ordering Functions"
 
 Ordering functions are how you create any ordering values. You create the orderings through the below functions and then compare them, otherwise they are opaque.
 
-| Name                                                   | Description                                              |
-|--------------------------------------------------------|----------------------------------------------------------|
-| [ordering.new(before, after)](#new_function)           | Inserts an item before another in the sequence           |
-| [ordering.n_after(offset, after)](#nafter_function)    | Inserts an item at a specific offset after another item  |
-| [ordering.n_before(offset, before)](#nbefore_function) | Inserts an item at a specific offset before another item |
+| Name                                                  | Description                                              |
+|-------------------------------------------------------|----------------------------------------------------------|
+| [ordering.new(before, after)](#orderingnew)           | Inserts an item before another in the sequence           |
+| [ordering.n_after(offset, after)](#orderingnafter)    | Inserts an item at a specific offset after another item  |
+| [ordering.n_before(offset, before)](#orderingnbefore) | Inserts an item at a specific offset before another item |
 
-### ordering.new(before, after) {#new_function}
+### ordering.new()
 
 Creates an ordering that will compare be between before and after
 
@@ -29,7 +29,7 @@ select ordering.new(null, x); -- create ordering that will be less than x
 select ordering.new(x, y); -- create ordering that will be greater than x and less than y
 ```
 
-### ordering.n_after(offset, after) {#nafter_function}
+### ordering.n_after()
 
 Creates an ordering that is offset n times after the provided ordering.
 
@@ -48,7 +48,7 @@ select ordering.n_after(2, x); -- equivelant to ordering.new(ordering.new(x))
 select ordering.n_after(2); -- equivelant to ordering.new(ordering.new(ordering.new()))
 ```
 
-### ordering.n_before(offset, before) {#nbefore_function}
+### ordering.n_before()
 
 Creates an ordering that is offset n times before the provided ordering.
 

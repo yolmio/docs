@@ -4,12 +4,12 @@ title: "Special SQL Functions"
 
 Special SQL functions like `coalesce()` and `match()` offer unique functionalities that do not fit neatly into the other categories of SQL functions. Below are these special functions:
 
-| Name                             | Description                                         |
-|----------------------------------|-----------------------------------------------------|
-| [coalesce()](#coalesce_function) | Return the first non-NULL value in a list           |
-| [match()](#match_function)       | Perform full-text search on a record using a config |
+| Name                    | Description                                         |
+|-------------------------|-----------------------------------------------------|
+| [coalesce()](#coalesce) | Return the first non-NULL value in a list           |
+| [match()](#match)       | Perform full-text search on a record using a config |
 
-### coalesce(expression1, expression2, ...) {#coalesce_function}
+### coalesce()
 
 Returns the first non-NULL value from a list of expressions.
 
@@ -24,9 +24,9 @@ Returns the first non-NULL value from a list of expressions.
 select coalesce(null, 'first', 'second'); -- Returns 'first'
 ```
 
-### match(match_config_name, query, record_id) {#match_function}
+### match() {#match_function}
 
-Performs a full-text search as configured via [SearchMatchConfig](/reference/boost/interfaces/yom.SearchMatchConfig).
+Performs a full-text search as configured via the SearchMatchConfig specified in the yom.
 
 - **Parameters:**
   - `match_config_name` (identifier): The config to use for this match

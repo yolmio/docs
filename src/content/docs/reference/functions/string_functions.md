@@ -4,40 +4,40 @@ title: "String Functions and Operators"
 
 String functions and operators in SQL are used to manipulate and perform operations on text data. These functions are essential for working with strings in your SQL queries. Below is a list of our string functions and operators:
 
-| Name                                                     | Description                                                                    |
-|----------------------------------------------------------|--------------------------------------------------------------------------------|
-| [char_length()](#char_length_function)                   | Returns the number of characters in a string.                                  |
-| [character_length()](#char_length_function)              | Returns the number of characters in a string (synonym for char_length()).      |
-| [octet_length()](#octet_length_function)                 | Returns the number of bytes in a string.                                       |
-| [upper()](#upper_function)                               | Converts a string to uppercase.                                                |
-| [lower()](#lower_function)                               | Converts a string to lowercase.                                                |
-| [reverse()](#reverse_function)                           | Reverses the characters in a string.                                           |
-| [left()](#left_function)                                 | Returns the leftmost characters from a string.                                 |
-| [right()](#right_function)                               | Returns the rightmost characters from a string.                                |
-| [repeat()](#repeat_function)                             | Repeats a string a specified number of times.                                  |
-| [lpad()](#lpad_function)                                 | Pads a string on the left with a specified character to a specified length.    |
-| [rpad()](#rpad_function)                                 | Pads a string on the right with a specified character to a specified length.   |
-| [trim()](#trim_function)                                 | Removes leading and trailing characters from a string.                         |
-| [substring()](#substring_function)                       | Extracts a substring from a string based on the specified position and length. |
-| [position()](#position_function)                         | Returns the position of a substring within a string.                           |
-| [expr like pattern](#like_operator)                      | Checks if a string matches a specified pattern.                                |
-| [regex.is_match()](#regex_is_match_function)             | Checks if a regular expression matches a string.                               |
-| [regex.replace()](#regex_replace_function)               | Replaces the first occurrence of a regular expression match in a string.       |
-| [regex.replace_all()](#regex_replace_all_function)       | Replaces all occurrences of a regular expression match in a string.            |
-| [uri.encode_component()](#uri_encode_component_function) | Encodes a string as a URI component.                                           |
-| [uri.is_match()](#uri_is_match_function)                 | Checks if a string is a valid URI.                                             |
-| [literal.bool()](#literal_bool)                          | Returns a boolean literal as a string.                                         |
-| [literal.timestamp()](#literal_timestamp)                | Returns a timestamp literal as a string.                                       |
-| [literal.date()](#literal_date)                          | Returns a date literal as a string.                                            |
-| [literal.number()](#literal_number)                      | Returns a numeric literal as a string.                                         |
-| [literal.string()](#literal_string)                      | Returns a string literal as a string.                                          |
-| [format.date()](#format_date_function)                   | Formats a date as a string using a specified format.                           |
-| [format.decimal()](#format_decimal_function)             | Formats a decimal number as a string using a specified format.                 |
-| [format.currency()](#format_currency_function)           | Formats a decimal number as currency using a specified format.                 |
-| [format.percent()](#format_percent_function)             | Formats a decimal number as a percentage using a specified format.             |
-| 'a' \|\| 'b'                                             | Concatenates two string together                                               |
+| Name                                                    | Description                                                                    |
+|---------------------------------------------------------|--------------------------------------------------------------------------------|
+| [char_length()](#char_length-or-character-length)       | Returns the number of characters in a string.                                  |
+| [character_length()](##char_length-or-character-length) | Returns the number of characters in a string (synonym for char_length()).      |
+| [octet_length()](#octet_length)                         | Returns the number of bytes in a string.                                       |
+| [upper()](#upper)                                       | Converts a string to uppercase.                                                |
+| [lower()](#lower)                                       | Converts a string to lowercase.                                                |
+| [reverse()](#reverse)                                   | Reverses the characters in a string.                                           |
+| [left()](#left)                                         | Returns the leftmost characters from a string.                                 |
+| [right()](#right)                                       | Returns the rightmost characters from a string.                                |
+| [repeat()](#repeat)                                     | Repeats a string a specified number of times.                                  |
+| [lpad()](#lpad)                                         | Pads a string on the left with a specified character to a specified length.    |
+| [rpad()](#rpad)                                         | Pads a string on the right with a specified character to a specified length.   |
+| [trim()](#trim)                                         | Removes leading and trailing characters from a string.                         |
+| [substring()](#substring)                               | Extracts a substring from a string based on the specified position and length. |
+| [position()](#position)                                 | Returns the position of a substring within a string.                           |
+| [expr like pattern](#like)                              | Checks if a string matches a specified pattern.                                |
+| [regex.is_match()](#regexis_match)                      | Checks if a regular expression matches a string.                               |
+| [regex.replace()](#regexreplace)                        | Replaces the first occurrence of a regular expression match in a string.       |
+| [regex.replace_all()](#regexreplace)                    | Replaces all occurrences of a regular expression match in a string.            |
+| [uri.encode_component()](#uriencode_component)          | Encodes a string as a URI component.                                           |
+| [uri.is_match()](#uriis_match)                          | Checks if a string is a valid URI.                                             |
+| [literal.bool()](#literalbool)                          | Returns a boolean literal as a string.                                         |
+| [literal.timestamp()](#literaltimestamp)                | Returns a timestamp literal as a string.                                       |
+| [literal.date()](#literaldate)                          | Returns a date literal as a string.                                            |
+| [literal.number()](#literalnumber)                      | Returns a numeric literal as a string.                                         |
+| [literal.string()](#literalstring)                      | Returns a string literal as a string.                                          |
+| [format.date()](#formatdate)                            | Formats a date as a string using a specified format.                           |
+| [format.decimal()](#formatdecimal)                      | Formats a decimal number as a string using a specified format.                 |
+| [format.currency()](#formatcurrency)                    | Formats a decimal number as currency using a specified format.                 |
+| [format.percent()](#formatpercent)                      | Formats a decimal number as a percentage using a specified format.             |
+| 'a' \|\| 'b'                                            | Concatenates two string together                                               |
 
-### char_length(string), character_length(string) {#char_length_function}
+### char_length() or character_length()
 
 Returns the number of characters in a string.
 
@@ -53,7 +53,7 @@ select char_length('Hello, World!'); -- Returns 13
 select character_length('Hello, World!'); -- Returns 13
 ```
 
-### octet_length(string) {#octet_length_function}
+### octet_length()
 
 Returns the number of bytes in a string.
 
@@ -68,7 +68,7 @@ Returns the number of bytes in a string.
 select octet_length('Hello, World!'); -- Returns 13
 ```
 
-### upper(string) {#upper_function}
+### upper()
 
 Converts a string to uppercase.
 
@@ -83,7 +83,7 @@ Converts a string to uppercase.
 select upper('Hello, World!'); -- Returns 'HELLO, WORLD!'
 ```
 
-### lower(string) {#lower_function}
+### lower()
 
 Converts a string to lowercase.
 
@@ -98,7 +98,7 @@ Converts a string to lowercase.
 select lower('Hello, World!'); -- Returns 'hello, world!'
 ```
 
-### reverse(string) {#reverse_function}
+### reverse()
 
 Reverses the characters in a string.
 
@@ -113,7 +113,7 @@ Reverses the characters in a string.
 select reverse('Hello, World!'); -- Returns '!dlroW ,olleH'
 ```
 
-### left(string, length) {#left_function}
+### left()
 
 Returns the leftmost characters from a string.
 
@@ -129,7 +129,7 @@ Returns the leftmost characters from a string.
 select left('Hello, World!', 5); -- Returns 'Hello'
 ```
 
-### right(string, length) {#right_function}
+### right()
 
 Returns the rightmost characters from a string.
 
@@ -145,7 +145,7 @@ Returns the rightmost characters from a string.
 select right('Hello, World!', 6); -- Returns 'World!'
 ```
 
-### repeat(string, count) {#repeat_function}
+### repeat()
 
 Repeats a string a specified number of times.
 
@@ -161,7 +161,7 @@ Repeats a string a specified number of times.
 select repeat('abc', 3); -- Returns 'abcabcabc'
 ```
 
-### lpad(string, length, padding) {#lpad_function}
+### lpad()
 
 Pads a string on the left with a specified character to a specified length.
 
@@ -178,7 +178,7 @@ Pads a string on the left with a specified character to a specified length.
 select lpad('123', 5, '0'); -- Returns '00123'
 ```
 
-### rpad(string, length, padding) {#rpad_function}
+### rpad()
 
 Pads a string on the right with a specified character to a specified length.
 
@@ -196,7 +196,7 @@ select rpad('123', 5, '0'); -- Returns '12300'
 select rpad('123', 5, ' '); -- Returns '123  '
 ```
 
-### trim([both | leading | trailing] [expr from] string) {#trim_function}
+### trim()
 
 Removes leading and trailing characters from a string.
 
@@ -217,7 +217,7 @@ select trim(both ' ' from '   Hello, World!   '); -- Returns 'Hello, World!'
 select trim(both 'a' from 'aaaHello, World!aaa'); -- Returns 'Hello, World!'
 ```
 
-### substring(string [from start] [for length]) {#substring_function}
+### substring()
 
 Extracts a substring from a string based on the specified position and length.
 
@@ -235,7 +235,7 @@ select substring('Hello, World!', 8, 5); -- Returns 'World'
 select substring('Hello, World!' from 8 for 5); -- Returns 'World'
 ```
 
-### position(substring in string) {#position_function}
+### position()
 
 Returns the position of a substring within a string.
 
@@ -251,7 +251,7 @@ Returns the position of a substring within a string.
 select position('World' in 'Hello, World!'); -- Returns 8
 ```
 
-### expr like pattern [escape character] {#like_operator}
+### like
 
 Checks if a string matches a specified pattern.
 
@@ -289,7 +289,7 @@ select '10%' like '10\%' escape '\'; -- Returns true
 select '100%' like '10\%' escape '\'; -- Returns false
 ```
 
-### regex.is_match(string, pattern) {#regex_is_match_function}
+### regex.is_match(string, pattern)
 
 Checks if a regular expression matches a string. We use the rust regex crate, so for documentation on the syntax look here: https://docs.rs/regex/latest/regex/#syntax
 
@@ -305,7 +305,7 @@ Checks if a regular expression matches a string. We use the rust regex crate, so
 select regex.is_match('123-456-7890', '\\d{3}-\\d{3}-\\d{4}'); -- Returns true
 ```
 
-### regex.replace(string, pattern, replacement) {#regex_replace_function}
+### regex.replace()
 
 Replaces the first occurrence of a regular expression match in a string. We use the rust regex crate, so for documentation on the syntax look here: https://docs.rs/regex/latest/regex/#syntax
 
@@ -322,7 +322,7 @@ Replaces the first occurrence of a regular expression match in a string. We use 
 select regex.replace('Hello, World!', 'o', '0'); -- Returns 'Hell0, World!'
 ```
 
-### regex.replace_all(string, pattern, replacement) {#regex_replace_all_function}
+### regex.replace_all()
 
 Replaces all occurrences of a regular expression match in a string. We use the rust regex crate, so for documentation on the syntax look here: https://docs.rs/regex/latest/regex/#syntax
 
@@ -340,7 +340,7 @@ Replaces all occurrences of a regular expression match in a string. We use the r
 select regex.replace_all('Hello, World!', 'o', '0'); -- Returns 'Hell0, W0rld!'
 ```
 
-### uri.encode_component(string) {#uri_encode_component_function}
+### uri.encode_component()
 
 Encodes a string as a URI component. [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
 
@@ -355,7 +355,7 @@ Encodes a string as a URI component. [MDN documentation](https://developer.mozil
 select uri.encode_component('hello world'); -- Returns 'hello%20world'
 ```
 
-### uri.is_match(string, path) {#uri_is_match_function}
+### uri.is_match()
 
 Checks if a string matches a route path. Normally used in the ui to see if a route is currently active.
 
@@ -373,7 +373,7 @@ This uses the same syntax as we have for routes in the ui. This is mostly used t
 select uri.is_match('/cats/1', '/cats/{record_id:id}'); -- Returns true
 ```
 
-### literal.bool(value) {#literal_bool}
+### literal.bool()
 
 Returns a boolean literal as a string that can be used in dynamic queries/modifies.
 
@@ -388,7 +388,7 @@ Returns a boolean literal as a string that can be used in dynamic queries/modifi
 select literal.bool(true); -- Returns 'true'
 ```
 
-### literal.timestamp(value) {#literal_timestamp}
+### literal.timestamp()
 
 Returns a timestamp literal as a string that can be used in dynamic queries/modifies.
 
@@ -403,7 +403,7 @@ Returns a timestamp literal as a string that can be used in dynamic queries/modi
 select literal.timestamp(timestamp '2023-09-18T12:00:00+00:00'); -- Returns 'TIMESTAMP ''2023-09-18 12:00:00 +00:00'''
 ```
 
-### literal.date(value) {#literal_date}
+### literal.date()
 
 Returns a date literal as a string that can be used in dynamic queries/modifies.
 
@@ -418,7 +418,7 @@ Returns a date literal as a string that can be used in dynamic queries/modifies.
 select literal.date(date '2023-09-18'); -- Returns 'DATE ''2023-09-18'''
 ```
 
-### literal.number(value) {#literal_number}
+### literal.number()
 
 Returns a numeric literal as a string that can be used in dynamic queries/modifies.
 
@@ -433,7 +433,7 @@ Returns a numeric literal as a string that can be used in dynamic queries/modifi
 select literal.number(42.5); -- Returns '42.5'
 ```
 
-### literal.string(value) {#literal_string}
+### literal.string()
 
 Returns an escaped string literal as a string that can be used in dynamic queries/modifies.
 
@@ -448,7 +448,7 @@ Returns an escaped string literal as a string that can be used in dynamic querie
 select literal.string('Hello, '' World!'); -- Returns 'Hello, '' World!'
 ```
 
-### format.date(date, format) {#format_date_function}
+### format.date()
 
 Formats a date as a string using a specified format. We use the rust library chrono for date formatting, for documentation on the formatting look here: https://docs.rs/chrono/latest/chrono/format/strftime/index.html#specifiers
 
@@ -464,7 +464,7 @@ Formats a date as a string using a specified format. We use the rust library chr
 select format.date(date '2023-09-18', '%e %b %Y'); -- Returns '18 Sep 2023'
 ```
 
-### format.decimal(number) {#format_decimal_function}
+### format.decimal()
 
 Formats a decimal number as a string using a specified format.
 
@@ -490,7 +490,7 @@ select format.decimal(5678.00000000, maximum_fraction_digits => 2); -- Returns 5
 select format.decimal(5678.128, maximum_fraction_digits => 2); -- Returns 5,678.13
 ```
 
-### format.currency(number, currency) {#format_currency_function}
+### format.currency()
 
 Formats a decimal number as currency using a specified format.
 
@@ -512,7 +512,7 @@ select format.currency(55.10, 'usd'); -- Returns $55.10
 select format.currency(55.10, 'usd', maximum_fraction_digits => 0) -- Returns $55
 ```
 
-### format.percent(number) {#format_percent_function}
+### format.percent()
 
 Formats a decimal number as a percentage.
 

@@ -5,33 +5,33 @@ title: "Date Functions and Constants"
 
 Date functions in SQL are used to manipulate and perform operations on date and timestamp data types. These functions can help you extract specific parts of a date, perform calculations, and work with time zones. Below is a list of our date functions in SQL:
 
-| Name                                                                         | Description                                              |
-|------------------------------------------------------------------------------|----------------------------------------------------------|
-| [current_date()](#current_date_function) or [today()](#today_function)       | Return the current date                                  |
-| [current_timestamp()](#current_timestamp_function) or [now()](#now_function) | Return the current timestamp                             |
-| [tomorrow()](#tomorrow_function)                                             | Return the date for tomorrow                             |
-| [yesterday()](#yesterday_function)                                           | Return the date for yesterday                            |
-| [date.part()](#date_part_function)                                           | Extract a specific part of a date or timestamp           |
-| [date.add()](#date_add_function)                                             | Add a specified interval to a date or timestamp          |
-| [date.duration()](#date_duration_function)                                   | Calculate the duration between two dates or timestamps   |
-| [date.diff()](#date_diff_function)                                           | Calculate the difference between two dates or timestamps |
-| [date.trunc()](#date_trunc_function)                                         | Truncate a date or timestamp to a specified precision    |
-| [date.set_timezone()](#date_set_timezone_function)                           | Set the time zone of a date or timestamp                 |
-| [date.new_time()](#date_new_time_function)                                   | Create a new timestamp with the specified time           |
-| [date.new_date()](#date_new_date_function)                                   | Create a new date with the specified date                |
-| [date.new_timestamp()](#date_new_timestamp_function)                         | Create a new timestamp with the specified date and time  |
-| [date.from_epoch()](#date_from_epoch_function)                               | Convert an epoch timestamp to a date or timestamp        |
-| [date.last_weekday()](#date_last_weekday_function)                           | Find the last weekday (e.g., Friday) before a date       |
-| [extract()](#extract_function)                                               | Extract a specific field from a date or timestamp        |
-| date.monday                                                                  | constant numeric day of week for monday                  |
-| date.tuesday                                                                 | constant numeric day of week for tuesday                 |
-| date.wednesday                                                               | constant numeric day of week for wednesday               |
-| date.thursday                                                                | constant numeric day of week for thursday                |
-| date.friday                                                                  | constant numeric day of week for friday                  |
-| date.saturday                                                                | constant numeric day of week for saturday                |
-| date.sunday                                                                  | constant numeric day of week for sunday                  |
+| Name                                                                                   | Description                                                      |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| [current_date()](#current-date-or-today) or [today()](#current-date-or-today)          | Return the current date                                          |
+| [current_timestamp()](#current-timestamp-or-now) or [now()](#current-timestamp-or-now) | Return the current timestamp                                     |
+| [tomorrow()](#tomorrow)                                                                | Return the date for tomorrow                                     |
+| [yesterday()](#yesterday)                                                              | Return the date for yesterday                                    |
+| [date.part()](#datepart)                                                               | Extract a specific part of a date or timestamp                   |
+| [date.add()](#dateadd)                                                                 | Add a specified interval to a date or timestamp                  |
+| [date.duration()](#dateduration)                                                       | Calculate the duration between two dates or timestamps           |
+| [date.diff()](#datediff)                                                               | Calculate the difference between two dates or timestamps         |
+| [date.trunc()](#datetrunc)                                                             | Truncate a date or timestamp to a specified precision            |
+| [date.set_timezone()](#dateset_timezone)                                               | Set the time zone of a date or timestamp                         |
+| [date.new_time()](#datenew_time)                                                       | Create a new time with the specified hours, minutes, and seconds |
+| [date.new_date()](#datenew_date)                                                       | Create a new date with the specified year, month, and date       |
+| [date.new_timestamp()](#datenew_timestamp)                                             | Create a new timestamp with the specified date and time          |
+| [date.from_epoch()](#datefrom_epoch)                                                   | Convert an epoch timestamp to a date or timestamp                |
+| [date.last_weekday()](#datelast_weekday)                                               | Find the last weekday (e.g., Friday) before a date               |
+| [extract()](#extract)                                                                  | Extract a specific field from a date or timestamp                |
+| date.monday()                                                                          | constant numeric day of week for monday                          |
+| date.tuesday()                                                                         | constant numeric day of week for tuesday                         |
+| date.wednesday()                                                                       | constant numeric day of week for wednesday                       |
+| date.thursday()                                                                        | constant numeric day of week for thursday                        |
+| date.friday()                                                                          | constant numeric day of week for friday                          |
+| date.saturday()                                                                        | constant numeric day of week for saturday                        |
+| date.sunday()                                                                          | constant numeric day of week for sunday                          |
 
-### current_date() or today() {#today_function}
+### current_date() or today()
 
 Returns the current date.
 
@@ -44,7 +44,7 @@ SELECT current_date();
 SELECT today();
 ```
 
-### current_timestamp() or now() {#now_function}
+### current_timestamp() or now()
 
 Returns the current timestamp.
 
@@ -57,7 +57,7 @@ SELECT current_timestamp();
 SELECT now();
 ```
 
-### tomorrow() {#tomorrow_function}
+### tomorrow()
 
 Returns the date for tomorrow.
 
@@ -69,7 +69,7 @@ Returns the date for tomorrow.
 SELECT tomorrow();
 ```
 
-### yesterday() {#yesterday_function}
+### yesterday()
 
 Returns the date for yesterday.
 
@@ -81,7 +81,7 @@ Returns the date for yesterday.
 SELECT yesterday();
 ```
 
-### date.part(part, date) {#date_part_function}
+### date.part()
 
 Extracts a specific [date part](#date-part) (e.g., year, month, day) of a date or timestamp.
 
@@ -97,7 +97,7 @@ Extracts a specific [date part](#date-part) (e.g., year, month, day) of a date o
 select date.part(year, date '2023-09-17') -- 2023
 ```
 
-### date.add(part, amount, date) {#date_add_function}
+### date.add()
 
 Adds a specified interval to a date or timestamp.
 
@@ -114,7 +114,7 @@ Adds a specified interval to a date or timestamp.
 select date.add(day, 5, date '2023-01-01') -- 2023-01-06
 ```
 
-### date.duration(part, start, end) {#date_duration_function}
+### date.duration()
 
 Calculates the duration between two dates or timestamps.
 
@@ -140,7 +140,7 @@ Duration sees that a full year of time did not actually pass, and so returns 0. 
 select date.duration(year, date '2001-03-09', date '2023-09-18') -- Returns 22
 ```
 
-### date.diff(part, start, end) {#date_diff_function}
+### date.diff()
 
 Calculates the difference between two dates or timestamps.
 
@@ -159,7 +159,7 @@ See [`date.duration`](#date_duration_function) for the difference between the tw
 select date.diff(year, date '2015-03-09', date '2023-09-18') -- Returns 8
 ```
 
-### date.trunc(part, date) {#date_trunc_function}
+### date.trunc()
 
 Truncates a date or timestamp to a specified precision (e.g., year, month, day) specified as a [date part](#date-part).
 
@@ -175,7 +175,7 @@ Truncates a date or timestamp to a specified precision (e.g., year, month, day) 
 select date.trunc(month, date '2023-09-17') -- Returns '2023-09-01'
 ```
 
-### date.set_timezone(date, timezone) {#date_set_timezone_function}
+### date.set_timezone()
 
 Sets the time zone of a date or timestamp in seconds of offset to UTC.
 
@@ -191,7 +191,7 @@ Sets the time zone of a date or timestamp in seconds of offset to UTC.
 select date.set_timezone(timestamp '2023-09-17T14:30:45+00:00', -10800) -- 2023-09-17T14:30:45-03:00
 ```
 
-### date.new_time(hour, minute, second) {#date_new_time_function}
+### date.new_time()
 
 Creates a new time with the specified hours, minutes, seconds.
 
@@ -208,7 +208,7 @@ Creates a new time with the specified hours, minutes, seconds.
 select date.new_time(23, 59, 59) -- 23:59:59
 ```
 
-### date.new_date(year, month, day) {#date_new_date_function}
+### date.new_date()
 
 Creates a new date with the specified year, month and date
 
@@ -225,7 +225,7 @@ Creates a new date with the specified year, month and date
 select date.new_date(2021, 12, 31) -- 2021-12-31
 ```
 
-### date.new_timestamp(year, month, day, hour, minute, second) {#date_new_timestamp_function}
+### date.new_timestamp()
 
 Creates a new timestamp with the specified date and time and in the current timezone
 
@@ -245,7 +245,7 @@ Creates a new timestamp with the specified date and time and in the current time
 select date.new_timestamp(2021, 12, 31, 23, 59, 59) -- returns 2021-12-31T23:59:59+00:00 (if you are in utc timezone)
 ```
 
-### date.from_epoch(epoch) {#date_from_epoch_function}
+### date.from_epoch()
 
 Converts an epoch timestamp (seconds since January 1, 1970) to a date or timestamp.
 
@@ -260,7 +260,7 @@ Converts an epoch timestamp (seconds since January 1, 1970) to a date or timesta
 select date.from_epoch(1631906400) -- 2021-09-17T19:20:00+00:00
 ```
 
-### date.last_weekday(date, weekday) {#date_last_weekday_function}
+### date.last_weekday()
 
 Finds the last of a weekday (e.g., Friday) before a date.
 
@@ -279,7 +279,7 @@ select date.last_weekday(date '2023-09-18', date.monday) -- 2023-09-11
 select date.last_weekday(date '2023-09-18', date.sunday) -- 2023-09-17
 ```
 
-### extract(part from date) {#extract_function}
+### extract()
 
 Extracts a specific field (e.g., year, month, day) from a date or timestamp.
 

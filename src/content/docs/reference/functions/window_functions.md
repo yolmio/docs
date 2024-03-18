@@ -12,17 +12,17 @@ insert into t1 (a1, a2) values (1, 1), (1, 1), (1, 1), (1, 2)
 
 Below is a list of our window functions in SQL:
 
-| Name                                        | Description                                           |
-|---------------------------------------------|-------------------------------------------------------|
-| [first_value()](#first_value_function)      | Returns the first value in the window                 |
-| [last_value()](#last_value_function)        | Returns the last value in the window                  |
-| [rank()](#rank_function)                    | Assigns a rank to each row within the window          |
-| [dense_rank()](#dense_rank_function)        | Assigns a dense rank to each row within the window    |
-| [row_number()](#row_number_function)        | Assigns a unique number to each row within the window |
-| [count()](#count_function)                  | Counts the number of rows within the window           |
-| [count(distinct)](#count_distinct_function) | Counts the number of distinct rows within the window  |
+| Name                              | Description                                           |
+|-----------------------------------|-------------------------------------------------------|
+| [first_value()](#first_value)     | Returns the first value in the window                 |
+| [last_value()](#last_value)       | Returns the last value in the window                  |
+| [rank()](#rank)                   | Assigns a rank to each row within the window          |
+| [dense_rank()](#dense_rank)       | Assigns a dense rank to each row within the window    |
+| [row_number()](#row_number)       | Assigns a unique number to each row within the window |
+| [count()](#count)                 | Counts the number of rows within the window           |
+| [count(distinct)](#countdistinct) | Counts the number of distinct rows within the window  |
 
-### first_value(expression) over ([window specification]) {#first_value_function}
+### first_value()
 
 Returns the first value in the window.
 
@@ -40,7 +40,7 @@ select first_value(a2) over (order by a2 desc) from t1;
 -- 2, 2, 2, 2
 ```
 
-### last_value(expression) over ([window specification]) {#last_value_function}
+### last_value()
 
 Returns the last value in the window.
 
@@ -58,7 +58,7 @@ select last_value(a2) over (order by a2 desc) from t1;
 -- 1, 1, 1, 1
 ```
 
-### rank() OVER ([window specification]) {#rank_function}
+### rank()
 
 Assigns a rank to each row within the window, leaving gaps for duplicate values.
 
@@ -71,7 +71,7 @@ select rank() over (partition by a1 order by a2) from t1;
 -- 1, 1, 1, 4
 ```
 
-### dense_rank() over ([window specification]) {#dense_rank_function}
+### dense_rank() 
 
 Assigns a dense rank to each row within the window. Unlike `rank()`, it does not leave gaps between rank values when there are duplicates.
 
@@ -84,7 +84,7 @@ select dense_rank() over (partition by a1 order by a2) from t1;
 -- 1, 1, 1, 2
 ```
 
-### row_number() OVER ([window specification]) {#row_number_function}
+### row_number()
 
 Assigns a unique number to each row within the window.
 
@@ -97,7 +97,7 @@ select row_number() over (partition by a1 order by a2) from t1;
 -- 1, 2, 3, 4
 ```
 
-### count(expression) over ([window specification]) {#count_function}
+### count()
 
 Counts the number of rows within the window.
 
@@ -113,7 +113,7 @@ select count(a1) over (partition by a2) from t1;
 -- 3, 3, 3, 1
 ```
 
-### count(distinct expression) over ([window specification]) {#count_distinct_function}
+### count(distinct )
 
 Counts the number of distinct rows within the window.
 

@@ -4,37 +4,37 @@ title: "Math Functions and operators"
 
 Math functions in SQL are used to perform various mathematical operations on numeric data. These functions are essential for performing calculations, transformations, and computations in your SQL queries. Below is a list of our math functions in SQL:
 
-| Name                               | Description                                               |
-|------------------------------------|-----------------------------------------------------------|
-| [abs()](#abs_function)             | Return the absolute value of a number                     |
-| [ceil()](#ceil_function)           | Round a number up to the nearest integer                  |
-| [floor()](#floor_function)         | Round a number down to the nearest integer                |
-| [trunc()](#trunc_function)         | Truncate a number to a specified number of decimal places |
-| [exp()](#exp_function)             | Calculate the exponential value of a number               |
-| [ln()](#ln_function)               | Calculate the natural logarithm of a number               |
-| [log10()](#log10_function)         | Calculate the base 10 logarithm of a number               |
-| [sqrt()](#sqrt_function)           | Calculate the square root of a number                     |
-| [log()](#log_function)             | Calculate the logarithm of a number with a specified base |
-| [power()](#power_function)         | Raise a number to a specified power                       |
-| [round()](#round_function)         | Round a number to a specified number of decimal places    |
-| [factorial()](#factorial_function) | Calculate the factorial of a number                       |
-| [pi()](#pi_function)               | Return the mathematical constant pi (π)                   |
-| [radians()](#radians_function)     | Convert degrees to radians                                |
-| [degrees()](#degrees_function)     | Convert radians to degrees                                |
-| [cbrt()](#cbrt_function)           | Calculate the cube root of a number                       |
-| [acos()](#acos_function)           | Calculate the arc cosine of a number                      |
-| [asin()](#asin_function)           | Calculate the arc sine of a number                        |
-| [atan()](#atan_function)           | Calculate the arc tangent of a number                     |
-| [cos()](#cos_function)             | Calculate the cosine of a number                          |
-| [sin()](#sin_function)             | Calculate the sine of a number                            |
-| [tan()](#tan_function)             | Calculate the tangent of a number                         |
-| number + number                    | addition                                                  |
-| number - number                    | minus                                                     |
-| number * number                    | multiply                                                  |
-| number / number                    | divide                                                    |
-| number % number                    | modulo                                                    |
+| Name                      | Description                                               |
+|---------------------------|-----------------------------------------------------------|
+| [abs()](#abs)             | Return the absolute value of a number                     |
+| [ceil()](#ceil)           | Round a number up to the nearest integer                  |
+| [floor()](#floor)         | Round a number down to the nearest integer                |
+| [trunc()](#trunc)         | Truncate a number to a specified number of decimal places |
+| [exp()](#exp)             | Calculate the exponential value of a number               |
+| [ln()](#ln)               | Calculate the natural logarithm of a number               |
+| [log10()](#log10)         | Calculate the base 10 logarithm of a number               |
+| [sqrt()](#sqrt)           | Calculate the square root of a number                     |
+| [log()](#log)             | Calculate the logarithm of a number with a specified base |
+| [power()](#power)         | Raise a number to a specified power                       |
+| [round()](#round)         | Round a number to a specified number of decimal places    |
+| [factorial()](#factorial) | Calculate the factorial of a number                       |
+| [pi()](#pi)               | Return the mathematical constant pi (π)                   |
+| [radians()](#radians)     | Convert degrees to radians                                |
+| [degrees()](#degrees)     | Convert radians to degrees                                |
+| [cbrt()](#cbrt)           | Calculate the cube root of a number                       |
+| [acos()](#acos)           | Calculate the arc cosine of a number                      |
+| [asin()](#asin)           | Calculate the arc sine of a number                        |
+| [atan()](#atan)           | Calculate the arc tangent of a number                     |
+| [cos()](#cos)             | Calculate the cosine of a number                          |
+| [sin()](#sin)             | Calculate the sine of a number                            |
+| [tan()](#tan)             | Calculate the tangent of a number                         |
+| number + number           | addition                                                  |
+| number - number           | minus                                                     |
+| number * number           | multiply                                                  |
+| number / number           | divide                                                    |
+| number % number           | modulo                                                    |
 
-### abs(number) {#abs_function}
+### abs()
 
 Returns the absolute value of a number.
 
@@ -49,7 +49,7 @@ Returns the absolute value of a number.
 select abs(-5.67); -- Returns 5.67
 ```
 
-### ceil(number) {#ceil_function}
+### ceil()
 
 Rounds a number up to the nearest integer.
 
@@ -64,7 +64,7 @@ Rounds a number up to the nearest integer.
 select ceil(3.14); -- Returns 4
 ```
 
-### floor(number) {#floor_function}
+### floor()
 
 Rounds a number down to the nearest integer.
 
@@ -79,7 +79,7 @@ Rounds a number down to the nearest integer.
 select floor(3.14); -- Returns 3
 ```
 
-### trunc(number), trunc(number, decimals) {#trunc_function}
+### trunc()
 
 Truncates a number to a specified number of decimal places.
 
@@ -95,7 +95,7 @@ Truncates a number to a specified number of decimal places.
 select trunc(3.14159265, 2); -- Returns 3.14
 ```
 
-### exp(number) {#exp_function}
+### exp()
 
 Calculates the exponential value of a number. (e raised to the given power)
 
@@ -110,7 +110,7 @@ Calculates the exponential value of a number. (e raised to the given power)
 select exp(2); -- Returns 7.38905609893065
 ```
 
-### ln(number) {#ln_function}
+### ln()
 
 Calculates the natural logarithm of a number.
 
@@ -125,7 +125,7 @@ Calculates the natural logarithm of a number.
 select ln(10); -- Returns 2.302585092994046
 ```
 
-### log10(number) {#log10_function}
+### log10()
 
 Calculates the base 10 logarithm of a number.
 
@@ -140,7 +140,7 @@ Calculates the base 10 logarithm of a number.
 select log10(100); -- Returns 2
 ```
 
-### sqrt(number) {#sqrt_function}
+### sqrt()
 
 Calculates the square root of a number.
 
@@ -155,7 +155,7 @@ Calculates the square root of a number.
 select sqrt(25); -- Returns 5
 ```
 
-### log(base, number) {#log_function}
+### log()
 
 Calculates the logarithm of a number with a specified base.
 
@@ -171,7 +171,7 @@ Calculates the logarithm of a number with a specified base.
 select log(2, 8); -- Returns 3
 ```
 
-### power(base, exponent) {#power_function}
+### power()
 
 Raises a number to a specified power.
 
@@ -187,7 +187,7 @@ Raises a number to a specified power.
 select power(2, 3); -- Returns 8
 ```
 
-### round(number, decimals) {#round_function}
+### round()
 
 Rounds a number to a specified number of decimal places.
 
@@ -203,7 +203,7 @@ Rounds a number to a specified number of decimal places.
 select round(3.14159265, 2); -- Returns 3.14
 ```
 
-### factorial(number) {#factorial_function}
+### factorial()
 
 Calculates the factorial of a number.
 
@@ -218,7 +218,7 @@ Calculates the factorial of a number.
 select factorial(5); -- Returns 120
 ```
 
-### pi() {#pi_function}
+### pi()
 
 Returns the mathematical constant pi (π).
 
@@ -230,7 +230,7 @@ Returns the mathematical constant pi (π).
 select pi(); -- Returns 3.14159265358979
 ```
 
-### radians(degrees) {#radians_function}
+### radians()
 
 Converts degrees to radians.
 
@@ -245,7 +245,7 @@ Converts degrees to radians.
 select radians(180); -- Returns 3.14159265358979
 ```
 
-### degrees(radians) {#degrees_function}
+### degrees()
 
 Converts radians to degrees.
 
@@ -260,7 +260,7 @@ Converts radians to degrees.
 select degrees(3.14159265); -- Returns 180
 ```
 
-### cbrt(number) {#cbrt_function}
+### cbrt()
 
 Calculates the cube root of a number.
 
@@ -275,7 +275,7 @@ Calculates the cube root of a number.
 select cbrt(8); -- Returns 2
 ```
 
-### acos(number) {#acos_function}
+### acos()
 
 Calculates the arc cosine of a number.
 
@@ -290,7 +290,7 @@ Calculates the arc cosine of a number.
 select acos(0.5); -- Returns 1.047197551196598 (approximately 60 degrees)
 ```
 
-### asin(number) {#asin_function}
+### asin()
 
 Calculates the arc sine of a number.
 
@@ -305,7 +305,7 @@ Calculates the arc sine of a number.
 select asin(0.5); -- Returns 0.523598775598299 (approximately 30 degrees)
 ```
 
-### atan(number) {#atan_function}
+### atan()
 
 Calculates the arc tangent of a number.
 
@@ -320,7 +320,7 @@ Calculates the arc tangent of a number.
 select atan(1); -- Returns 0.785398163397448 (approximately 45 degrees)
 ```
 
-### cos(number) {#cos_function}
+### cos()
 
 Calculates the cosine of a number.
 
@@ -335,7 +335,7 @@ Calculates the cosine of a number.
 select cos(0); -- Returns 1
 ```
 
-### sin(number) {#sin_function}
+### sin()
 
 Calculates the sine of a number.
 
@@ -350,7 +350,7 @@ Calculates the sine of a number.
 select sin(0); -- Returns 0
 ```
 
-### tan(number) {#tan_function}
+### tan()
 
 Calculates the tangent of a number.
 

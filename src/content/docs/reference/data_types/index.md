@@ -7,7 +7,7 @@ sidebar:
 Yolm supports a variety of data types:
 
 | Type                                 | Description                                                  |
-| ------------------------------------ | ------------------------------------------------------------ |
+|--------------------------------------|--------------------------------------------------------------|
 | TinyUint                             | unsigned single byte integer                                 |
 | SmallUint                            | unsigned two byte integer                                    |
 | Uint                                 | unsigned four byte integer                                   |
@@ -29,5 +29,6 @@ Yolm supports a variety of data types:
 | Tx                                   | BigUint id of a transaction that acts like a ForeignKey      |
 | Enum                                 | User defined listing of values                               |
 | Bool                                 | true or false                                                |
+| Json                                 | JSON                                                         |
 
 Custom data types are not supported.

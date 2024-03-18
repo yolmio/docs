@@ -10,15 +10,14 @@ Let's build an actually useful web app with yolm in less than 5 minutes.
 
 ## What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Bun](https://bun.sh)
 
-## Generate a new Yolm app
+## Generate a new Yolm system
 
-Generate a new Yolm app using the **tutorial template**.
+Generate a new Yolm system using the **tutorial template**.
 
 ```bash
-npm init @yolm/boost@latest my-app
+bun init @yolm/boost@latest my-app
 ```
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
@@ -27,31 +26,23 @@ The command also installs all necessary dependencies you need to run Yolm.
 
 Follow the prompts and select the **tutorial** template. It will take about 1-2 minutes to install all dependencies.
 
-## Start your app
+## Start your system
 
 Run the development server:
 
 ```bash
 cd my-app
-npm start
+bun start
 ```
 
 The `cd` command changes the directory you're working with. In order to work with your newly created Yolm app, you'll need to navigate the terminal there.
 
-The `npm start` command builds your app locally and serves it through a development server, ready for you to view at
+The `bun start` command builds your app locally and serves it through a development server, ready for you to view at
 
-You can click around a little bit on the application at localhost:3000
+You can click around a little bit on the application at localhost:3001
 
-Now if you open my-app in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm app:
+Now if you open my-app in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm app.
 
-```
-node_modules/
-data/
-.gitignore
-package.json
-scripts.ts
-app.ts
-```
 
 `node_modules` is to be ignored 99% of the time, it is just where `@yolm/boost` and other dependencies have been downloaded.
 
@@ -128,7 +119,7 @@ ui.pages.push({
 This adds a very simple hello world page. The `content` is a ui text node. We design the ui as a tree, and a text node is as simple as a string, there are many different types of nodes, but this is all you need to know for now. The reason the string has two sets of quotes is because we will treat it like a sql expression, which means you can have any valid sql expression, for example: `case when true then 'ca' || 't' else 'dog' end` can be used.
 
 ```ts
-ui.addDatagridPage({
+ui.pages.datagrid({
   table: "contact",
   toolbar: { add: { type: "dialog" } },
 });

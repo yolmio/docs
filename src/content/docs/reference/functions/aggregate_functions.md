@@ -5,18 +5,18 @@ title: "Aggregate Functions"
 Aggregates are functions that combine multiple rows into a single value. Aggregates are different from scalar functions and window functions because they change the cardinality of the result. As such, aggregates can only be used in the SELECT and HAVING clauses of a SQL query.
 
 
-| Name                               | Description                                   |
-|------------------------------------|-----------------------------------------------|
-| [avg](#avg_function)               | Return the average value of the argument      |
-| [count](#count_function)           | Return a count of the number of rows returned |
-| [min](#min_function)               | Return the minimum value of the argument      |
-| [max](#max_function)               | Return the maximum value of the argument      |
-| [sum](#sum_function)               | Return the sum of the argument                |
-| [bool_and](#bool_and_function)     | Return true if all boolean values are true    |
-| [bool_or](#bool_or_function)       | Return true if any boolean values are true    |
-| [string_agg](#string_agg_function) | Concatenate values into a single string       |
+| Name                      | Description                                   |
+|---------------------------|-----------------------------------------------|
+| [avg](#avg)               | Return the average value of the argument      |
+| [count](#count)           | Return a count of the number of rows returned |
+| [min](#min)               | Return the minimum value of the argument      |
+| [max](#max)               | Return the maximum value of the argument      |
+| [sum](#sum)               | Return the sum of the argument                |
+| [bool_and](#bool_and)     | Return true if all boolean values are true    |
+| [bool_or](#bool_or)       | Return true if any boolean values are true    |
+| [string_agg](#string_agg) | Concatenate values into a single string       |
 
-### avg(expr) {#avg_function}
+### avg()
 
 Returns the average value of `expr`.
 
@@ -33,7 +33,7 @@ If there are no matching rows, `AVG()` returns NULL. The function also returns N
 SELECT avg(item_count) FROM detail;
 ```
 
-### count(expr) {#count_function}
+### count()
 
 Returns a count of the number of non-NULL values of `expr` in the rows retrieved by a SELECT statement.
 
@@ -51,7 +51,7 @@ SELECT count(*) FROM t;
 SELECT count(some_nullable_field) FROM t;
 ```
 
-### min(expr) {#min_function}
+### min()
 
 Returns the minimum value of `expr`.
 
@@ -68,7 +68,7 @@ If there are no matching rows, `MIN()` returns NULL.
 SELECT min(salary) FROM employees;
 ```
 
-### max(expr) {#max_function}
+### max()
 
 Returns the maximum value of `expr`.
 
@@ -85,7 +85,7 @@ If there are no matching rows, `MAX()` returns NULL.
 SELECT max(score) FROM exam_results;
 ```
 
-### sum(expr) {#sum_function}
+### sum()
 
 Returns the sum of all values of `expr`.
 
@@ -102,7 +102,7 @@ If there are no matching rows, `SUM()` returns NULL.
 SELECT sum(total_sales) FROM sales;
 ```
 
-### bool_and(expr) {#bool_and_function}
+### bool_and()
 
 Returns true if all boolean values in `expr` are true, otherwise returns false.
 
@@ -119,7 +119,7 @@ If there are no matching rows, `BOOL_AND()` returns NULL.
 SELECT bool_and(is_approved) FROM loan_applications;
 ```
 
-### bool_or(expr) {#bool_or_function}
+### bool_or()
 
 Returns true if any boolean values in `expr` are true, otherwise returns false.
 
@@ -136,7 +136,7 @@ If there are no matching rows, `BOOL_OR()` returns NULL.
 SELECT bool_or(is_active) FROM user_accounts;
 ```
 
-### string_agg(expr, delimiter) {#string_agg_function}
+### string_agg()
 
 Concatenates values into a single string, using the specified delimiter.
 
