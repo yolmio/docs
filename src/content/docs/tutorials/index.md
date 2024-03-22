@@ -11,10 +11,10 @@ First make sure you have [Bun](https://bun.sh) installed.
 Generate a new Yolm system using the **tutorial template** by typing the follwing command in your terminal.
 
 ```bash
-bun init @yolm/boost@latest my-system
+curl https://raw.githubusercontent.com/yolmio/boost/main/src/create.ts | bun -
 ```
 
-The command also installs all necessary dependencies you need to run Yolm.
+The command also installs what you need to run Yolm locally.
 
 Follow the prompts and select the **tutorial** template. It will take about 1 minute to install all dependencies.
 
@@ -42,7 +42,7 @@ There are two important files for now `system.ts` and `scripts.ts`.
 In `system.ts` add this line to the contact table:
 
 ```ts
-  table.date("date_of_birth");
+table.date("date_of_birth");
 ```
 
 Now in the browser you will have a date of birth field in the datagrid as well as in the insert form and update form.
