@@ -28,7 +28,6 @@ Follow the prompts and select the **tutorial** template. It will take about 1 mi
 Run the development server:
 
 ```bash
-cd my-system
 bun start
 ```
 
@@ -36,7 +35,7 @@ The `bun start` command builds your app locally and serves it through a developm
 
 You can click around a little bit on the application at http://localhost:3001
 
-Now if you open `my-system` in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm app.
+Now if you open `tutorial` in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm app.
 
 There are two important files for now `system.ts` and `scripts.ts`.
 
