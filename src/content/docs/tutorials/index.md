@@ -16,7 +16,7 @@ cd tutorial
 Generate a new Yolm system using the **tutorial template** by typing the follwing command in your terminal in the created directory.
 
 ```bash
-curl https://raw.githubusercontent.com/yolmio/boost/main/src/create.ts | bun -
+curl https://raw.githubusercontent.com/yolmio/boost/main/src/init.ts | bun -
 ```
 
 The command also installs what you need to run Yolm locally.
