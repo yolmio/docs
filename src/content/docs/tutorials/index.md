@@ -6,9 +6,14 @@ sidebar:
 
 Let's build a useful web app with yolm in less than 5 minutes.
 
-First make sure you have [Bun](https://bun.sh) installed.
+First make sure you have [Bun](https://bun.sh) installed and that you created an empty directory, e.g.
 
-Generate a new Yolm system using the **tutorial template** by typing the follwing command in your terminal.
+```bash
+mkdir tutorial
+cd tutorial
+```
+
+Generate a new Yolm system using the **tutorial template** by typing the follwing command in your terminal in the created directory.
 
 ```bash
 curl https://raw.githubusercontent.com/yolmio/boost/main/src/create.ts | bun -
