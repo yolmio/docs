@@ -16,13 +16,14 @@ cd tutorial
 Generate a new Yolm system using the **tutorial template** by typing the follwing command in your terminal in the created directory.
 
 ```bash
-curl -s https://raw.githubusercontent.com/yolmio/boost/main/src/init.ts | bun -
+curl -s https://raw.githubusercontent.com/yolmio/boost/main/init.ts | bun -
 ```
 
 For Powershell use this:
 
 ```powershell
-(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yolmio/boost/main/src/init.ts").Content | bun -
+(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yolmio/boost/main/init.ps1").Content | Invoke-Expression
+
 ```
 
 The command also installs what you need to run Yolm locally.
