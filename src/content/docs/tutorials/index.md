@@ -19,6 +19,12 @@ Generate a new Yolm system using the **tutorial template** by typing the follwin
 curl -s https://raw.githubusercontent.com/yolmio/boost/main/src/init.ts | bun -
 ```
 
+For Powershell use this:
+
+```powershell
+(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yolmio/boost/main/src/init.ts").Content | bun -
+```
+
 The command also installs what you need to run Yolm locally.
 
 Follow the prompts and select the **tutorial** template. It will take about 1 minute to install all dependencies.
