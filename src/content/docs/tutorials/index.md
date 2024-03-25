@@ -6,7 +6,22 @@ sidebar:
 
 Let's build a useful web app with yolm in less than 5 minutes.
 
-First make sure you have [Bun](https://bun.sh) installed and that you created an empty directory, e.g.
+First make sure you have [Bun](https://bun.sh) installed. If Bun is not installed, you can install it with
+
+```bash
+curl -fsSL https://bun.sh/install.sh | bash
+```
+
+or if on Windows, in Powershell with
+
+```powershell
+irm bun.sh/install.ps1|iex
+```
+
+# or if you want specific version
+curl -fsSL https://bun.sh/install.sh | bash -s "bun-v1.0.0"
+
+and that you created an empty directory, e.g.
 
 ```bash
 mkdir tutorial
@@ -19,7 +34,7 @@ Generate a new Yolm system using the **tutorial template** by typing the follwin
 curl -s https://raw.githubusercontent.com/yolmio/boost/main/init.ts | bun -
 ```
 
-For Powershell use this:
+On Windows, open Powershell and use this:
 
 ```powershell
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yolmio/boost/main/init.ps1").Content | Invoke-Expression
@@ -28,7 +43,7 @@ For Powershell use this:
 
 The command also installs what you need to run Yolm locally.
 
-Follow the prompts and select the **tutorial** template. It will take about 1 minute to install all dependencies.
+Follow the prompts and select the **tutorial** template. It will take less than a minute to install all dependencies.
 
 ### Start your system
 
