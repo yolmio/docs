@@ -1,0 +1,163 @@
+---
+title: "Tutorial - Simple System"
+sidebar:
+  order: 1
+---
+import OsTabs from '../../../components/OsTabs.astro'
+
+Let's build a useful web app with yolm in 10 minutes.
+
+First make sure you have [Bun](https://bun.sh) installed. If Bun is not installed, you can install it with
+
+<OsTabs>
+  <Fragment slot="normal">
+  ```bash
+  curl -fsSL https://bun.sh/install.sh | bash
+  ```
+  </Fragment>
+  <Fragment slot="windows">
+  ```powershell
+  irm bun.sh/install.ps1|iex
+  ```
+  </Fragment>
+</OsTabs>
+
+Next make an empty directory and cd into it
+
+```bash
+mkdir tutorial
+cd tutorial
+```
+
+Initialize a new Yolm system using by typing the following command in your terminal in the created directory.
+
+<OsTabs>
+  <Fragment slot="normal">
+  ```bash
+  curl -s https://raw.githubusercontent.com/yolmio/boost/main/init.ts | bun -
+  ```
+  </Fragment>
+  <Fragment slot="windows">
+  ```powershell
+  (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yolmio/boost/main/init.ps1").Content | Invoke-Expression
+  ```
+  </Fragment>
+</OsTabs>
+
+The command also installs what you need to run Yolm locally.
+
+Follow the prompts and select the **tutorial** template. It will take less than a minute to install all dependencies.
+
+### Start your system
+
+Run the development server:
+
+```bash
+bun start
+```
+
+The `bun start` command builds your system locally and serves the applications, api and database through the integrated development server.
+
+You can click around the application at http://localhost:3001
+
+Now if you open `tutorial` in your favorite editor (we recommend Visual Studio Code), you'll see the file structure of a yolm system.
+
+There are two important files for now `system.ts` and `scripts.ts`.
+
+`system.ts` defines everything for the system, the database, the apps, the api, etc.
+
+`scripts.ts` defines any scripts, so you can initialize the database, add users to apps, export to csv, etc.
+
+There is a key difference to Yolm and just about every other method of development.
+
+The code in `system.ts` and `scripts.ts` is only run at development time. The output of this file is JSON which Yolm will compile and run for the dev server, testing, deployment, etc. This is a new method of development, it means you can do anything in the `system.ts` (read files, make network requests, inefficient algorithms, massive dependencies) and it won't affect runtime performance.
+
+To see the generated JSON file you can run `bun run save` and it will write a `system.json`. 
+
+Because of this the `system.ts` is really just a script that populates an object model. The object model is created via the `system` singleton in boost.
+
+```ts
+import { system } from "@yolm/boost"
+```
+
+The `system` singleton has many methods and utilities that make defining everything you need for a system as easy as possible. We've done our best to make this as friendly to IDEs as possible, if you do `system.` in your editor it will list many methods and properties to show you what you can do, if your IDE also presents inline documentation, you can read the docs for that method in your IDE.
+
+The central point of any system is its database, this is defined with methods on the `db` singleton.
+
+```ts
+const { db } = system;
+
+db.table("contact", (table) => {
+  table.string("first_name", 50).notNull();
+  table.string("last_name", 50).notNull();
+  table.email("email").notNull();
+  table.catalog.addressFields(); // adds address, state, zip, country fields
+  table.linkable(); // Metadata to help build uis automatically
+});
+```
+
+A system can have any number of apps, an app is a web app that is only accessible for authorized users, in the tutorial it is defined with this line:
+
+```ts
+const app = system.apps.add("crm", "My CRM");
+```
+
+Because the `system` has ALL of the information for your system, it also means that any function or method has complete knowledge of the system. For example in this part of the app:
+
+```ts
+app.pages.datagrid("contact", (page) => {
+  page
+    .viewButton()
+    .selectable()
+    .toolbar((toolbar) => toolbar.insertDialog().delete());
+});
+```
+
+The `app.pages.datagrid` method adds a page at `/contacts` with a complete editable datagrid. The key part here is that the method knows the fields of the table and any other metadata put on the table. As a result it can generate all columns (without you specifying it again) of the datagrid.
+
+To see this, in `system.ts` add this line to the contact table:
+
+```ts
+table.date("date_of_birth");
+```
+
+When you save the file, you can see in the browser that the app will have a date of birth field in the datagrid as well as in the insert form and update form.
+
+You can write your own functions that use the information in the system. All these methods and functions are open source.
+
+### Deploy your system
+
+While we are still in private beta, you can't do this without contacting us. If you want to deploy dm us on [twitter](https://twitter.com/yolm_io) or discord [discord](https://discord.gg/qQt5yF83).
+
+All you need to do is `bun run deploy` if you have not created an account it will ask you to create one and then will deploy your system.
+
+It will deploy all web apps, api, database, etc. After successfuly deploying, it will run the script `init-db` if this is the first deploy.
+
+You can see the `init-db` script for the tutorial in `scripts.ts`.
+
+```ts
+const YOUR_EMAIL = `test@yolm.io`;
+
+system.script("init-db", (s) =>
+  s
+    .addUser({
+      app: "crm",
+      email: `'${YOUR_EMAIL}'`,
+    })
+    .startTransaction("db")
+    .modify(
+      `insert into db.user (global_id, email) values
+      ((select global_id from added_user), '${YOUR_EMAIL}')`,
+    )
+    .commitTransaction("db")
+    .uploadDb(),
+);
+```
+
+This adds a user with the provided email to now have access to the app and it uploads a database with a single transaction that inserts the user into the database.
+
+The deploy will write a `mapping.json`, make sure you check this into version control. This essentially keeps track of the ids of various parts of the system and allows seamless backwards compatible deployments and more.
+
+In Yolm we have thought about the whole stack, the database itself is integrated and we have standardized ways to migrate, backup, and otherwise manage the database. These changes are all done integrated with system changes to apps, apis, etc.
+
+For a more in depth understanding of deployments, see here (TODO)

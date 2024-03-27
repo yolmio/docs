@@ -1,0 +1,13 @@
+---
+import Tabs from "./Tabs.astro";
+import { TabItem } from "@astrojs/starlight/components";
+---
+
+<Tabs group="os">
+  <TabItem label="Linux/Mac">
+    <slot name="normal" />
+  </TabItem>
+  <TabItem label="Windows">
+    <slot name="windows" />
+  </TabItem>
+</Tabs>

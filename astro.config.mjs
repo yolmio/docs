@@ -33,6 +33,7 @@ export default defineConfig({
               label: "Functions",
               autogenerate: { directory: "reference/functions" },
             },
+            { label: "System Ui Tables", link: "reference/ui_table" },
           ],
         },
         {

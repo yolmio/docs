@@ -41,3 +41,6 @@ This is an immutable record with a few fields, which indicate some system runtim
 - `can_download` (Boolean): If this user can download, derived from app config and user app permission
 - `prefer_download` (Boolean): If this user prefer download, derived from app config and user app permission
 
+### `global_refresh_key`
+
+Scalar that is essentially a standarized way to seamlessly refresh the page. Add this to a state node's watch and it will rerun whenever this is incremented. You can specify if this in incremented on window focus on the yom.
