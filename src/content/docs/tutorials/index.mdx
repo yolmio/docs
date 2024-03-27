@@ -127,7 +127,7 @@ You can write your own functions that use the information in the system. All the
 
 ### Deploy your system
 
-While we are still in private beta, you can't do this without contacting us. If you want to deploy dm us on [twitter](https://twitter.com/yolm_io) or discord [discord](https://discord.gg/qQt5yF83).
+While we are still in private beta, you can't do this without contacting us. If you want to deploy dm us on [twitter](https://twitter.com/yolm_io) or [discord](https://discord.gg/qQt5yF83).
 
 All you need to do is `bun run deploy` if you have not created an account it will ask you to create one and then will deploy your system.
 
@@ -136,7 +136,7 @@ It will deploy all web apps, api, database, etc. After successfuly deploying, it
 You can see the `init-db` script for the tutorial in `scripts.ts`.
 
 ```ts
-const YOUR_EMAIL = `test@yolm.io`;
+const YOUR_EMAIL = `your@email.com`; // CHANGE THIS TO YOUR EMAIL
 
 system.script("init-db", (s) =>
   s
@@ -156,8 +156,8 @@ system.script("init-db", (s) =>
 
 This adds a user with the provided email to now have access to the app and it uploads a database with a single transaction that inserts the user into the database.
 
-The deploy will write a `mapping.json`, make sure you check this into version control. This essentially keeps track of the ids of various parts of the system and allows seamless backwards compatible deployments and more.
+The deploy will write a `mapping.json`, make sure you check this into version control. This keeps track of the ids of various parts of the system and allows seamless backwards compatible deployments and more.
 
-In Yolm we have thought about the whole stack, the database itself is integrated and we have standardized ways to migrate, backup, and otherwise manage the database. These changes are all done integrated with system changes to apps, apis, etc.
+In Yolm we have thought about the whole stack, the database itself is integrated and we have standardized ways to migrate, backup, and otherwise manage the database. These changes are all integrated with system changes to apps, apis, etc.
 
 For a more in depth understanding of deployments, see here (TODO)
